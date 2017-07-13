@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
-      <e>
+<?xml version="1.0" encoding="UTF-8"?> <r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
+<e>
    <lg>
      <l pos="Adv">илядень зарят</l>
      <stg>
        <st Contlex="ADV_">илядень зарят</st>
-     </stg>
-   <phonet>iľäďəń zaŕat</phonet>
+     </stg> <phonet>iľäďəń zaŕat</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -19,13 +13,12 @@
      </tg>
    </mg>
 </e>
-      <e>
+<e>
    <lg>
      <l pos="Adv">илядень зарят</l>
      <stg>
        <st Contlex="ADV_">илядень зарят</st>
-     </stg>
-   <phonet>iľäďəń zaŕat</phonet>
+     </stg> <phonet>iľäďəń zaŕat</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -33,14 +26,12 @@
      </tg>
    </mg>
 </e>
-
-      <e>
+<e>
    <lg>
      <l pos="Adv">кундань кятть</l>
      <stg>
        <st Contlex="ADV_">кундань кятть</st>
-     </stg>
-   <phonet>kundań käťť</phonet>
+     </stg> <phonet>kundań käťť</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -48,14 +39,12 @@
      </tg>
    </mg>
 </e>
-
-      <e>
+<e>
    <lg>
      <l pos="Adv">сусконь пейхть</l>
      <stg>
        <st Contlex="ADV_">сусконь пейхть</st>
-     </stg>
-   <phonet>suskəń pejxť</phonet>
+     </stg> <phonet>suskəń pejxť</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -63,35 +52,30 @@
      </tg>
    </mg>
 </e>
-
-      <e>
+<e>
    <lg>
      <l pos="Adv">потань пилькт</l>
      <stg>
        <st Contlex="ADV_">потань пилькт</st>
-     </stg>
-   <phonet>potań piľkt</phonet>
+     </stg> <phonet>potań piľkt</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
        <t pos="Adv">takaperin</t>
      </tg>
      <xg>
-       <x>потань пилькт моли</x>
-       <phonet>potań piľkt moľi</phonet>
+       <x>потань пилькт моли</x> <phonet>potań piľkt moľi</phonet>
        <xt xml:lang="fin">peruuttaa</xt>
        <xt xml:lang="fin">kulkee takaperin</xt>
      </xg>
    </mg>
 </e>
-
-      <e>
+<e>
    <lg>
      <l pos="Adv">нолдань прят</l>
      <stg>
        <st Contlex="ADV_">нолдань прят</st>
-     </stg>
-   <phonet>noldań pŕat</phonet>
+     </stg> <phonet>noldań pŕat</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -99,14 +83,12 @@
      </tg>
    </mg>
 </e>
-
-      <e>
+<e>
    <lg>
      <l pos="Adv">пиженянь прят</l>
      <stg>
        <st Contlex="ADV_">пиженянь прят</st>
-     </stg>
-   <phonet>pižəńäń pŕat</phonet>
+     </stg> <phonet>pižəńäń pŕat</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -115,14 +97,12 @@
      </tg>
    </mg>
 </e>
-
-      <e>
+<e>
    <lg>
      <l pos="Adv">штада прят</l>
      <stg>
        <st Contlex="ADV_">штада прят</st>
-     </stg>
-   <phonet>štadə pŕat</phonet>
+     </stg> <phonet>štadə pŕat</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -130,14 +110,12 @@
      </tg>
    </mg>
 </e>
-
-      <e>
+<e>
    <lg>
      <l pos="Adv">кенярдень седихть</l>
      <stg>
        <st Contlex="ADV_">кенярдень седихть</st>
-     </stg>
-   <phonet>keńäŕďəń śeďixť</phonet>
+     </stg> <phonet>keńäŕďəń śeďixť</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -146,14 +124,12 @@
      </tg>
    </mg>
 </e>
-
-      <e>
+<e>
    <lg>
      <l pos="Adv">конень сельмот</l>
      <stg>
        <st Contlex="ADV_">конень сельмот</st>
-     </stg>
-   <phonet>końəń śeľmət</phonet>
+     </stg> <phonet>końəń śeľmət</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -162,14 +138,12 @@
      </tg>
    </mg>
 </e>
-
-      <e>
+<e>
    <lg>
      <l pos="Adv">стядонь пилет</l>
      <stg>
        <st Contlex="ADV_">стядонь пилет</st>
-     </stg>
-   <phonet>śťadəń piľət</phonet>
+     </stg> <phonet>śťadəń piľət</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -177,14 +151,12 @@
      </tg>
    </mg>
 </e>
-
-      <e>
+<e>
    <lg>
      <l pos="Adv">стядонь сельмот</l>
      <stg>
        <st Contlex="ADV_">стядонь сельмот</st>
-     </stg>
-   <phonet>śťadəń śeľmət</phonet>
+     </stg> <phonet>śťadəń śeľmət</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -192,14 +164,12 @@
      </tg>
    </mg>
 </e>
-
-      <e>
+<e>
    <lg>
      <l pos="Adv">стядонь тутмат</l>
      <stg>
        <st Contlex="ADV_">стядонь тутмат</st>
-     </stg>
-   <phonet>śťadəń tutmat</phonet>
+     </stg> <phonet>śťadəń tutmat</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -207,13 +177,12 @@
      </tg>
    </mg>
 </e>
-      <e>
+<e>
    <lg>
      <l pos="Adv">штадонь кятть</l>
      <stg>
        <st Contlex="ADV_">штадонь кятть</st>
-     </stg>
-   <phonet>štadəń käťť</phonet>
+     </stg> <phonet>štadəń käťť</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -221,14 +190,12 @@
      </tg>
    </mg>
 </e>
-
-      <e>
+<e>
    <lg>
      <l pos="Adv">штадонь прят</l>
      <stg>
        <st Contlex="ADV_">штадонь прят</st>
-     </stg>
-   <phonet>štadəń pŕat</phonet>
+     </stg> <phonet>štadəń pŕat</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -236,13 +203,12 @@
      </tg>
    </mg>
 </e>
-      <e>
+<e>
    <lg>
      <l pos="Adv">шава кятть</l>
      <stg>
        <st Contlex="ADV_">шава кятть</st>
-     </stg>
-   <phonet>šavə käťť</phonet>
+     </stg> <phonet>šavə käťť</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -250,14 +216,12 @@
      </tg>
    </mg>
 </e>
-
-      <e>
+<e>
    <lg>
      <l pos="Adv">штада кятть</l>
      <stg>
        <st Contlex="ADV_">штада кятть</st>
-     </stg>
-   <phonet>štadə käťť</phonet>
+     </stg> <phonet>štadə käťť</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -265,6 +229,4 @@
      </tg>
    </mg>
 </e>
-
-
-</r>
+</r> 

@@ -715,7 +715,8 @@
      <tg xml:lang="fin">
        <t>viidellä säikeellä</t>
      </tg>
-     <xg> <x>ветензазь понамс</x> <phonet>veťənʒaź ponams</phonet>
+     <xg>
+       <x>ветензазь понамс</x> <phonet>veťənʒaź ponams</phonet>
        <xt xml:lang="fin">punoa viidellä säikeellä.</xt>
      </xg>
    </mg>

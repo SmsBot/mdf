@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema"
-   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
-      <e exclude="fst">
+<?xml version="1.0" encoding="UTF-8"?> <r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
+<e exclude="fst">
    <lg>
      <l pos="N">акша куд</l>
      <stg>
        <st Contlex="N_">акша куд</st>
-     </stg>
-   <phonet>akša kud</phonet>
+     </stg> <phonet>akša kud</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -23,13 +17,12 @@
      </tg>
    </mg>
 </e>
-      <e exclude="fst">
+<e exclude="fst">
    <lg>
      <l pos="N">акша келе</l>
      <stg>
        <st Contlex="N_">акша келе</st>
-     </stg>
-   <phonet>akša keľä</phonet>
+     </stg> <phonet>akša keľä</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -42,13 +35,12 @@
      </tg>
    </mg>
 </e>
-      <e exclude="fst">
+<e exclude="fst">
    <lg>
      <l pos="N">аляфтома-тядяфтома идь</l>
      <stg>
        <st Contlex="N_">аляфтома-тядяфтома идь</st>
-     </stg>
-   <phonet>aľaftəmə-ďäďaftəm(ə) iď</phonet>
+     </stg> <phonet>aľaftəmə-ďäďaftəm(ə) iď</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -56,13 +48,12 @@
      </tg>
    </mg>
 </e>
-      <e exclude="fst">
+<e exclude="fst">
    <lg>
      <l pos="N">апрель ков</l>
      <stg>
        <st Contlex="N_">апрель ков</st>
-     </stg>
-   <phonet>apŕeľ kov</phonet>
+     </stg> <phonet>apŕeľ kov</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -70,13 +61,12 @@
      </tg>
    </mg>
 </e>
-      <e exclude="fst">
+<e exclude="fst">
    <lg>
      <l pos="N">прянь аралама</l>
      <stg>
        <st Contlex="N_">прянь аралама</st>
-     </stg>
-   <phonet>pŕäń aralama</phonet>
+     </stg> <phonet>pŕäń aralama</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -85,13 +75,12 @@
      </tg>
    </mg>
 </e>
-      <e exclude="fst">
+<e exclude="fst">
    <lg>
      <l pos="N">илиень байдек</l>
      <stg>
        <st Contlex="N_">илиень байдек</st>
-     </stg>
-   <phonet>iľijəń bajďək</phonet>
+     </stg> <phonet>iľijəń bajďək</phonet>
    </lg>
    <mg>
      <tg xml:lang="fin">
@@ -104,5 +93,4 @@
      </tg>
    </mg>
 </e>
-
-</r>
+</r> 

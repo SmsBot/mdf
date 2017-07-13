@@ -396,7 +396,8 @@
        <t pos="V">paneutua</t>
        <t pos="V">perehtyä</t>
      </tg>
-     <xg> <x>сон прокс ванондсыне-кочксесыне сембе васттнень</x> <phonet>son proks vanəncińə-kočkśəsińə śembə vastťńəń</phonet>
+     <xg>
+       <x>сон прокс ванондсыне-кочксесыне сембе васттнень</x> <phonet>son proks vanəncińə-kočkśəsińə śembə vastťńəń</phonet>
        <xt xml:lang="fin">hän perehtyy aina kaikkiin yksityiskohtiin.</xt>
      </xg>
    </mg>
@@ -588,7 +589,8 @@
        <t pos="V">rymistä</t>
        <t pos="V">rämistä</t>
      </tg>
-     <xg> <x>гулдоргодсь-галдоргодсь</x> <phonet>guldərgəć-galdərgəć</phonet>
+     <xg>
+       <x>гулдоргодсь-галдоргодсь</x> <phonet>guldərgəć-galdərgəć</phonet>
        <xt xml:lang="fin">rymisi, rämisi</xt>
      </xg>
    </mg>
@@ -4409,7 +4411,8 @@
      <tg xml:lang="fin">
        <t pos="V">tuhoutua</t>
      </tg>
-     <xg> <x>зря юмай-арай</x> <phonet>ź(ə)ŕä jumaj-araj</phonet>
+     <xg>
+       <x>зря юмай-арай</x> <phonet>ź(ə)ŕä jumaj-araj</phonet>
        <xt xml:lang="fin">menee hukkaan.</xt>
      </xg>
    </mg>

@@ -11,7 +11,8 @@
      <tg xml:lang="fin">
        <t pos="Interj">ahaa!</t>
      </tg>
-     <xg> <x>а! шарьхкодеви!</x> <phonet>a, šaŕxkəďəvi</phonet>
+     <xg>
+       <x>а! шарьхкодеви!</x> <phonet>a, šaŕxkəďəvi</phonet>
        <xt xml:lang="fin">ahaa, nyt ymmärrän!</xt>
      </xg>
    </mg>
@@ -28,7 +29,8 @@
      <tg xml:lang="fin">
        <t pos="Interj">tule!</t>
      </tg>
-     <xg> <x>аде мархтонк!</x> <phonet>aďä marxtən(ə)k</phonet>
+     <xg>
+       <x>аде мархтонк!</x> <phonet>aďä marxtən(ə)k</phonet>
        <xt xml:lang="fin">tule mukaamme!</xt>
      </xg>
    </mg>
@@ -47,7 +49,8 @@
        <t pos="Interj">ai!</t>
        <t pos="Interj">voi!</t>
      </tg>
-     <xg> <x>ох ай!</x> <phonet>ox aj</phonet>
+     <xg>
+       <x>ох ай!</x> <phonet>ox aj</phonet>
        <xt xml:lang="fin">oi voi!</xt>
      </xg>
    </mg>
@@ -187,7 +190,8 @@
        <t pos="Interj">voi</t>
        <t pos="Interj">oi</t>
      </tg>
-     <xg> <x>вай ни</x> <phonet>vaj ńi</phonet>
+     <xg>
+       <x>вай ни</x> <phonet>vaj ńi</phonet>
        <xt xml:lang="fin">miksipä ei, miksei.</xt>
      </xg>
    </mg>
@@ -366,7 +370,8 @@
        <t pos="Interj">ja</t>
        <t pos="Interj">myös</t>
      </tg>
-     <xg> <x>и мянь</x> <phonet>i mäń</phonet>
+     <xg>
+       <x>и мянь</x> <phonet>i mäń</phonet>
        <xt xml:lang="fin">suorastaan.</xt>
      </xg>
    </mg>
@@ -385,10 +390,12 @@
        <t pos="Interj">kunpa</t>
        <t pos="Interj">kunhan</t>
      </tg>
-     <xg> <x>каба аф илядомс</x> <phonet>kab(a) af iľadəms</phonet>
+     <xg>
+       <x>каба аф илядомс</x> <phonet>kab(a) af iľadəms</phonet>
        <xt xml:lang="fin">kunhan ei jää jälkeen.</xt>
      </xg>
-     <xg> <x>мон пелян, каба афолине познанда</x> <phonet>mon peľan kab(a) afəľińə poznanda</phonet>
+     <xg>
+       <x>мон пелян, каба афолине познанда</x> <phonet>mon peľan kab(a) afəľińə poznanda</phonet>
        <xt xml:lang="fin">kunhan en myöhästyisi.</xt>
      </xg>
    </mg>
@@ -500,10 +507,12 @@
        <t pos="Interj">siispä</t>
        <t pos="Interj">kylläpä</t>
      </tg>
-     <xg> <x>ну и сизень!</x> <phonet>nu i śiźəń</phonet>
+     <xg>
+       <x>ну и сизень!</x> <phonet>nu i śiźəń</phonet>
        <xt xml:lang="fin">kylläpä väsyttää!</xt>
      </xg>
-     <xg> <x>ну, куроконе!</x> <phonet>nu kurəkəńä</phonet>
+     <xg>
+       <x>ну, куроконе!</x> <phonet>nu kurəkəńä</phonet>
        <xt xml:lang="fin">pian nyt!</xt>
      </xg>
    </mg>
@@ -549,7 +558,8 @@
      <tg xml:lang="fin">
        <t pos="Interj">oi!</t>
      </tg>
-     <xg> <x>ох-ай!</x> <phonet>ox-aj</phonet>
+     <xg>
+       <x>ох-ай!</x> <phonet>ox-aj</phonet>
        <xt xml:lang="fin">oivoi!</xt>
      </xg>
    </mg>
@@ -582,10 +592,12 @@
        <t pos="Interj">anna olla!</t>
        <t pos="Interj">lopeta jo!</t>
      </tg>
-     <xg> <x>пандя ни!</x> <phonet>pańďä ńi</phonet>
+     <xg>
+       <x>пандя ни!</x> <phonet>pańďä ńi</phonet>
        <xt xml:lang="fin">anna olla jo!</xt>
      </xg>
-     <xg> <x>пандя учсеть!</x> <phonet>pańďä učśəť</phonet>
+     <xg>
+       <x>пандя учсеть!</x> <phonet>pańďä učśəť</phonet>
        <xt xml:lang="fin">älä enää odota!</xt>
      </xg>
    </mg>
@@ -1077,10 +1089,12 @@
        <t pos="Interj">-pa</t>
        <t pos="Interj">-han</t>
      </tg>
-     <xg> <x>эрь ни!</x> <phonet>äŕ ńi</phonet>
+     <xg>
+       <x>эрь ни!</x> <phonet>äŕ ńi</phonet>
        <xt xml:lang="fin">sillä lailla!</xt>
      </xg>
-     <xg> <x>эрь, сёрматт сёрма</x> <phonet>äŕ śormatt śorma</phonet>
+     <xg>
+       <x>эрь, сёрматт сёрма</x> <phonet>äŕ śormatt śorma</phonet>
        <xt xml:lang="fin">otapa ja kirjoita kirje.</xt>
      </xg>
    </mg>
@@ -1129,7 +1143,8 @@
      <tg xml:lang="fin">
        <t pos="Interj">hus!</t>
      </tg>
-     <xg> <x>юркшт комоти</x> <phonet>jurkšt koməťi</phonet>
+     <xg>
+       <x>юркшт комоти</x> <phonet>jurkšt koməťi</phonet>
        <xt xml:lang="fin">hypähtää äkisti.</xt>
      </xg>
    </mg>
@@ -1209,7 +1224,8 @@
        <t pos="Interj">kas</t>
        <t pos="Interj">kas tässä</t>
      </tg>
-     <xg> <x>вага вдь</x> <phonet>vagə vəď</phonet>
+     <xg>
+       <x>вага вдь</x> <phonet>vagə vəď</phonet>
        <xt xml:lang="fin">kylläpä</xt>
      </xg>
    </mg>
@@ -1244,13 +1260,16 @@
        <t pos="Interj">kappas</t>
        <t pos="Interj">katsos</t>
      </tg>
-     <xg> <x>вов вдь</x> <phonet>vov vəď</phonet>
+     <xg>
+       <x>вов вдь</x> <phonet>vov vəď</phonet>
        <xt xml:lang="fin">kylläpä.</xt>
      </xg>
-     <xg> <x>вов ни эста</x> <phonet>vov ńi esta</phonet>
+     <xg>
+       <x>вов ни эста</x> <phonet>vov ńi esta</phonet>
        <xt xml:lang="fin">kas silloinpa.</xt>
      </xg>
-     <xg> <x>вов сась кизось</x> <phonet>vov saś kizəś</phonet>
+     <xg>
+       <x>вов сась кизось</x> <phonet>vov saś kizəś</phonet>
        <xt xml:lang="fin">niin tuli kesä.</xt>
      </xg>
    </mg>
@@ -1321,7 +1340,8 @@
      <tg xml:lang="fin">
        <t pos="Interj">no</t>
      </tg>
-     <xg> <x>на, сявк марьть</x> <phonet>na, śävk maŕť</phonet>
+     <xg>
+       <x>на, сявк марьть</x> <phonet>na, śävk maŕť</phonet>
        <xt xml:lang="fin">no, otahan omenaa.</xt>
      </xg>
    </mg>
@@ -1353,10 +1373,12 @@
        <t pos="Interj">siispä</t>
        <t pos="Interj">kylläpä</t>
      </tg>
-     <xg> <x>ну и сизень!</x> <phonet>nu i śiźəń</phonet>
+     <xg>
+       <x>ну и сизень!</x> <phonet>nu i śiźəń</phonet>
        <xt xml:lang="fin">kylläpä väsyttää!</xt>
      </xg>
-     <xg> <x>ну, куроконе!</x> <phonet>nu kurəkəńä</phonet>
+     <xg>
+       <x>ну, куроконе!</x> <phonet>nu kurəkəńä</phonet>
        <xt xml:lang="fin">pian nyt!</xt>
      </xg>
    </mg>

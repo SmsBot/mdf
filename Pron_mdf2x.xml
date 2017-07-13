@@ -55,7 +55,8 @@
      <tg xml:lang="fin">
        <t pos="Pron">kaikenlainen</t>
      </tg>
-     <xg> <x>всякайкс</x> <phonet>fśakajks</phonet>
+     <xg>
+       <x>всякайкс</x> <phonet>fśakajks</phonet>
        <xt xml:lang="fin">kaikella tavalla.</xt>
      </xg>
    </mg>
@@ -191,10 +192,12 @@
      <tg xml:lang="fin">
        <t pos="Pron">joku; kukaan</t>
      </tg>
-     <xg> <x>кивок аф</x> <phonet>kivək af</phonet>
+     <xg>
+       <x>кивок аф</x> <phonet>kivək af</phonet>
        <xt xml:lang="fin">ei kukaan.</xt>
      </xg>
-     <xg> <x>кивок аш</x> <phonet>kivək aš</phonet>
+     <xg>
+       <x>кивок аш</x> <phonet>kivək aš</phonet>
        <xt xml:lang="fin">ei (ole) ketään.</xt>
      </xg>
    </mg>
@@ -242,28 +245,36 @@
      <tg xml:lang="fra">
        <t pos="Pron">qui</t>
      </tg>
-     <xg> <x>кие-кие</x> <phonet>kijə-kijä</phonet>
+     <xg>
+       <x>кие-кие</x> <phonet>kijə-kijä</phonet>
        <xt xml:lang="fin">joku.</xt>
      </xg>
-     <xg> <x>кой-кие</x> <phonet>koj-kijä</phonet>
+     <xg>
+       <x>кой-кие</x> <phonet>koj-kijä</phonet>
        <xt xml:lang="fin">joku, jokunen; muutama (ihminen)</xt>
      </xg>
-     <xg> <x>кие-повсь</x> <phonet>kijə-povś, ki-povś</phonet>
+     <xg>
+       <x>кие-повсь</x> <phonet>kijə-povś, ki-povś</phonet>
        <xt xml:lang="fin">kuka tahansa.</xt>
      </xg>
-     <xg> <x>кие-бди</x> <phonet>kijə-bəďi</phonet>
+     <xg>
+       <x>кие-бди</x> <phonet>kijə-bəďi</phonet>
        <xt xml:lang="fin">kuka tahansa, joku.</xt>
      </xg>
-     <xg> <x>кинди</x> <phonet>kińďi</phonet>
+     <xg>
+       <x>кинди</x> <phonet>kińďi</phonet>
        <xt xml:lang="fin">kenelle.</xt>
      </xg>
-     <xg> <x>кинди максыть сёрмать?</x> <phonet>kińďi maksiť śormať</phonet>
+     <xg>
+       <x>кинди максыть сёрмать?</x> <phonet>kińďi maksiť śormať</phonet>
        <xt xml:lang="fin">kenelle annoit kirjeen?</xt>
      </xg>
-     <xg> <x>киндиге</x> <phonet>kińďigä</phonet>
+     <xg>
+       <x>киндиге</x> <phonet>kińďigä</phonet>
        <xt xml:lang="fin">jollekulle.</xt>
      </xg>
-     <xg> <x>кинкса</x> <phonet>kiŋksa</phonet>
+     <xg>
+       <x>кинкса</x> <phonet>kiŋksa</phonet>
        <xt xml:lang="fin">kenen takia.</xt>
      </xg>
    </mg>
@@ -351,37 +362,48 @@
      <tg xml:lang="fra">
        <t pos="Pron">comment</t>
      </tg>
-     <xg> <x>кода тевсь моли?</x> <phonet>koda ťevś moľi</phonet>
+     <xg>
+       <x>кода тевсь моли?</x> <phonet>koda ťevś moľi</phonet>
        <xt xml:lang="fin">miten työ sujuu?</xt>
      </xg>
-     <xg> <x>кода повсь</x> <phonet>koda povś</phonet>
+     <xg>
+       <x>кода повсь</x> <phonet>koda povś</phonet>
        <xt xml:lang="fin">miten sattui, valikoimatta, summassa</xt>
      </xg>
-     <xg> <x>кодавок</x> <phonet>kodavək</phonet>
+     <xg>
+       <x>кодавок</x> <phonet>kodavək</phonet>
        <xt xml:lang="fin">1. jotenkin. 2. tilaisuuden tullen</xt>
      </xg>
-     <xg> <x>кодавок аф</x> <phonet>kodavək af</phonet>
+     <xg>
+       <x>кодавок аф</x> <phonet>kodavək af</phonet>
        <xt xml:lang="fin">ei mitenkään</xt>
      </xg>
-     <xg> <x>ули кода</x> <phonet>uľi koda</phonet>
+     <xg>
+       <x>ули кода</x> <phonet>uľi koda</phonet>
        <xt xml:lang="fin">saattaa, voi</xt>
      </xg>
-     <xg> <x>аш кода</x> <phonet>aš koda</phonet>
+     <xg>
+       <x>аш кода</x> <phonet>aš koda</phonet>
        <xt xml:lang="fin">ei voi, on mahdotonta</xt>
      </xg>
-     <xg> <x>аш кода молемс</x> <phonet>aš koda moľəms</phonet>
+     <xg>
+       <x>аш кода молемс</x> <phonet>aš koda moľəms</phonet>
        <xt xml:lang="fin">ei voi mennä</xt>
      </xg>
-     <xg> <x>кода аф авардян!</x> <phonet>kod(a) af avaŕďan</phonet>
+     <xg>
+       <x>кода аф авардян!</x> <phonet>kod(a) af avaŕďan</phonet>
        <xt xml:lang="fin">kuinka en itkisi!</xt>
      </xg>
-     <xg> <x>кода аф кода</x> <phonet>kod(a) af koda</phonet>
+     <xg>
+       <x>кода аф кода</x> <phonet>kod(a) af koda</phonet>
        <xt xml:lang="fin">jotenkin</xt>
      </xg>
-     <xg> <x>кода-кода</x> <phonet>koda-koda</phonet>
+     <xg>
+       <x>кода-кода</x> <phonet>koda-koda</phonet>
        <xt xml:lang="fin">jotenkin, jollakin tavalla</xt>
      </xg>
-     <xg> <x>саян кода-кода</x> <phonet>sajan koda-koda</phonet>
+     <xg>
+       <x>саян кода-кода</x> <phonet>sajan koda-koda</phonet>
        <xt xml:lang="fin">tulen jotenkin</xt>
      </xg>
    </mg>
@@ -400,25 +422,32 @@
      <tg xml:lang="fin">
        <t pos="Pron">millainen</t>
      </tg>
-     <xg> <x>кой-кодама</x> <phonet>koj-kodama</phonet>
+     <xg>
+       <x>кой-кодама</x> <phonet>koj-kodama</phonet>
        <xt xml:lang="fin">jonkinlainen.</xt>
      </xg>
-     <xg> <x>кодама-бди</x> <phonet>kodama-bəďi</phonet>
+     <xg>
+       <x>кодама-бди</x> <phonet>kodama-bəďi</phonet>
        <xt xml:lang="fin">jonkinlainen.</xt>
      </xg>
-     <xg> <x>кодама-кодама</x> <phonet>kodamə-kodama</phonet>
+     <xg>
+       <x>кодама-кодама</x> <phonet>kodamə-kodama</phonet>
        <xt xml:lang="fin">jonkinlainen.</xt>
      </xg>
-     <xg> <x>кодама тячи шись?</x> <phonet>kodamə ťäči šiś</phonet>
+     <xg>
+       <x>кодама тячи шись?</x> <phonet>kodamə ťäči šiś</phonet>
        <xt xml:lang="fin">mikä/ millainen päivä tänään on?</xt>
      </xg>
-     <xg> <x>кодамовок аф</x> <phonet>kodaməvək af</phonet>
+     <xg>
+       <x>кодамовок аф</x> <phonet>kodaməvək af</phonet>
        <xt xml:lang="fin">ei minkäänlainen.</xt>
      </xg>
-     <xg> <x>кодама повсь</x> <phonet>kodamə povś</phonet>
+     <xg>
+       <x>кодама повсь</x> <phonet>kodamə povś</phonet>
        <xt xml:lang="fin">kaikenlainen, millainen tahansa.</xt>
      </xg>
-     <xg> <x>кодама тядясь, стама бябясь</x> <phonet>kodamə ťäďäś stamə bäbäś</phonet>
+     <xg>
+       <x>кодама тядясь, стама бябясь</x> <phonet>kodamə ťäďäś stamə bäbäś</phonet>
        <xt xml:lang="fin">millainen äiti, sellainen lapsi.</xt>
      </xg>
    </mg>
@@ -525,10 +554,12 @@
      <tg xml:lang="fin">
        <t pos="Pron">jokin, jotakin</t>
      </tg>
-     <xg> <x>тянь колга мон кой-мезе марянь</x> <phonet>ťäń kolga mon koj-meźə maŕäń</phonet>
+     <xg>
+       <x>тянь колга мон кой-мезе марянь</x> <phonet>ťäń kolga mon koj-meźə maŕäń</phonet>
        <xt xml:lang="fin">tästä olen kuullut jotakin.</xt>
      </xg>
-     <xg> <x>кой-месть лият</x> <phonet>koj-meśť ľijat</phonet>
+     <xg>
+       <x>кой-месть лият</x> <phonet>koj-meśť ľijat</phonet>
        <xt xml:lang="fin">muunlaiset, toisenlaiset.</xt>
      </xg>
    </mg>
@@ -654,25 +685,32 @@
      <tg xml:lang="fin">
        <t pos="Pron">joka, mikä</t>
      </tg>
-     <xg> <x>кона-кона</x> <phonet>kona-kona</phonet>
+     <xg>
+       <x>кона-кона</x> <phonet>kona-kona</phonet>
        <xt xml:lang="fin">eräs.</xt>
      </xg>
-     <xg> <x>кой-кона</x> <phonet>koj-kona</phonet>
+     <xg>
+       <x>кой-кона</x> <phonet>koj-kona</phonet>
        <xt xml:lang="fin">joku, eräs.</xt>
      </xg>
-     <xg> <x>кона аф кона</x> <phonet>kona af kona</phonet>
+     <xg>
+       <x>кона аф кона</x> <phonet>kona af kona</phonet>
        <xt xml:lang="fin">jompikumpi.</xt>
      </xg>
-     <xg> <x>кона-бди</x> <phonet>kona-bəďi</phonet>
+     <xg>
+       <x>кона-бди</x> <phonet>kona-bəďi</phonet>
        <xt xml:lang="fin">jompikumpi.</xt>
      </xg>
-     <xg> <x>конавок</x> <phonet>konavək</phonet>
+     <xg>
+       <x>конавок</x> <phonet>konavək</phonet>
        <xt xml:lang="fin">jompikumpi; kukaan, mikään.</xt>
      </xg>
-     <xg> <x>конавок тейне аф эряви</x> <phonet>konavək ťejń(ä) af eŕavi</phonet>
+     <xg>
+       <x>конавок тейне аф эряви</x> <phonet>konavək ťejń(ä) af eŕavi</phonet>
        <xt xml:lang="fin">en tarvitse ketään.</xt>
      </xg>
-     <xg> <x>конатольхть</x> <phonet>konatəľxť</phonet>
+     <xg>
+       <x>конатольхть</x> <phonet>konatəľxť</phonet>
        <xt xml:lang="fin">jotka olivat.</xt>
      </xg>
    </mg>
@@ -691,19 +729,24 @@
      <tg xml:lang="fin">
        <t pos="Pron">minkä kokoinen</t>
      </tg>
-     <xg> <x>конашкаста</x> <phonet>konaškasta</phonet>
+     <xg>
+       <x>конашкаста</x> <phonet>konaškasta</phonet>
        <xt xml:lang="fin">niin paljon kuin.</xt>
      </xg>
-     <xg> <x>конашкава алясь нарде!</x> <phonet>konaškava aľäś naŕďä</phonet>
+     <xg>
+       <x>конашкава алясь нарде!</x> <phonet>konaškava aľäś naŕďä</phonet>
        <xt xml:lang="fin">miten vahva tämä mies onkaan!</xt>
      </xg>
-     <xg> <x>конашка мароц, сяшка пароц</x> <phonet>konaška marəc, śäška parəc</phonet>
+     <xg>
+       <x>конашка мароц, сяшка пароц</x> <phonet>konaška marəc, śäška parəc</phonet>
        <xt xml:lang="fin">niin makaa kuin petaa.</xt>
      </xg>
-     <xg> <x>конашкава</x> <phonet>konaškava</phonet>
+     <xg>
+       <x>конашкава</x> <phonet>konaškava</phonet>
        <xt xml:lang="fin">siinä määrin kuin.</xt>
      </xg>
-     <xg> <x>конашкада</x> <phonet>konaškada</phonet>
+     <xg>
+       <x>конашкада</x> <phonet>konaškada</phonet>
        <xt xml:lang="fin">milloin, jolloin; mistä asti.</xt>
      </xg>
    </mg>
@@ -725,25 +768,32 @@
      <tg xml:lang="fra">
        <t pos="Pron">où</t>
      </tg>
-     <xg> <x>косовок</x> <phonet>kosəvək</phonet>
+     <xg>
+       <x>косовок</x> <phonet>kosəvək</phonet>
        <xt xml:lang="fin">1. jossakin. 2. (ei) missään</xt>
      </xg>
-     <xg> <x>кой-коса</x> <phonet>koj-kosa</phonet>
+     <xg>
+       <x>кой-коса</x> <phonet>koj-kosa</phonet>
        <xt xml:lang="fin">jossain</xt>
      </xg>
-     <xg> <x>коса-коса</x> <phonet>kosə-kosa</phonet>
+     <xg>
+       <x>коса-коса</x> <phonet>kosə-kosa</phonet>
        <xt xml:lang="fin">jossakin</xt>
      </xg>
-     <xg> <x>коса аф коса</x> <phonet>kos(ə) af kosa</phonet>
+     <xg>
+       <x>коса аф коса</x> <phonet>kos(ə) af kosa</phonet>
        <xt xml:lang="fin">missä tahansa; missään muualla</xt>
      </xg>
-     <xg> <x>коса-бди</x> <phonet>kosə-bəďi</phonet>
+     <xg>
+       <x>коса-бди</x> <phonet>kosə-bəďi</phonet>
        <xt xml:lang="fin">jossakin; missähän</xt>
      </xg>
-     <xg> <x>коса повсь</x> <phonet>kosə povś</phonet>
+     <xg>
+       <x>коса повсь</x> <phonet>kosə povś</phonet>
        <xt xml:lang="fin">kaikkialla, joka paikassa</xt>
      </xg>
-     <xg> <x>косонга аш</x> <phonet>kosəŋg(a) aš</phonet>
+     <xg>
+       <x>косонга аш</x> <phonet>kosəŋg(a) aš</phonet>
        <xt xml:lang="fin">ei missään</xt>
      </xg>
    </mg>
@@ -806,25 +856,32 @@
      <tg xml:lang="fin">
        <t pos="Pron">mistä; koska, milloin</t>
      </tg>
-     <xg> <x>костовок</x> <phonet>kostəvək</phonet>
+     <xg>
+       <x>костовок</x> <phonet>kostəvək</phonet>
        <xt xml:lang="fin">1. jostakin. 2. (ei) mistään</xt>
      </xg>
-     <xg> <x>сёрмат костовок исть сашенда</x> <phonet>śormat kostəvək iśť sašənda</phonet>
+     <xg>
+       <x>сёрмат костовок исть сашенда</x> <phonet>śormat kostəvək iśť sašənda</phonet>
        <xt xml:lang="fin">kirjeitä ei ole tullut mistään</xt>
      </xg>
-     <xg> <x>кой-коста</x> <phonet>koj-kosta</phonet>
+     <xg>
+       <x>кой-коста</x> <phonet>koj-kosta</phonet>
        <xt xml:lang="fin">jostakin</xt>
      </xg>
-     <xg> <x>коста-коста</x> <phonet>kostə-kosta</phonet>
+     <xg>
+       <x>коста-коста</x> <phonet>kostə-kosta</phonet>
        <xt xml:lang="fin">1. jostakin. 2. joskus, silloin tällöin, toisinaan. 3. koskaan</xt>
      </xg>
-     <xg> <x>коста-коста мон якан охотас</x> <phonet>kostə-kosta mon jakan axotas</phonet>
+     <xg>
+       <x>коста-коста мон якан охотас</x> <phonet>kostə-kosta mon jakan axotas</phonet>
        <xt xml:lang="fin">käyn silloin tällöin metsällä</xt>
      </xg>
-     <xg> <x>коста повсь</x> <phonet>kostə povś</phonet>
+     <xg>
+       <x>коста повсь</x> <phonet>kostə povś</phonet>
        <xt xml:lang="fin">kaikkialla, kaikkialta</xt>
      </xg>
-     <xg> <x>ся пингть, коста мон тунь</x> <phonet>śä piŋkť kostə mon tuń</phonet>
+     <xg>
+       <x>ся пингть, коста мон тунь</x> <phonet>śä piŋkť kostə mon tuń</phonet>
        <xt xml:lang="fin">siihen aikaan kun lähdin</xt>
      </xg>
    </mg>
@@ -858,10 +915,12 @@
        <t pos="A">muu</t>
        <t pos="A">toinen</t>
      </tg>
-     <xg> <x>лия кялень ломатть</x> <phonet>ľijä/iľä käľəń lomaťť</phonet>
+     <xg>
+       <x>лия кялень ломатть</x> <phonet>ľijä/iľä käľəń lomaťť</phonet>
        <xt xml:lang="fin">(mon.) vieraskieliset ihmiset.</xt>
      </xg>
-     <xg> <x>лия кяльса</x> <phonet>ľijä/iľä käľsa</phonet>
+     <xg>
+       <x>лия кяльса</x> <phonet>ľijä/iľä käľsa</phonet>
        <xt xml:lang="fin">vieraalla kielellä.</xt>
      </xg>
    </mg>
@@ -980,73 +1039,96 @@
      <tg xml:lang="fra">
        <t pos="Pron">quoi</t>
      </tg>
-     <xg> <x>мезе нинге тейть?</x> <phonet>meźə ńiŋgə ťejť</phonet>
+     <xg>
+       <x>мезе нинге тейть?</x> <phonet>meźə ńiŋgə ťejť</phonet>
        <xt xml:lang="fin">mikä nyt taas on? mikä sinua nyt taas vaivaa?</xt>
      </xg>
-     <xg> <x>мезе видят, сянь и нуят</x> <phonet>meźə viďat śäń i nujat</phonet>
+     <xg>
+       <x>мезе видят, сянь и нуят</x> <phonet>meźə viďat śäń i nujat</phonet>
        <xt xml:lang="fin">niin makaa kuin petaa.</xt>
      </xg>
-     <xg> <x>аш мезе лангс рамамс</x> <phonet>aš meź(ä) laŋks ramams</phonet>
+     <xg>
+       <x>аш мезе лангс рамамс</x> <phonet>aš meź(ä) laŋks ramams</phonet>
        <xt xml:lang="fin">ei ole millä ostaa.</xt>
      </xg>
-     <xg> <x>мезе ина?</x> <phonet>meź(ä) əna</phonet>
+     <xg>
+       <x>мезе ина?</x> <phonet>meź(ä) əna</phonet>
        <xt xml:lang="fin">minkähän takia?</xt>
      </xg>
-     <xg> <x>мезе-бди</x> <phonet>meźə-bəďi</phonet>
+     <xg>
+       <x>мезе-бди</x> <phonet>meźə-bəďi</phonet>
        <xt xml:lang="fin">jokin.</xt>
      </xg>
-     <xg> <x>мезе виец</x> <phonet>meźə vijəc</phonet>
+     <xg>
+       <x>мезе виец</x> <phonet>meźə vijəc</phonet>
        <xt xml:lang="fin">täysin voimin.</xt>
      </xg>
-     <xg> <x>мезе-мезе</x> <phonet>meźə-meźä</phonet>
+     <xg>
+       <x>мезе-мезе</x> <phonet>meźə-meźä</phonet>
        <xt xml:lang="fin">jokin.</xt>
      </xg>
-     <xg> <x>мезевок</x> <phonet>meźəvək</phonet>
+     <xg>
+       <x>мезевок</x> <phonet>meźəvək</phonet>
        <xt xml:lang="fin">jokin; mikään.</xt>
      </xg>
-     <xg> <x>макст мезевок морафтомс</x> <phonet>makst meźəvək moraftəms</phonet>
+     <xg>
+       <x>макст мезевок морафтомс</x> <phonet>makst meźəvək moraftəms</phonet>
        <xt xml:lang="fin">luetaanpas jotakin.</xt>
      </xg>
-     <xg> <x>сон мезевок ашезь юкста</x> <phonet>son meźəvək ašəź juksta</phonet>
+     <xg>
+       <x>сон мезевок ашезь юкста</x> <phonet>son meźəvək ašəź juksta</phonet>
        <xt xml:lang="fin">hän ei unohtanut mitään.</xt>
      </xg>
-     <xg> <x>мезень ал?</x> <phonet>meźəń al</phonet>
+     <xg>
+       <x>мезень ал?</x> <phonet>meźəń al</phonet>
        <xt xml:lang="fin">minkä linnun muna se on?</xt>
      </xg>
-     <xg> <x>мезенкса</x> <phonet>meźəŋksa</phonet>
+     <xg>
+       <x>мезенкса</x> <phonet>meźəŋksa</phonet>
        <xt xml:lang="fin">minkä tähden, miksi.</xt>
      </xg>
-     <xg> <x>аш мезенкса</x> <phonet>aš meźəŋksa</phonet>
+     <xg>
+       <x>аш мезенкса</x> <phonet>aš meźəŋksa</phonet>
        <xt xml:lang="fin">turhaan, suotta; ei kestä kiittää.</xt>
      </xg>
-     <xg> <x>мезенди</x> <phonet>meźəńďi</phonet>
+     <xg>
+       <x>мезенди</x> <phonet>meźəńďi</phonet>
        <xt xml:lang="fin">mitä varten.</xt>
      </xg>
-     <xg> <x>мезце ули?</x> <phonet>meźć(ə) uľi</phonet>
+     <xg>
+       <x>мезце ули?</x> <phonet>meźć(ə) uľi</phonet>
        <xt xml:lang="fin">mikä sinun on? mitä sinulla on?</xt>
      </xg>
-     <xg> <x>мезецка аш</x> <phonet>meźəck(a) aš</phonet>
+     <xg>
+       <x>мезецка аш</x> <phonet>meźəck(a) aš</phonet>
        <xt xml:lang="fin">hänellä ei ole mitään.</xt>
      </xg>
-     <xg> <x>мезняцка ашель</x> <phonet>meźńack(a) ašəľ</phonet>
+     <xg>
+       <x>мезняцка ашель</x> <phonet>meźńack(a) ašəľ</phonet>
        <xt xml:lang="fin">hänellä ei ollut mitään.</xt>
      </xg>
-     <xg> <x>мезнек</x> <phonet>meźńək</phonet>
+     <xg>
+       <x>мезнек</x> <phonet>meźńək</phonet>
        <xt xml:lang="fin">kaikkineen.</xt>
      </xg>
-     <xg> <x>сахарнек-мезнек</x> <phonet>saxərńək-meźńək</phonet>
+     <xg>
+       <x>сахарнек-мезнек</x> <phonet>saxərńək-meźńək</phonet>
        <xt xml:lang="fin">sokereineen päivineen.</xt>
      </xg>
-     <xg> <x>тналнек-мезнек</x> <phonet>tənalńək-meźńək</phonet>
+     <xg>
+       <x>тналнек-мезнек</x> <phonet>tənalńək-meźńək</phonet>
        <xt xml:lang="fin">perheineen.</xt>
      </xg>
-     <xg> <x>мезьда</x> <phonet>meźda</phonet>
+     <xg>
+       <x>мезьда</x> <phonet>meźda</phonet>
        <xt xml:lang="fin">paljonko, mitä (maksaa).</xt>
      </xg>
-     <xg> <x>мезьс ба афоль стя</x> <phonet>meźs bə afəľ śťä</phonet>
+     <xg>
+       <x>мезьс ба афоль стя</x> <phonet>meźs bə afəľ śťä</phonet>
        <xt xml:lang="fin">mitä sitten maksaakin.</xt>
      </xg>
-     <xg> <x>мезьса аф мезьса</x> <phonet>meźs(ə) af meźsa</phonet>
+     <xg>
+       <x>мезьса аф мезьса</x> <phonet>meźs(ə) af meźsa</phonet>
        <xt xml:lang="fin">1. millä tahansa. 2. jossakin.</xt>
      </xg>
    </mg>
@@ -1157,10 +1239,12 @@
        <t pos="Pron">mitä</t>
        <t pos="Pron">miksi</t>
      </tg>
-     <xg> <x>ашель месть</x> <phonet>ašəľ meśť</phonet>
+     <xg>
+       <x>ашель месть</x> <phonet>ašəľ meśť</phonet>
        <xt xml:lang="fin">ei ollut syytä.</xt>
      </xg>
-     <xg> <x>аш месть корхтамска</x> <phonet>aš meśť korxtamska</phonet>
+     <xg>
+       <x>аш месть корхтамска</x> <phonet>aš meśť korxtamska</phonet>
        <xt xml:lang="fin">ei kannata mainitakaan.</xt>
      </xg>
    </mg>
@@ -1280,16 +1364,20 @@
      <tg xml:lang="fra">
        <t pos="Pron">nous; notre</t>
      </tg>
-     <xg> <x>минь инксонк</x> <phonet>miń iŋksəŋk/iŋksənək</phonet>
+     <xg>
+       <x>минь инксонк</x> <phonet>miń iŋksəŋk/iŋksənək</phonet>
        <xt xml:lang="fin">meidän takiamme.</xt>
      </xg>
-     <xg> <x>минь понань ломатть</x> <phonet>miń ponań lomaťť</phonet>
+     <xg>
+       <x>минь понань ломатть</x> <phonet>miń ponań lomaťť</phonet>
        <xt xml:lang="fin">meidän kaltaisiamme ihmisiä.</xt>
      </xg>
-     <xg> <x>минць</x> <phonet>mińć</phonet>
+     <xg>
+       <x>минць</x> <phonet>mińć</phonet>
        <xt xml:lang="fin">me itse.</xt>
      </xg>
-     <xg> <x>минцень</x> <phonet>mińćəń</phonet>
+     <xg>
+       <x>минцень</x> <phonet>mińćəń</phonet>
        <xt xml:lang="fin">ikiomamme.</xt>
      </xg>
    </mg>
@@ -1350,16 +1438,20 @@
      <tg xml:lang="fra">
        <t pos="Pron">je</t>
      </tg>
-     <xg> <x>монць</x> <phonet>mońć</phonet>
+     <xg>
+       <x>монць</x> <phonet>mońć</phonet>
        <xt xml:lang="fin">minä itse.</xt>
      </xg>
-     <xg> <x>монць няине</x> <phonet>mońć ńäjińä</phonet>
+     <xg>
+       <x>монць няине</x> <phonet>mońć ńäjińä</phonet>
        <xt xml:lang="fin">näin sen omin silmin.</xt>
      </xg>
-     <xg> <x>монцень</x> <phonet>mońćəń</phonet>
+     <xg>
+       <x>монцень</x> <phonet>mońćəń</phonet>
        <xt xml:lang="fin">(iki)omani.</xt>
      </xg>
-     <xg> <x>монь</x> <phonet>moń/ mońń/mońńä/mojń</phonet>
+     <xg>
+       <x>монь</x> <phonet>moń/ mońń/mońńä/mojń</phonet>
        <xt xml:lang="fin">minun, (minun) omani.</xt>
      </xg>
    </mg>
@@ -1443,7 +1535,8 @@
      <tg xml:lang="fin">
        <t pos="Pron">muu, toinen, edellinen</t>
      </tg>
-     <xg> <x>нона кизотнень</x> <phonet>nona kizəťńəń</phonet>
+     <xg>
+       <x>нона кизотнень</x> <phonet>nona kizəťńəń</phonet>
        <xt xml:lang="fin">edellisinä vuosina.</xt>
      </xg>
    </mg>
@@ -1462,19 +1555,24 @@
      <tg xml:lang="fin">
        <t pos="Pron">nämä, ne</t>
      </tg>
-     <xg> <x>нят</x> <phonet>ńat</phonet>
+     <xg>
+       <x>нят</x> <phonet>ńat</phonet>
        <xt xml:lang="fin">(mon.) nämä, ne.</xt>
      </xg>
-     <xg> <x>ня ломаттне</x> <phonet>ńä lomaťťńä</phonet>
+     <xg>
+       <x>ня ломаттне</x> <phonet>ńä lomaťťńä</phonet>
        <xt xml:lang="fin">(määr., mon.) nämä ihmiset.</xt>
      </xg>
-     <xg> <x>няка ломаттне</x> <phonet>ńaka lomaťťńä</phonet>
+     <xg>
+       <x>няка ломаттне</x> <phonet>ńaka lomaťťńä</phonet>
        <xt xml:lang="fin">(määr., mon.) samat ihmiset.</xt>
      </xg>
-     <xg> <x>нятка</x> <phonet>ńatka</phonet>
+     <xg>
+       <x>нятка</x> <phonet>ńatka</phonet>
        <xt xml:lang="fin">nämäkin.</xt>
      </xg>
-     <xg> <x>нянкса</x> <phonet>ńaŋksa</phonet>
+     <xg>
+       <x>нянкса</x> <phonet>ńaŋksa</phonet>
        <xt xml:lang="fin">näiden takia.</xt>
      </xg>
    </mg>
@@ -1493,7 +1591,8 @@
      <tg xml:lang="fin">
        <t pos="Pron">tuolla</t>
      </tg>
-     <xg> <x>минь кудоньке нява</x> <phonet>miń kudəńkə ńava</phonet>
+     <xg>
+       <x>минь кудоньке нява</x> <phonet>miń kudəńkə ńava</phonet>
        <xt xml:lang="fin">meidän talomme on tuolla.</xt>
      </xg>
    </mg>
@@ -1543,16 +1642,20 @@
      <tg xml:lang="fin">
        <t pos="Pron">1. juuri, aivan. 2. superlatiivin apusana</t>
      </tg>
-     <xg> <x>самай тяста</x> <phonet>samaj ťasta</phonet>
+     <xg>
+       <x>самай тяста</x> <phonet>samaj ťasta</phonet>
        <xt xml:lang="fin">juuri tästä.</xt>
      </xg>
-     <xg> <x>самай сяс</x> <phonet>samaj śas</phonet>
+     <xg>
+       <x>самай сяс</x> <phonet>samaj śas</phonet>
        <xt xml:lang="fin">juuri siksi.</xt>
      </xg>
-     <xg> <x>самай кучкати</x> <phonet>samaj kučkaťi</phonet>
+     <xg>
+       <x>самай кучкати</x> <phonet>samaj kučkaťi</phonet>
        <xt xml:lang="fin">keskimpään.</xt>
      </xg>
-     <xg> <x>самай оцю</x> <phonet>samaj oću</phonet>
+     <xg>
+       <x>самай оцю</x> <phonet>samaj oću</phonet>
        <xt xml:lang="fin">suurin.</xt>
      </xg>
    </mg>
@@ -1571,13 +1674,16 @@
      <tg xml:lang="fin">
        <t pos="Pron">kaikki; superlatiivin apusana</t>
      </tg>
-     <xg> <x>сембода оцю</x> <phonet>śembəd(a) oću</phonet>
+     <xg>
+       <x>сембода оцю</x> <phonet>śembəd(a) oću</phonet>
        <xt xml:lang="fin">suurin.</xt>
      </xg>
-     <xg> <x>сембодонга оцю</x> <phonet>śembədəŋg(a) oću</phonet>
+     <xg>
+       <x>сембодонга оцю</x> <phonet>śembədəŋg(a) oću</phonet>
        <xt xml:lang="fin">suurin.</xt>
      </xg>
-     <xg> <x>сембода осал</x> <phonet>śembəd(a) osal</phonet>
+     <xg>
+       <x>сембода осал</x> <phonet>śembəd(a) osal</phonet>
        <xt xml:lang="fin">huonoin.</xt>
      </xg>
    </mg>
@@ -1613,10 +1719,12 @@
        <t gen="m" pos="Pron">ils; leur</t>
        <t gen="f" pos="Pron">elles; leur</t>
      </tg>
-     <xg> <x>синьфтомост</x> <phonet>śińftəməst, śińfťəməst</phonet>
+     <xg>
+       <x>синьфтомост</x> <phonet>śińftəməst, śińfťəməst</phonet>
        <xt xml:lang="fin">ilman heitä.</xt>
      </xg>
-     <xg> <x>синць</x> <phonet>śińć</phonet>
+     <xg>
+       <x>синць</x> <phonet>śińć</phonet>
        <xt xml:lang="fin">he itse.</xt>
      </xg>
    </mg>
@@ -1640,13 +1748,16 @@
        <t gen="m" pos="Pron">il</t>
        <t gen="f" pos="Pron">elle</t>
      </tg>
-     <xg> <x>сонць</x> <phonet>sońć</phonet>
+     <xg>
+       <x>сонць</x> <phonet>sońć</phonet>
        <xt xml:lang="fin">hän itse.</xt>
      </xg>
-     <xg> <x>сонь инксонза</x> <phonet>soń iŋksənʒa</phonet>
+     <xg>
+       <x>сонь инксонза</x> <phonet>soń iŋksənʒa</phonet>
        <xt xml:lang="fin">hänen takiaan/puolestaan.</xt>
      </xg>
-     <xg> <x>соньфтомонза</x> <phonet>sońftəmənʒa, sońfťəmənʒa</phonet>
+     <xg>
+       <x>соньфтомонза</x> <phonet>sońftəmənʒa, sońfťəmənʒa</phonet>
        <xt xml:lang="fin">ilman häntä.</xt>
      </xg>
    </mg>
@@ -1721,28 +1832,36 @@
      <tg xml:lang="fra">
        <t pos="Pron">cela</t>
      </tg>
-     <xg> <x>сят</x> <phonet>śat</phonet>
+     <xg>
+       <x>сят</x> <phonet>śat</phonet>
        <xt xml:lang="fin">(mon.) ne.</xt>
      </xg>
-     <xg> <x>ся ломанць</x> <phonet>śä lomańć</phonet>
+     <xg>
+       <x>ся ломанць</x> <phonet>śä lomańć</phonet>
        <xt xml:lang="fin">se ihminen.</xt>
      </xg>
-     <xg> <x>ся ломаттне, сят ломаттне</x> <phonet>śä lomaťťńä, śat lomaťťńä</phonet>
+     <xg>
+       <x>ся ломаттне, сят ломаттне</x> <phonet>śä lomaťťńä, śat lomaťťńä</phonet>
        <xt xml:lang="fin">(mon.) ne ihmiset.</xt>
      </xg>
-     <xg> <x>сят или тонат</x> <phonet>śat iľi tonat</phonet>
+     <xg>
+       <x>сят или тонат</x> <phonet>śat iľi tonat</phonet>
        <xt xml:lang="fin">(mon.) nämä tai nuo.</xt>
      </xg>
-     <xg> <x>сяфтома</x> <phonet>śaftəma</phonet>
+     <xg>
+       <x>сяфтома</x> <phonet>śaftəma</phonet>
        <xt xml:lang="fin">ilman sitä.</xt>
      </xg>
-     <xg> <x>сянкса</x> <phonet>śaŋksa</phonet>
+     <xg>
+       <x>сянкса</x> <phonet>śaŋksa</phonet>
        <xt xml:lang="fin">siksi, sen tähden.</xt>
      </xg>
-     <xg> <x>сянь меле/ мельге</x> <phonet>śäń meľä /meľgä</phonet>
+     <xg>
+       <x>сянь меле/ мельге</x> <phonet>śäń meľä /meľgä</phonet>
        <xt xml:lang="fin">sitten, sen jälkeen.</xt>
      </xg>
-     <xg> <x>сяшкава</x> <phonet>śäškava</phonet>
+     <xg>
+       <x>сяшкава</x> <phonet>śäškava</phonet>
        <xt xml:lang="fin">niin paljon, siinä määrin.</xt>
      </xg>
    </mg>
@@ -1761,22 +1880,28 @@
      <tg xml:lang="fin">
        <t pos="Pron">sama</t>
      </tg>
-     <xg> <x>сяка кизоня</x> <phonet>śakə kizəńä</phonet>
+     <xg>
+       <x>сяка кизоня</x> <phonet>śakə kizəńä</phonet>
        <xt xml:lang="fin">samana vuonna.</xt>
      </xg>
-     <xg> <x>сяка киге</x> <phonet>śakə kigä</phonet>
+     <xg>
+       <x>сяка киге</x> <phonet>śakə kigä</phonet>
        <xt xml:lang="fin">saman tien.</xt>
      </xg>
-     <xg> <x>сяка жа</x> <phonet>śakə ža</phonet>
+     <xg>
+       <x>сяка жа</x> <phonet>śakə ža</phonet>
        <xt xml:lang="fin">samanlainen.</xt>
      </xg>
-     <xg> <x>сяка тев</x> <phonet>śakə ťev</phonet>
+     <xg>
+       <x>сяка тев</x> <phonet>śakə ťev</phonet>
        <xt xml:lang="fin">jatkuvasti, alinomaa, tämän tästä.</xt>
      </xg>
-     <xg> <x>сяконь ёткова</x> <phonet>śakəń jotkəva</phonet>
+     <xg>
+       <x>сяконь ёткова</x> <phonet>śakəń jotkəva</phonet>
        <xt xml:lang="fin">sillä välin, välillä.</xt>
      </xg>
-     <xg> <x>сяконь лангс</x> <phonet>śakəń laŋks</phonet>
+     <xg>
+       <x>сяконь лангс</x> <phonet>śakəń laŋks</phonet>
        <xt xml:lang="fin">samalla kertaa, saman tien.</xt>
      </xg>
    </mg>
@@ -1962,10 +2087,12 @@
        <t pos="Pron">tu</t>
        <t pos="Pron">vous (formal)</t>
      </tg>
-     <xg> <x>тонць</x> <phonet>tońć</phonet>
+     <xg>
+       <x>тонць</x> <phonet>tońć</phonet>
        <xt xml:lang="fin">sinä itse.</xt>
      </xg>
-     <xg> <x>аф тонь тевсь</x> <phonet>af toń/tońńə ťevś</phonet>
+     <xg>
+       <x>аф тонь тевсь</x> <phonet>af toń/tońńə ťevś</phonet>
        <xt xml:lang="fin">se ei kuulu sinulle, mitä se sinulle kuuluu.</xt>
      </xg>
    </mg>
@@ -1984,28 +2111,36 @@
      <tg xml:lang="fin">
        <t pos="Pron">tuo, se</t>
      </tg>
-     <xg> <x>тона кизоне</x> <phonet>tona kizəńä</phonet>
+     <xg>
+       <x>тона кизоне</x> <phonet>tona kizəńä</phonet>
        <xt xml:lang="fin">viime vuonna.</xt>
      </xg>
-     <xg> <x>тона куд</x> <phonet>tona kud</phonet>
+     <xg>
+       <x>тона куд</x> <phonet>tona kud</phonet>
        <xt xml:lang="fin">kamari, sisähuone.</xt>
      </xg>
-     <xg> <x>тона пяленге</x> <phonet>tona päľəŋgä</phonet>
+     <xg>
+       <x>тона пяленге</x> <phonet>tona päľəŋgä</phonet>
        <xt xml:lang="fin">1. silläkin puolella. 2. sillekin puolelle.</xt>
      </xg>
-     <xg> <x>тона пяльде</x> <phonet>tona päľďä</phonet>
+     <xg>
+       <x>тона пяльде</x> <phonet>tona päľďä</phonet>
        <xt xml:lang="fin">sieltä, tuolta.</xt>
      </xg>
-     <xg> <x>тона боку</x> <phonet>tona boku</phonet>
+     <xg>
+       <x>тона боку</x> <phonet>tona boku</phonet>
        <xt xml:lang="fin">toiselle puolelle.</xt>
      </xg>
-     <xg> <x>Волгать тона шири</x> <phonet>Volgať tona šiŕi</phonet>
+     <xg>
+       <x>Волгать тона шири</x> <phonet>Volgať tona šiŕi</phonet>
        <xt xml:lang="fin">Volgan toisella rannalla.</xt>
      </xg>
-     <xg> <x>тя шиса ... тона шиса</x> <phonet>ťä šisa … tona šisa</phonet>
+     <xg>
+       <x>тя шиса ... тона шиса</x> <phonet>ťä šisa … tona šisa</phonet>
        <xt xml:lang="fin">tässä maailmassa … tuonpuoleisessa.</xt>
      </xg>
-     <xg> <x>сят или тонат</x> <phonet>śat iľi tonat</phonet>
+     <xg>
+       <x>сят или тонат</x> <phonet>śat iľi tonat</phonet>
        <xt xml:lang="fin">nämä tai nuo.</xt>
      </xg>
    </mg>
@@ -2027,88 +2162,116 @@
      <tg xml:lang="fra">
        <t pos="Pron">ceci</t>
      </tg>
-     <xg> <x>тя ломаттне</x> <phonet>ťä lomaťťńä</phonet>
+     <xg>
+       <x>тя ломаттне</x> <phonet>ťä lomaťťńä</phonet>
        <xt xml:lang="fin">(mon.) nämä/ne ihmiset.</xt>
      </xg>
-     <xg> <x>тя веня</x> <phonet>ťä veńä</phonet>
+     <xg>
+       <x>тя веня</x> <phonet>ťä veńä</phonet>
        <xt xml:lang="fin">tänä yönä.</xt>
      </xg>
-     <xg> <x>тя пяленге</x> <phonet>ťä päľəńgä</phonet>
+     <xg>
+       <x>тя пяленге</x> <phonet>ťä päľəńgä</phonet>
        <xt xml:lang="fin">tälläkin puolella.</xt>
      </xg>
-     <xg> <x>тя пяли</x> <phonet>ťä päľi</phonet>
+     <xg>
+       <x>тя пяли</x> <phonet>ťä päľi</phonet>
        <xt xml:lang="fin">tännepäin.</xt>
      </xg>
-     <xg> <x>тя пялинге</x> <phonet>ťä päľiŋgä</phonet>
+     <xg>
+       <x>тя пялинге</x> <phonet>ťä päľiŋgä</phonet>
        <xt xml:lang="fin">tällekin puolelle.</xt>
      </xg>
-     <xg> <x>тя пяльде</x> <phonet>ťä päľďä</phonet>
+     <xg>
+       <x>тя пяльде</x> <phonet>ťä päľďä</phonet>
        <xt xml:lang="fin">täältä.</xt>
      </xg>
-     <xg> <x>тя пингс</x> <phonet>ťä piŋks</phonet>
+     <xg>
+       <x>тя пингс</x> <phonet>ťä piŋks</phonet>
        <xt xml:lang="fin">tähän (aikaan) asti.</xt>
      </xg>
-     <xg> <x>тя шиса ... тона шиса</x> <phonet>ťä šisa … tona šisa</phonet>
+     <xg>
+       <x>тя шиса ... тона шиса</x> <phonet>ťä šisa … tona šisa</phonet>
        <xt xml:lang="fin">tässä maailmassa … tuonpuoleisessa.</xt>
      </xg>
-     <xg> <x>тя шитнень</x> <phonet>ťä šiťńəń</phonet>
+     <xg>
+       <x>тя шитнень</x> <phonet>ťä šiťńəń</phonet>
        <xt xml:lang="fin">tämänpäiväinen.</xt>
      </xg>
-     <xg> <x>тят</x> <phonet>ťat</phonet>
+     <xg>
+       <x>тят</x> <phonet>ťat</phonet>
        <xt xml:lang="fin">(mon.) nämä, ne.</xt>
      </xg>
-     <xg> <x>тянкса</x> <phonet>ťaŋksa</phonet>
+     <xg>
+       <x>тянкса</x> <phonet>ťaŋksa</phonet>
        <xt xml:lang="fin">juuri täällä.</xt>
      </xg>
-     <xg> <x>тяза</x> <phonet>ťaza</phonet>
+     <xg>
+       <x>тяза</x> <phonet>ťaza</phonet>
        <xt xml:lang="fin">tänne.</xt>
      </xg>
-     <xg> <x>тяса</x> <phonet>ťasa</phonet>
+     <xg>
+       <x>тяса</x> <phonet>ťasa</phonet>
        <xt xml:lang="fin">täällä, tässä.</xt>
      </xg>
-     <xg> <x>тяса-тоса</x> <phonet>ťasa-tosa</phonet>
+     <xg>
+       <x>тяса-тоса</x> <phonet>ťasa-tosa</phonet>
        <xt xml:lang="fin">siellä täällä.</xt>
      </xg>
-     <xg> <x>тязк</x> <phonet>ťazk</phonet>
+     <xg>
+       <x>тязк</x> <phonet>ťazk</phonet>
        <xt xml:lang="fin">1. tänne. 2. heti.</xt>
      </xg>
-     <xg> <x>илядомс тязк</x> <phonet>iľadəms ťazk</phonet>
+     <xg>
+       <x>илядомс тязк</x> <phonet>iľadəms ťazk</phonet>
        <xt xml:lang="fin">jäädä tänne.</xt>
      </xg>
-     <xg> <x>кодак ... тязк</x> <phonet>kodak … ťazk</phonet>
+     <xg>
+       <x>кодак ... тязк</x> <phonet>kodak … ťazk</phonet>
        <xt xml:lang="fin">sitten kun … niin heti.</xt>
      </xg>
-     <xg> <x>тяста</x> <phonet>ťasta</phonet>
+     <xg>
+       <x>тяста</x> <phonet>ťasta</phonet>
        <xt xml:lang="fin">täältä.</xt>
      </xg>
-     <xg> <x>тястотне</x> <phonet>ťastəťńä</phonet>
+     <xg>
+       <x>тястотне</x> <phonet>ťastəťńä</phonet>
        <xt xml:lang="fin">(mon.) täkäläiset.</xt>
      </xg>
-     <xg> <x>тястонь</x> <phonet>ťastəń</phonet>
+     <xg>
+       <x>тястонь</x> <phonet>ťastəń</phonet>
        <xt xml:lang="fin">täkäläinen.</xt>
      </xg>
-     <xg> <x>тяда башка</x> <phonet>ťadə baška</phonet>
+     <xg>
+       <x>тяда башка</x> <phonet>ťadə baška</phonet>
        <xt xml:lang="fin">sitä paitsi, sen lisäksi.</xt>
      </xg>
-     <xg> <x>тянкса</x> <phonet>ťäŋksa</phonet>
+     <xg>
+       <x>тянкса</x> <phonet>ťäŋksa</phonet>
        <xt xml:lang="fin">tämän, sen takia.</xt>
      </xg>
-     <xg> <x>тянди-тонанди</x> <phonet>ťäńďi-tonańďi</phonet>
+     <xg>
+       <x>тянди-тонанди</x> <phonet>ťäńďi-tonańďi</phonet>
        <xt xml:lang="fin">sille ja tälle.</xt>
      </xg>
-     <xg> <x>тяшкава</x> <phonet>ťäškava, ťaškava</phonet>
+     <xg>
+       <x>тяшкава</x> <phonet>ťäškava, ťaškava</phonet>
        <xt xml:lang="fin">näin paljon.</xt>
      </xg>
-     <xg> <x>мянь тяшкамс</x> <phonet>mäń ťäškams</phonet>
+     <xg>
+       <x>мянь тяшкамс</x> <phonet>mäń ťäškams</phonet>
        <xt xml:lang="fin">tähän asti.</xt>
      </xg>
-     <xg> <x>тяшкас</x> <phonet>ťäškas</phonet>
+     <xg>
+       <x>тяшкас</x> <phonet>ťäškas</phonet>
        <xt xml:lang="fin">tähän asti.</xt>
      </xg>
-     <xg> <x>мянь тяшкас</x> <phonet>mäń ťäškas</phonet>
+     <xg>
+       <x>мянь тяшкас</x> <phonet>mäń ťäškas</phonet>
        <xt xml:lang="fin">tähän asti.</xt>
      </xg>
-     <xg> <x>тяшкань</x> <phonet>ťäškań</phonet>
+     <xg>
+       <x>тяшкань</x> <phonet>ťäškań</phonet>
        <xt xml:lang="fin">tämän kokoinen.</xt>
      </xg>
    </mg>
@@ -2127,10 +2290,12 @@
      <tg xml:lang="fin">
        <t pos="Pron">tämä sama</t>
      </tg>
-     <xg> <x>тяка веня</x> <phonet>ťakə veńä</phonet>
+     <xg>
+       <x>тяка веня</x> <phonet>ťakə veńä</phonet>
        <xt xml:lang="fin">tänä yönä.</xt>
      </xg>
-     <xg> <x>тяконь мархта</x> <phonet>ťakəń marxta</phonet>
+     <xg>
+       <x>тяконь мархта</x> <phonet>ťakəń marxta</phonet>
        <xt xml:lang="fin">samalla (kertaa), saman tien.</xt>
      </xg>
    </mg>
@@ -2149,10 +2314,12 @@
      <tg xml:lang="fin">
        <t pos="Pron">tällainen, sellainen</t>
      </tg>
-     <xg> <x>тяфтамовок аф</x> <phonet>ťaftaməvək af</phonet>
+     <xg>
+       <x>тяфтамовок аф</x> <phonet>ťaftaməvək af</phonet>
        <xt xml:lang="fin">ei minkäänlainen.</xt>
      </xg>
-     <xg> <x>стапнень-тяфтапнень ёткса</x> <phonet>stapńəń-ťaftapńəń jotksa</phonet>
+     <xg>
+       <x>стапнень-тяфтапнень ёткса</x> <phonet>stapńəń-ťaftapńəń jotksa</phonet>
        <xt xml:lang="fin">kaikenlaisten ihmisten joukossa.</xt>
      </xg>
    </mg>
@@ -2421,10 +2588,12 @@
      <tg xml:lang="fin">
        <t pos="Det">joka</t>
      </tg>
-     <xg> <x>эрь шинь</x> <phonet>äŕ šiń</phonet>
+     <xg>
+       <x>эрь шинь</x> <phonet>äŕ šiń</phonet>
        <xt xml:lang="fin">jokapäiväinen.</xt>
      </xg>
-     <xg> <x>эрь мезне</x> <phonet>äŕ meźńä</phonet>
+     <xg>
+       <x>эрь мезне</x> <phonet>äŕ meźńä</phonet>
        <xt xml:lang="fin">joka kerta, aina, alituiseen.</xt>
      </xg>
    </mg>
@@ -2458,27 +2627,34 @@
        <t pos="A" type="Refl">oma</t>
        <t pos="Pron" type="Refl">itse</t>
      </tg>
-     <xg> <x>эсь тевозе</x> <phonet>eś ťevəźä</phonet>
+     <xg>
+       <x>эсь тевозе</x> <phonet>eś ťevəźä</phonet>
        <xt xml:lang="fin">oma asiani.</xt>
      </xg>
-     <xg> <x>эсь ётконь ломатть</x> <phonet>eś jotkəń lomaťť</phonet>
+     <xg>
+       <x>эсь ётконь ломатть</x> <phonet>eś jotkəń lomaťť</phonet>
        <xt xml:lang="fin">meidän laisemme ihmiset</xt>
        <xt xml:lang="fin">meikäläiset.</xt>
      </xg>
-     <xg> <x>эсь прянь кирди</x> <phonet>eś pŕäń kiŕďi</phonet>
+     <xg>
+       <x>эсь прянь кирди</x> <phonet>eś pŕäń kiŕďi</phonet>
        <xt xml:lang="fin">pidättyväinen.</xt>
      </xg>
-     <xg> <x>эсь кодаф сукна</x> <phonet>eś kodaf sukna</phonet>
+     <xg>
+       <x>эсь кодаф сукна</x> <phonet>eś kodaf sukna</phonet>
        <xt xml:lang="fin">kotikutoinen kangas.</xt>
      </xg>
-     <xg> <x>эсь паньф</x> <phonet>eś pańf</phonet>
+     <xg>
+       <x>эсь паньф</x> <phonet>eś pańf</phonet>
        <xt xml:lang="fin">kotipolttoinen (viina).</xt>
      </xg>
-     <xg> <x>эсь отям</x> <phonet>eś oťam</phonet>
+     <xg>
+       <x>эсь отям</x> <phonet>eś oťam</phonet>
        <xt xml:lang="fin">vaistomaisesti</xt>
        <xt xml:lang="fin">itsestään</xt>
      </xg>
-     <xg> <x>эсь пачка</x> <phonet>eś pačka</phonet>
+     <xg>
+       <x>эсь пачка</x> <phonet>eś pačka</phonet>
        <xt xml:lang="fin">itsekseen.</xt>
      </xg>
    </mg>

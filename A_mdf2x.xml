@@ -71,7 +71,8 @@
        <t pos="A">entisaikainen</t>
        <t pos="A">muinainen</t>
      </tg>
-     <xg> <x>авалдонь мора</x> <phonet>avaldəń mora</phonet>
+     <xg>
+       <x>авалдонь мора</x> <phonet>avaldəń mora</phonet>
        <xt xml:lang="fin">entisaikainen laulu.</xt>
      </xg>
    </mg>
@@ -81,7 +82,8 @@
        <t pos="A">aikainen</t>
        <t pos="A">varhainen</t>
      </tg>
-     <xg> <x>стямс авалдонь шобдава</x> <phonet>śťams avaldəń šobdava</phonet>
+     <xg>
+       <x>стямс авалдонь шобдава</x> <phonet>śťams avaldəń šobdava</phonet>
        <xt xml:lang="fin">nousta varhain aamulla.</xt>
      </xg>
    </mg>
@@ -237,7 +239,7 @@
    <lg>
      <l pos="A">аварькшу</l>
      <stg>
-       <st Contlex="A_">аварькшу</st>
+       <st Contlex="A_KELU">аварькшу</st>
      </stg>
    </lg>
    <mg>
@@ -697,10 +699,12 @@
        <t pos="A">pilvinen</t>
        <t pos="A">tuulinen</t>
      </tg>
-     <xg> <x>аера якшам</x> <phonet>ajəra jakšam</phonet>
+     <xg>
+       <x>аера якшам</x> <phonet>ajəra jakšam</phonet>
        <xt xml:lang="fin">on viiltävän kylmä.</xt>
      </xg>
-     <xg> <x>аера варма</x> <phonet>ajəra varma</phonet>
+     <xg>
+       <x>аера варма</x> <phonet>ajəra varma</phonet>
        <xt xml:lang="fin">tuulee myrskyisesti.</xt>
      </xg>
    </mg>
@@ -827,7 +831,7 @@
    <lg>
      <l pos="A">азиня-мзиня</l>
      <stg>
-       <st Contlex="A_">азиня-мзиня</st>
+       <st Contlex="A_AVA">азиня-мзиня</st>
        <st Contlex="A_" status="Use/SpellNoSugg">азиня-мъзиня</st>
      </stg>
    </lg>
@@ -852,7 +856,8 @@
      <tg xml:lang="fin">
        <t pos="A">sanomaton</t>
      </tg>
-     <xg> <x>аф азовикс ризф</x> <phonet>af azəviks ŕizf</phonet>
+     <xg>
+       <x>аф азовикс ризф</x> <phonet>af azəviks ŕizf</phonet>
        <xt xml:lang="fin">sanomaton suru.</xt>
      </xg>
    </mg>
@@ -1169,7 +1174,7 @@
    <lg>
      <l pos="A">акшеня</l>
      <stg>
-       <st Contlex="A_">акшеня</st>
+       <st Contlex="A_AVA">акшеня</st>
      </stg>
    </lg>
    <mg>
@@ -1183,7 +1188,7 @@
    <lg>
      <l pos="A">акшу</l>
      <stg>
-       <st Contlex="A_">акшу</st>
+       <st Contlex="A_KELU">акшу</st>
      </stg>
    </lg>
    <mg>
@@ -1199,7 +1204,7 @@
    <lg>
      <l pos="A">акшуня</l>
      <stg>
-       <st Contlex="A_">акшуня</st>
+       <st Contlex="A_AVA">акшуня</st>
      </stg>
    </lg>
    <mg>
@@ -1358,13 +1363,16 @@
        <t pos="A">alta</t>
        <t pos="A">alhaalta</t>
      </tg>
-     <xg> <x>алда вяри</x> <phonet>alda väŕi</phonet>
+     <xg>
+       <x>алда вяри</x> <phonet>alda väŕi</phonet>
        <xt xml:lang="fin">alhaalta ylös.</xt>
      </xg>
-     <xg> <x>парьнясь куяр алда</x> <phonet>paŕńäś kujar alda</phonet>
+     <xg>
+       <x>парьнясь куяр алда</x> <phonet>paŕńäś kujar alda</phonet>
        <xt xml:lang="fin">suolakurkkupytty.</xt>
      </xg>
-     <xg> <x>кундазе кенерьбакарь алда</x> <phonet>kundaźə keńəŕbakaŕ alda</phonet>
+     <xg>
+       <x>кундазе кенерьбакарь алда</x> <phonet>kundaźə keńəŕbakaŕ alda</phonet>
        <xt xml:lang="fin">tarttui kyynärpäähän t. kyynärpäästä</xt>
      </xg>
    </mg>
@@ -1388,7 +1396,7 @@
    <lg>
      <l pos="A">алканя</l>
      <stg>
-       <st Contlex="A_">алканя</st>
+       <st Contlex="A_AVA">алканя</st>
      </stg>
    </lg>
    <mg>
@@ -1464,7 +1472,7 @@
    <lg>
      <l pos="A">алнешты</l>
      <stg>
-       <st Contlex="A_">алнешты</st>
+       <st Contlex="A_ANDY">алнешты</st>
      </stg>
    </lg>
    <mg>
@@ -1479,7 +1487,7 @@
    <lg>
      <l pos="A">алня</l>
      <stg>
-       <st Contlex="A_">алня</st>
+       <st Contlex="A_AVA">алня</st>
      </stg>
    </lg>
    <mg>
@@ -1510,7 +1518,7 @@
    <lg>
      <l pos="A">алняня</l>
      <stg>
-       <st Contlex="A_">алняня</st>
+       <st Contlex="A_AVA">алняня</st>
      </stg> <phonet>alńäńä</phonet>
    </lg>
    <mg>
@@ -1599,7 +1607,7 @@
    <lg>
      <l pos="A">алхканяня</l>
      <stg>
-       <st Contlex="A_">алхканяня</st>
+       <st Contlex="A_AVA">алхканяня</st>
      </stg>
    </lg>
    <mg>
@@ -1643,7 +1651,7 @@
    <lg>
      <l pos="A">алшты</l>
      <stg>
-       <st Contlex="A_">алшты</st>
+       <st Contlex="A_ANDY">алшты</st>
      </stg>
    </lg>
    <mg>
@@ -1655,16 +1663,16 @@
 </e>
 <e>
    <lg>
-     <l pos="A">алы-былы</l>
+     <l pos="Adv">алы-былы</l>
      <stg>
-       <st Contlex="A_">алы-былы</st>
+       <st Contlex="ADV_">алы-былы</st>
      </stg>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="fin">
-       <t pos="A">joten kuten</t>
-       <t pos="A">huolimattomasti</t>
+       <t pos="Adv">joten kuten</t>
+       <t pos="Adv">huolimattomasti</t>
      </tg>
    </mg>
 </e>
@@ -1686,7 +1694,7 @@
    <lg>
      <l pos="A">альму</l>
      <stg>
-       <st Contlex="A_">альму</st>
+       <st Contlex="A_KELU">альму</st>
      </stg>
    </lg>
    <mg>
@@ -1723,7 +1731,8 @@
      <tg xml:lang="fin">
        <t pos="A">isänsä kaltainen</t>
      </tg>
-     <xg> <x>аляка лефкс</x> <phonet>aľaka ľefks</phonet>
+     <xg>
+       <x>аляка лефкс</x> <phonet>aľaka ľefks</phonet>
        <xt xml:lang="fin">isäänsä tullut, isänsä näköinen lapsi.</xt>
      </xg>
    </mg>
@@ -2155,7 +2164,7 @@
    <lg>
      <l pos="A">анциконя</l>
      <stg>
-       <st Contlex="A_">анциконя</st>
+       <st Contlex="A_AVA">анциконя</st>
      </stg>
    </lg>
    <mg>
@@ -2199,7 +2208,7 @@
    <lg>
      <l pos="A">аньтерьня</l>
      <stg>
-       <st Contlex="A_">аньтерьня</st>
+       <st Contlex="A_AVA">аньтерьня</st>
      </stg>
    </lg>
    <mg>
@@ -2381,7 +2390,7 @@
    <lg>
      <l pos="A">аргону</l>
      <stg>
-       <st Contlex="A_">аргону</st>
+       <st Contlex="A_KELU">аргону</st>
      </stg>
    </lg>
    <mg>
@@ -2410,7 +2419,7 @@
    <lg>
      <l pos="A">аржу</l>
      <stg>
-       <st Contlex="A_">аржу</st>
+       <st Contlex="A_KELU">аржу</st>
      </stg> <phonet>aržu</phonet>
    </lg>
    <mg>
@@ -2468,7 +2477,7 @@
    <lg>
      <l pos="A">арму</l>
      <stg>
-       <st Contlex="A_">арму</st>
+       <st Contlex="A_KELU">арму</st>
      </stg>
    </lg>
    <mg>
@@ -2588,7 +2597,7 @@
    <lg>
      <l pos="A">ару</l>
      <stg>
-       <st Contlex="A_">ару</st>
+       <st Contlex="A_KELU">ару</st>
      </stg> <phonet>aru</phonet>
    </lg>
    <mg>
@@ -2597,7 +2606,8 @@
        <t pos="A">puhdas</t>
        <t pos="A">siisti</t>
      </tg>
-     <xg> <x>ару кожф</x> <phonet>aru kožf</phonet>
+     <xg>
+       <x>ару кожф</x> <phonet>aru kožf</phonet>
        <xt xml:lang="fin">raitis/raikas ilma.</xt>
      </xg>
    </mg>
@@ -2784,7 +2794,7 @@
    <lg>
      <l pos="A">атнайня</l>
      <stg>
-       <st Contlex="A_">атнайня</st>
+       <st Contlex="A_AVA">атнайня</st>
      </stg>
    </lg>
    <mg>
@@ -2952,7 +2962,7 @@
    <lg>
      <l pos="A">аф топафкшу</l>
      <stg>
-       <st Contlex="A_">аф топафкшу</st>
+       <st Contlex="A_KELU">аф топафкшу</st>
      </stg>
    </lg>
    <mg>
@@ -3013,7 +3023,7 @@
    <lg>
      <l pos="A">ашу</l>
      <stg>
-       <st Contlex="A_">ашу</st>
+       <st Contlex="A_KELU">ашу</st>
      </stg> <phonet>ašu</phonet>
    </lg>
    <mg>
@@ -3588,7 +3598,8 @@
        <t pos="A">inhottava</t>
        <t pos="A">vastenmielinen</t>
      </tg>
-     <xg> <x>безярькс тев</x> <phonet>beźäŕks ťev</phonet>
+     <xg>
+       <x>безярькс тев</x> <phonet>beźäŕks ťev</phonet>
        <xt xml:lang="fin">inhottava asia.</xt>
      </xg>
    </mg>
@@ -3643,7 +3654,7 @@
    <lg>
      <l pos="A">беленаня</l>
      <stg>
-       <st Contlex="A_">беленаня</st>
+       <st Contlex="A_AVA">беленаня</st>
      </stg>
    </lg>
    <mg>
@@ -4472,7 +4483,7 @@
    <lg>
      <l pos="A">бугору</l>
      <stg>
-       <st Contlex="A_">бугору</st>
+       <st Contlex="A_KELU">бугору</st>
      </stg>
    </lg>
    <mg>
@@ -4618,7 +4629,7 @@
    <lg>
      <l pos="A">бурану</l>
      <stg>
-       <st Contlex="A_">бурану</st>
+       <st Contlex="A_KELU">бурану</st>
      </stg> <phonet>buranu</phonet>
    </lg>
    <mg>
@@ -4727,7 +4738,7 @@
    <lg>
      <l pos="A">брдыган</l>
      <stg>
-       <st Contlex="A_">брдыган</st>
+       <st Contlex="A_KAL">брдыган</st>
        <st Contlex="A_" status="Use/SpellNoSugg">бърдыган</st>
      </stg>
    </lg>
@@ -4857,7 +4868,8 @@
        <t pos="A">sujuva</t>
        <t pos="A">sulava</t>
      </tg>
-     <xg> <x>вадяв доска</x> <phonet>vaďav doska</phonet>
+     <xg>
+       <x>вадяв доска</x> <phonet>vaďav doska</phonet>
        <xt xml:lang="fin">sileä lauta</xt>
      </xg>
    </mg>
@@ -4904,7 +4916,7 @@
    <lg>
      <l pos="A">важаня</l>
      <stg>
-       <st Contlex="A_">важаня</st>
+       <st Contlex="A_AVA">важаня</st>
      </stg>
    </lg>
    <mg>
@@ -4929,10 +4941,12 @@
        <t pos="A">tärkeä</t>
        <t pos="A">merkittävä</t>
      </tg>
-     <xg> <x>важнайста</x> <phonet>važnajsta</phonet>
+     <xg>
+       <x>важнайста</x> <phonet>važnajsta</phonet>
        <xt xml:lang="fin">tärkeän näköisenä</xt>
      </xg>
-     <xg> <x>корхтай пяк важнайста</x> <phonet>korxtaj päk važnajsta</phonet>
+     <xg>
+       <x>корхтай пяк важнайста</x> <phonet>korxtaj päk važnajsta</phonet>
        <xt xml:lang="fin">puhuu tärkeän näköisenä</xt>
      </xg>
    </mg>
@@ -4941,7 +4955,7 @@
    <lg>
      <l pos="A">важня</l>
      <stg>
-       <st Contlex="A_">важня</st>
+       <st Contlex="A_AVA">важня</st>
      </stg>
    </lg>
    <mg>
@@ -4971,7 +4985,7 @@
    <lg>
      <l pos="A">вазу</l>
      <stg>
-       <st Contlex="A_">вазу</st>
+       <st Contlex="A_KELU">вазу</st>
      </stg> <phonet>vazu</phonet>
    </lg>
    <mg>
@@ -4995,7 +5009,8 @@
        <t pos="A">rasvainen</t>
        <t pos="A">voinen</t>
      </tg>
-     <xg> <x>лямсь ваи</x> <phonet>ľämś vaji</phonet>
+     <xg>
+       <x>лямсь ваи</x> <phonet>ľämś vaji</phonet>
        <xt xml:lang="fin">keitto on rasvaista.</xt>
      </xg>
    </mg>
@@ -5081,10 +5096,12 @@
        <t pos="A">sileä</t>
        <t pos="A">liukas</t>
      </tg>
-     <xg> <x>валазя шяярь</x> <phonet>valaźä šäjäŕ</phonet>
+     <xg>
+       <x>валазя шяярь</x> <phonet>valaźä šäjäŕ</phonet>
        <xt xml:lang="fin">liukas kiehkura</xt>
      </xg>
-     <xg> <x>кись валазя</x> <phonet>kiś valaźä</phonet>
+     <xg>
+       <x>кись валазя</x> <phonet>kiś valaźä</phonet>
        <xt xml:lang="fin">tie on liukas</xt>
      </xg>
    </mg>
@@ -5100,10 +5117,12 @@
        <t pos="A">laakea</t>
        <t pos="A">aukea</t>
      </tg>
-     <xg> <x>валазя пакся</x> <phonet>valaźä pakśä</phonet>
+     <xg>
+       <x>валазя пакся</x> <phonet>valaźä pakśä</phonet>
        <xt xml:lang="fin">laakea pelto</xt>
      </xg>
-     <xg> <x>валазя почка</x> <phonet>valaźä počka</phonet>
+     <xg>
+       <x>валазя почка</x> <phonet>valaźä počka</phonet>
        <xt xml:lang="fin">karhunputki (Angelica sylvestris)</xt>
      </xg>
    </mg>
@@ -5112,7 +5131,7 @@
    <lg>
      <l pos="A">валаня</l>
      <stg>
-       <st Contlex="A_">валаня</st>
+       <st Contlex="A_AVA">валаня</st>
      </stg>
    </lg>
    <mg>
@@ -5145,37 +5164,48 @@
        <t pos="A">iloinen</t>
        <t pos="A">riemukas</t>
      </tg>
-     <xg> <x>валда ши</x> <phonet>valdə ši</phonet>
+     <xg>
+       <x>валда ши</x> <phonet>valdə ši</phonet>
        <xt xml:lang="fin">valoisa, kirkas päivä</xt>
      </xg>
-     <xg> <x>ушеса валда</x> <phonet>ušəsə valda</phonet>
+     <xg>
+       <x>ушеса валда</x> <phonet>ušəsə valda</phonet>
        <xt xml:lang="fin">ulkona on valoisaa</xt>
      </xg>
-     <xg> <x>валда лампа</x> <phonet>valdə lampa</phonet>
+     <xg>
+       <x>валда лампа</x> <phonet>valdə lampa</phonet>
        <xt xml:lang="fin">kirkas lamppu</xt>
      </xg>
-     <xg> <x>валда менельсь</x> <phonet>valdə meńəľś</phonet>
+     <xg>
+       <x>валда менельсь</x> <phonet>valdə meńəľś</phonet>
        <xt xml:lang="fin">kirkas taivas</xt>
      </xg>
-     <xg> <x>валда венельсь</x> <phonet>valdə veńəľś</phonet>
+     <xg>
+       <x>валда венельсь</x> <phonet>valdə veńəľś</phonet>
        <xt xml:lang="fin">selkeä sää</xt>
      </xg>
-     <xg> <x>валда эряф</x> <phonet>vald(ə) eŕaf</phonet>
+     <xg>
+       <x>валда эряф</x> <phonet>vald(ə) eŕaf</phonet>
        <xt xml:lang="fin">iloinen elämä</xt>
      </xg>
-     <xg> <x>валда-пиже</x> <phonet>valdə-pižä</phonet>
+     <xg>
+       <x>валда-пиже</x> <phonet>valdə-pižä</phonet>
        <xt xml:lang="fin">vaaleanvihreä</xt>
      </xg>
-     <xg> <x>валда-сенем</x> <phonet>valdə-śeńəm</phonet>
+     <xg>
+       <x>валда-сенем</x> <phonet>valdə-śeńəm</phonet>
        <xt xml:lang="fin">vaaleansininen</xt>
      </xg>
-     <xg> <x>аф валда</x> <phonet>af valda</phonet>
+     <xg>
+       <x>аф валда</x> <phonet>af valda</phonet>
        <xt xml:lang="fin">hämärä, himmeä, samea</xt>
      </xg>
-     <xg> <x>валдста</x> <phonet>valcta</phonet>
+     <xg>
+       <x>валдста</x> <phonet>valcta</phonet>
        <xt xml:lang="fin">päivällä, valoisaan aikaan</xt>
      </xg>
-     <xg> <x>максомс валда</x> <phonet>maksəms valda</phonet>
+     <xg>
+       <x>максомс валда</x> <phonet>maksəms valda</phonet>
        <xt xml:lang="fin">valaista</xt>
      </xg>
    </mg>
@@ -5184,7 +5214,7 @@
    <lg>
      <l pos="A">валдоня</l>
      <stg>
-       <st Contlex="A_">валдоня</st>
+       <st Contlex="A_AVA">валдоня</st>
      </stg>
    </lg>
    <mg>
@@ -5201,7 +5231,7 @@
    <lg>
      <l pos="A">валду</l>
      <stg>
-       <st Contlex="A_">валду</st>
+       <st Contlex="A_KELU">валду</st>
      </stg> <phonet>valdu</phonet>
    </lg>
    <mg>
@@ -5260,7 +5290,7 @@
    <lg>
      <l pos="A">валу</l>
      <stg>
-       <st Contlex="A_">валу</st>
+       <st Contlex="A_KELU">валу</st>
      </stg>
    </lg>
    <mg>
@@ -5348,7 +5378,7 @@
    <lg>
      <l pos="A">вандолды</l>
      <stg>
-       <st Contlex="A_">вандолды</st>
+       <st Contlex="A_ANDY">вандолды</st>
      </stg>
    </lg>
    <mg>
@@ -5408,7 +5438,7 @@
    <lg>
      <l pos="A">вантфты</l>
      <stg>
-       <st Contlex="A_">вантфты</st>
+       <st Contlex="A_ANDY">вантфты</st>
      </stg>
    </lg>
    <mg>
@@ -5491,10 +5521,12 @@
        <t pos="A">reiällinen</t>
        <t pos="A">reikäinen</t>
      </tg>
-     <xg> <x>варяв сумка</x> <phonet>vaŕav sumka</phonet>
+     <xg>
+       <x>варяв сумка</x> <phonet>vaŕav sumka</phonet>
        <xt xml:lang="fin">verkkokassi</xt>
      </xg>
-     <xg> <x>варяв пря</x> <phonet>vaŕav bŕä</phonet>
+     <xg>
+       <x>варяв пря</x> <phonet>vaŕav bŕä</phonet>
        <xt xml:lang="fin">typerys, pölkkypää</xt>
      </xg>
    </mg>
@@ -5546,16 +5578,20 @@
        <t pos="A">varhainen</t>
        <t pos="A">varhais-</t>
      </tg>
-     <xg> <x>васень январьста</x> <phonet>vaśəń janvaŕsta</phonet>
+     <xg>
+       <x>васень январьста</x> <phonet>vaśəń janvaŕsta</phonet>
        <xt xml:lang="fin">tammikuun ensimmäisenä, uudenvuodenpäivänä.</xt>
      </xg>
-     <xg> <x>васень тунда</x> <phonet>vaśəń tunda</phonet>
+     <xg>
+       <x>васень тунда</x> <phonet>vaśəń tunda</phonet>
        <xt xml:lang="fin">varhaiskevät, alkukevät.</xt>
      </xg>
-     <xg> <x>васень панчф</x> <phonet>vaśəń pańčf</phonet>
+     <xg>
+       <x>васень панчф</x> <phonet>vaśəń pańčf</phonet>
        <xt xml:lang="fin">lumikello (Galanthus)</xt>
      </xg>
-     <xg> <x>васень лов прась</x> <phonet>vaśəń lov praś</phonet>
+     <xg>
+       <x>васень лов прась</x> <phonet>vaśəń lov praś</phonet>
        <xt xml:lang="fin">ensilumi satoi</xt>
      </xg>
    </mg>
@@ -5767,7 +5803,8 @@
      <tg xml:lang="fin">
        <t pos="A">nälkäinen</t>
      </tg>
-     <xg> <x>вача сельме</x> <phonet>vača śeľmä</phonet>
+     <xg>
+       <x>вача сельме</x> <phonet>vača śeľmä</phonet>
        <xt xml:lang="fin">ahne, halukas, himokas</xt>
      </xg>
    </mg>
@@ -5784,13 +5821,16 @@
      <tg xml:lang="fin">
        <t pos="A">nälkäinen</t>
      </tg>
-     <xg> <x>пялес вачеда</x> <phonet>päľəs vačəda</phonet>
+     <xg>
+       <x>пялес вачеда</x> <phonet>päľəs vačəda</phonet>
        <xt xml:lang="fin">nälkiintynyt, nälissään</xt>
      </xg>
-     <xg> <x>вачедонь пект</x> <phonet>vačədəń pekt</phonet>
+     <xg>
+       <x>вачедонь пект</x> <phonet>vačədəń pekt</phonet>
        <xt xml:lang="fin">nälkäisenä</xt>
      </xg>
-     <xg> <x>вачедонь седихть</x> <phonet>vačədəń śeďixť</phonet>
+     <xg>
+       <x>вачедонь седихть</x> <phonet>vačədəń śeďixť</phonet>
        <xt xml:lang="fin">tyhjin vatsoin</xt>
      </xg>
    </mg>
@@ -5828,7 +5868,7 @@
    <lg>
      <l pos="A">вашу</l>
      <stg>
-       <st Contlex="A_">вашу</st>
+       <st Contlex="A_KELU">вашу</st>
      </stg> <phonet>vašu</phonet>
    </lg>
    <mg>
@@ -6085,7 +6125,8 @@
        <t pos="A">märkä</t>
        <t pos="A">vetinen</t>
      </tg>
-     <xg> <x>ведю мода</x> <phonet>veďu moda</phonet>
+     <xg>
+       <x>ведю мода</x> <phonet>veďu moda</phonet>
        <xt xml:lang="fin">vetinen maa</xt>
      </xg>
    </mg>
@@ -6161,7 +6202,8 @@
        <t pos="A">vikkelä</t>
        <t pos="A">ketterä</t>
      </tg>
-     <xg> <x>вежлявгодомс</x> <phonet>vežľavgədəms</phonet>
+     <xg>
+       <x>вежлявгодомс</x> <phonet>vežľavgədəms</phonet>
        <xt xml:lang="fin">tulla vikkeläksi/ketteräksi</xt>
      </xg>
    </mg>
@@ -6430,7 +6472,7 @@
    <lg>
      <l pos="A">верозу</l>
      <stg>
-       <st Contlex="A_">верозу</st>
+       <st Contlex="A_KELU">верозу</st>
      </stg> <phonet>verəzu</phonet>
    </lg>
    <mg>
@@ -6454,10 +6496,12 @@
        <t pos="A">raaka</t>
        <t pos="A">heikko</t>
      </tg>
-     <xg> <x>верок кши</x> <phonet>verək kši</phonet>
+     <xg>
+       <x>верок кши</x> <phonet>verək kši</phonet>
        <xt xml:lang="fin">sisältä paistumatta jäänyt leipä</xt>
      </xg>
-     <xg> <x>верокста</x> <phonet>verəksta</phonet>
+     <xg>
+       <x>верокста</x> <phonet>verəksta</phonet>
        <xt xml:lang="fin">raakana</xt>
      </xg>
    </mg>
@@ -6543,7 +6587,7 @@
    <lg>
      <l pos="A">веры</l>
      <stg>
-       <st Contlex="A_">веры</st>
+       <st Contlex="A_ANDY">веры</st>
      </stg> <phonet>veri, väri</phonet>
    </lg>
    <mg>
@@ -6552,7 +6596,8 @@
        <t pos="A">veri­</t>
        <t pos="A">verinen</t>
      </tg>
-     <xg> <x>веры сельме</x> <phonet>veri śeľmä</phonet>
+     <xg>
+       <x>веры сельме</x> <phonet>veri śeľmä</phonet>
        <xt xml:lang="fin">punasilmä(inen)</xt>
      </xg>
    </mg>
@@ -6794,31 +6839,40 @@
      <tg xml:lang="fra">
        <t pos="A">droit</t>
      </tg>
-     <xg> <x>шуфтсь виде</x> <phonet>šufć viďə</phonet>
+     <xg>
+       <x>шуфтсь виде</x> <phonet>šufć viďə</phonet>
        <xt xml:lang="fin">puu on suora</xt>
      </xg>
-     <xg> <x>сон виде ломанць</x> <phonet>son viďə lomańć</phonet>
+     <xg>
+       <x>сон виде ломанць</x> <phonet>son viďə lomańć</phonet>
        <xt xml:lang="fin">hän on rehellinen ihminen</xt>
      </xg>
-     <xg> <x>виде кядь</x> <phonet>viďə käď</phonet>
+     <xg>
+       <x>виде кядь</x> <phonet>viďə käď</phonet>
        <xt xml:lang="fin">oikea käsi</xt>
      </xg>
-     <xg> <x>виде пяль</x> <phonet>viďə päľ</phonet>
+     <xg>
+       <x>виде пяль</x> <phonet>viďə päľ</phonet>
        <xt xml:lang="fin">oikea puoli</xt>
      </xg>
-     <xg> <x>виде пяли</x> <phonet>viďə päľi</phonet>
+     <xg>
+       <x>виде пяли</x> <phonet>viďə päľi</phonet>
        <xt xml:lang="fin">oikealle</xt>
      </xg>
-     <xg> <x>виде сельмоса</x> <phonet>viďə śeľməsa</phonet>
+     <xg>
+       <x>виде сельмоса</x> <phonet>viďə śeľməsa</phonet>
        <xt xml:lang="fin">paljaalla silmällä, paljain silmin</xt>
      </xg>
-     <xg> <x>виде вайме</x> <phonet>viďə vajmä</phonet>
+     <xg>
+       <x>виде вайме</x> <phonet>viďə vajmä</phonet>
        <xt xml:lang="fin">suoraluontoinen</xt>
      </xg>
-     <xg> <x>виде ваймот</x> <phonet>viďə vajmət</phonet>
+     <xg>
+       <x>виде ваймот</x> <phonet>viďə vajmət</phonet>
        <xt xml:lang="fin">suoraan, kaartelematta</xt>
      </xg>
-     <xg> <x>виде ваймокс</x> <phonet>viďə vajməks</phonet>
+     <xg>
+       <x>виде ваймокс</x> <phonet>viďə vajməks</phonet>
        <xt xml:lang="fin">tunnollisesti, hyvällä omallatunnolla</xt>
      </xg>
    </mg>
@@ -6868,13 +6922,16 @@
      <tg xml:lang="fin">
        <t pos="A">oikeanpuoleinen</t>
      </tg>
-     <xg> <x>види пяли</x> <phonet>viďi päľi</phonet>
+     <xg>
+       <x>види пяли</x> <phonet>viďi päľi</phonet>
        <xt xml:lang="fin">oikealle</xt>
      </xg>
-     <xg> <x>види кядь</x> <phonet>viďi käď</phonet>
+     <xg>
+       <x>види кядь</x> <phonet>viďi käď</phonet>
        <xt xml:lang="fin">oikea käsi.</xt>
      </xg>
-     <xg> <x>види ширеса</x> <phonet>viďi šiŕəsa</phonet>
+     <xg>
+       <x>види ширеса</x> <phonet>viďi šiŕəsa</phonet>
        <xt xml:lang="fin">oikealla puolella</xt>
      </xg>
    </mg>
@@ -6988,7 +7045,8 @@
        <t pos="A">voimakas</t>
        <t pos="A">vahva</t>
      </tg>
-     <xg> <x>вии пизем</x> <phonet>viji piźəm</phonet>
+     <xg>
+       <x>вии пизем</x> <phonet>viji piźəm</phonet>
        <xt xml:lang="fin">rankkasade</xt>
      </xg>
    </mg>
@@ -7050,10 +7108,12 @@
        <t pos="A">syyllinen</t>
        <t pos="A">syypää</t>
      </tg>
-     <xg> <x>аф виноват</x> <phonet>af vinavat</phonet>
+     <xg>
+       <x>аф виноват</x> <phonet>af vinavat</phonet>
        <xt xml:lang="fin">syyllinen, syypää</xt>
      </xg>
-     <xg> <x>виноватокс путомс</x> <phonet>vinavatəks putəms</phonet>
+     <xg>
+       <x>виноватокс путомс</x> <phonet>vinavatəks putəms</phonet>
        <xt xml:lang="fin">syyttää</xt>
      </xg>
    </mg>
@@ -7117,28 +7177,36 @@
        <t pos="A">metsä­</t>
        <t pos="A">villi-</t>
      </tg>
-     <xg> <x>вирень аноклама</x> <phonet>viŕəń anəklama</phonet>
+     <xg>
+       <x>вирень аноклама</x> <phonet>viŕəń anəklama</phonet>
        <xt xml:lang="fin">metsänhakkuu</xt>
      </xg>
-     <xg> <x>вирень озафнема</x> <phonet>viŕəń ozafńəma</phonet>
+     <xg>
+       <x>вирень озафнема</x> <phonet>viŕəń ozafńəma</phonet>
        <xt xml:lang="fin">metsänistutus, metsitys</xt>
      </xg>
-     <xg> <x>вирень ваны</x> <phonet>viŕəń vani</phonet>
+     <xg>
+       <x>вирень ваны</x> <phonet>viŕəń vani</phonet>
        <xt xml:lang="fin">metsänvartija</xt>
      </xg>
-     <xg> <x>вирень пиле</x> <phonet>viŕəń piľä</phonet>
+     <xg>
+       <x>вирень пиле</x> <phonet>viŕəń piľä</phonet>
        <xt xml:lang="fin">etana (Gastropoda)</xt>
      </xg>
-     <xg> <x>вирень почка</x> <phonet>viŕəń počka</phonet>
+     <xg>
+       <x>вирень почка</x> <phonet>viŕəń počka</phonet>
        <xt xml:lang="fin">karhunputki (Angelica sylvestris)</xt>
      </xg>
-     <xg> <x>вирень сараз</x> <phonet>viŕəń saras</phonet>
+     <xg>
+       <x>вирень сараз</x> <phonet>viŕəń saras</phonet>
        <xt xml:lang="fin">kanalintu; metsäkana, peltokana</xt>
      </xg>
-     <xg> <x>вирень тракс</x> <phonet>viŕəń traks</phonet>
+     <xg>
+       <x>вирень тракс</x> <phonet>viŕəń traks</phonet>
        <xt xml:lang="fin">hirvi (Alces alces)</xt>
      </xg>
-     <xg> <x>вирень тува</x> <phonet>viŕəń tuva</phonet>
+     <xg>
+       <x>вирень тува</x> <phonet>viŕəń tuva</phonet>
        <xt xml:lang="fin">villisika (Sus scrofa)</xt>
      </xg>
    </mg>
@@ -7251,13 +7319,16 @@
        <t pos="A">kova</t>
        <t pos="A">ankara</t>
      </tg>
-     <xg> <x>вишке ломань</x> <phonet>viškə lomań</phonet>
+     <xg>
+       <x>вишке ломань</x> <phonet>viškə lomań</phonet>
        <xt xml:lang="fin">vahva ihminen</xt>
      </xg>
-     <xg> <x>вишке пизем</x> <phonet>viškə piźəm</phonet>
+     <xg>
+       <x>вишке пизем</x> <phonet>viškə piźəm</phonet>
        <xt xml:lang="fin">kaatosade</xt>
      </xg>
-     <xg> <x>вишкодонга вишке</x> <phonet>viškədəŋgə viškä</phonet>
+     <xg>
+       <x>вишкодонга вишке</x> <phonet>viškədəŋgə viškä</phonet>
        <xt xml:lang="fin">vahvin mahdollinen</xt>
      </xg>
    </mg>
@@ -7266,7 +7337,7 @@
    <lg>
      <l pos="A">вишконя</l>
      <stg>
-       <st Contlex="A_">вишконя</st>
+       <st Contlex="A_AVA">вишконя</st>
      </stg>
    </lg>
    <mg>
@@ -7809,7 +7880,8 @@
        <t pos="A">karkulainen</t>
        <t pos="A">karkuri</t>
      </tg>
-     <xg> <x>ворьгяй пине</x> <phonet>voŕgäj pińä</phonet>
+     <xg>
+       <x>ворьгяй пине</x> <phonet>voŕgäj pińä</phonet>
        <xt xml:lang="fin">kulkukoira</xt>
      </xg>
    </mg>
@@ -7979,7 +8051,7 @@
    <lg>
      <l pos="A">вредны</l>
      <stg>
-       <st Contlex="A_">вредны</st>
+       <st Contlex="A_ANDY">вредны</st>
      </stg>
    </lg>
    <mg>
@@ -8407,10 +8479,12 @@
        <t pos="A">ylä­</t>
        <t pos="A">yli-</t>
      </tg>
-     <xg> <x>вярдень этаж</x> <phonet>väŕďəń etaš</phonet>
+     <xg>
+       <x>вярдень этаж</x> <phonet>väŕďəń etaš</phonet>
        <xt xml:lang="fin">yläkerta</xt>
      </xg>
-     <xg> <x>вярдень шкай</x> <phonet>väŕďəń škaj</phonet>
+     <xg>
+       <x>вярдень шкай</x> <phonet>väŕďəń škaj</phonet>
        <xt xml:lang="fin">taivaan jumala, ylinen jumala</xt>
      </xg>
    </mg>
@@ -8443,7 +8517,8 @@
      <tg xml:lang="fin">
        <t pos="A">ylhäällä</t>
      </tg>
-     <xg> <x>вярьгак васта</x> <phonet>väŕgak vasta</phonet>
+     <xg>
+       <x>вярьгак васта</x> <phonet>väŕgak vasta</phonet>
        <xt xml:lang="fin">kumpu, töyry</xt>
      </xg>
    </mg>
@@ -8452,7 +8527,7 @@
    <lg>
      <l pos="A">вярьшкиня</l>
      <stg>
-       <st Contlex="A_">вярьшкиня</st>
+       <st Contlex="A_AVA">вярьшкиня</st>
      </stg>
    </lg>
    <mg>
@@ -9264,7 +9339,7 @@
    <lg>
      <l pos="A">горбон</l>
      <stg>
-       <st Contlex="A_">горбон</st>
+       <st Contlex="A_KAL">горбон</st>
      </stg> <phonet>gorbən</phonet>
    </lg>
    <mg>
@@ -9280,7 +9355,8 @@
        <t pos="A">kumarainen</t>
        <t pos="A">kyttyräinen ihminen</t>
      </tg>
-     <xg> <x>горбонцта якай</x> <phonet>gorbənctə jakaj</phonet>
+     <xg>
+       <x>горбонцта якай</x> <phonet>gorbənctə jakaj</phonet>
        <xt xml:lang="fin">kulkee kumarassa</xt>
      </xg>
    </mg>
@@ -9537,7 +9613,7 @@
    <lg>
      <l pos="A">грефу</l>
      <stg>
-       <st Contlex="A_">грефу</st>
+       <st Contlex="A_KELU">грефу</st>
      </stg> <phonet>gŕefu</phonet>
    </lg>
    <mg>
@@ -9698,7 +9774,7 @@
    <lg>
      <l pos="A">губорксу</l>
      <stg>
-       <st Contlex="A_">губорксу</st>
+       <st Contlex="A_KELU">губорксу</st>
      </stg>
    </lg>
    <mg>
@@ -9713,7 +9789,7 @@
    <lg>
      <l pos="A">губору</l>
      <stg>
-       <st Contlex="A_">губору</st>
+       <st Contlex="A_KELU">губору</st>
      </stg>
    </lg>
    <mg>
@@ -10057,7 +10133,7 @@
    <lg>
      <l pos="A">делян</l>
      <stg>
-       <st Contlex="A_">делян</st>
+       <st Contlex="A_KAL">делян</st>
      </stg>
    </lg>
    <mg>
@@ -10405,16 +10481,20 @@
      <tg xml:lang="fin">
        <t pos="A">villi</t>
      </tg>
-     <xg> <x>дикай каза</x> <phonet>ďikaj kaza</phonet>
+     <xg>
+       <x>дикай каза</x> <phonet>ďikaj kaza</phonet>
        <xt xml:lang="fin">villivuohi</xt>
      </xg>
-     <xg> <x>дикай ката</x> <phonet>ďikaj kata</phonet>
+     <xg>
+       <x>дикай ката</x> <phonet>ďikaj kata</phonet>
        <xt xml:lang="fin">villikissa</xt>
      </xg>
-     <xg> <x>дикай тракс</x> <phonet>ďikaj traks</phonet>
+     <xg>
+       <x>дикай тракс</x> <phonet>ďikaj traks</phonet>
        <xt xml:lang="fin">hirvi (Alces alces)</xt>
      </xg>
-     <xg> <x>дикай тува</x> <phonet>ďikaj tuva</phonet>
+     <xg>
+       <x>дикай тува</x> <phonet>ďikaj tuva</phonet>
        <xt xml:lang="fin">villisika (Sus scrofa)</xt>
      </xg>
    </mg>
@@ -10752,7 +10832,7 @@
    <lg>
      <l pos="A">доен</l>
      <stg>
-       <st Contlex="A_">доен</st>
+       <st Contlex="A_KAL">доен</st>
      </stg>
    </lg>
    <mg>
@@ -10843,7 +10923,7 @@
    <lg>
      <l pos="A">долгу</l>
      <stg>
-       <st Contlex="A_">долгу</st>
+       <st Contlex="A_KELU">долгу</st>
      </stg> <phonet>dolgu</phonet>
    </lg>
    <mg>
@@ -10853,10 +10933,12 @@
        <t pos="A">velallinen</t>
        <t pos="A">veloissa oleva</t>
      </tg>
-     <xg> <x>пиле видева долга-шума потмоса</x> <phonet>piľ ə viďəva dolgə-šumə potməsa</phonet>
+     <xg>
+       <x>пиле видева долга-шума потмоса</x> <phonet>piľ ə viďəva dolgə-šumə potməsa</phonet>
        <xt xml:lang="fin">korvia myöten veloissa</xt>
      </xg>
-     <xg> <x>долгуван</x> <phonet>dolguvan</phonet>
+     <xg>
+       <x>долгуван</x> <phonet>dolguvan</phonet>
        <xt xml:lang="fin">olen veloissa</xt>
      </xg>
    </mg>
@@ -10865,7 +10947,7 @@
    <lg>
      <l pos="A">должен</l>
      <stg>
-       <st Contlex="A_">должен</st>
+       <st Contlex="A_KAL">должен</st>
      </stg>
    </lg>
    <mg>
@@ -11160,7 +11242,7 @@
    <lg>
      <l pos="A">духу</l>
      <stg>
-       <st Contlex="A_">духу</st>
+       <st Contlex="A_KELU">духу</st>
      </stg> <phonet>duxu</phonet>
    </lg>
    <mg>
@@ -11476,7 +11558,7 @@
    <lg>
      <l pos="A">жалфу</l>
      <stg>
-       <st Contlex="A_">жалфу</st>
+       <st Contlex="A_KELU">жалфу</st>
      </stg>
    </lg>
    <mg>
@@ -12532,7 +12614,8 @@
        <t pos="A">kulta­</t>
        <t pos="A">kultainen</t>
      </tg>
-     <xg> <x>золодонь сукс</x> <phonet>zolədəń suks</phonet>
+     <xg>
+       <x>золодонь сукс</x> <phonet>zolədəń suks</phonet>
        <xt xml:lang="fin">kiiltomato (Lampyris nocticula).</xt>
      </xg>
    </mg>
@@ -12564,7 +12647,8 @@
      <tg xml:lang="fin">
        <t pos="A">kultainen</t>
      </tg>
-     <xg> <x>золотой пря куй</x> <phonet>zəlatoj pŕä kuj</phonet>
+     <xg>
+       <x>золотой пря куй</x> <phonet>zəlatoj pŕä kuj</phonet>
        <xt xml:lang="fin">tarhakäärme, rantakäärme (Natrix natrix).</xt>
      </xg>
    </mg>
@@ -12857,7 +12941,7 @@
    <lg>
      <l pos="A">изгорксу</l>
      <stg>
-       <st Contlex="A_">изгорксу</st>
+       <st Contlex="A_KELU">изгорксу</st>
      </stg>
    </lg>
    <mg>
@@ -13023,7 +13107,7 @@
    <lg>
      <l pos="A">илу</l>
      <stg>
-       <st Contlex="A_">илу</st>
+       <st Contlex="A_KELU">илу</st>
      </stg> <phonet>ilu</phonet>
    </lg>
    <mg>
@@ -13078,10 +13162,12 @@
        <t pos="A">loppu-</t>
        <t pos="A">viimeinen</t>
      </tg>
-     <xg> <x>максомс илядыксть</x> <phonet>maksəms iľadiksť</phonet>
+     <xg>
+       <x>максомс илядыксть</x> <phonet>maksəms iľadiksť</phonet>
        <xt xml:lang="fin">antaa kaikkensa</xt>
      </xg>
-     <xg> <x>илядыкст</x> <phonet>iľadikst</phonet>
+     <xg>
+       <x>илядыкст</x> <phonet>iľadikst</phonet>
        <xt xml:lang="fin">(mon.) tähteet, rippeet, jäännökset</xt>
      </xg>
    </mg>
@@ -13429,7 +13515,7 @@
    <lg>
      <l pos="A">инзайшканя</l>
      <stg>
-       <st Contlex="A_">инзайшканя</st>
+       <st Contlex="A_AVA">инзайшканя</st>
      </stg>
    </lg>
    <mg>
@@ -13644,7 +13730,7 @@
    <lg>
      <l pos="A">иня</l>
      <stg>
-       <st Contlex="A_">иня</st>
+       <st Contlex="A_AVA">иня</st>
      </stg>
    </lg>
    <mg>
@@ -13697,7 +13783,8 @@
        <t pos="A">juopunut</t>
        <t pos="A">humalainen</t>
      </tg>
-     <xg> <x>кулырецта</x> <phonet>kuliŕəcta</phonet>
+     <xg>
+       <x>кулырецта</x> <phonet>kuliŕəcta</phonet>
        <xt xml:lang="fin">tukkihumalassa</xt>
      </xg>
    </mg>
@@ -13767,7 +13854,7 @@
    <lg>
      <l pos="A">исолоку</l>
      <stg>
-       <st Contlex="A_">исолоку</st>
+       <st Contlex="A_KELU">исолоку</st>
      </stg>
    </lg>
    <mg>
@@ -14209,7 +14296,7 @@
    <lg>
      <l pos="A">каворксу</l>
      <stg>
-       <st Contlex="A_">каворксу</st>
+       <st Contlex="A_KELU">каворксу</st>
      </stg>
    </lg>
    <mg>
@@ -14249,7 +14336,8 @@
        <t pos="A">paperi­</t>
        <t pos="A">paperinen</t>
      </tg>
-     <xg> <x>кагодонь ярмакт</x> <phonet>kagədəń jarmakt</phonet>
+     <xg>
+       <x>кагодонь ярмакт</x> <phonet>kagədəń jarmakt</phonet>
        <xt xml:lang="fin">setelit, paperirahat</xt>
      </xg>
    </mg>
@@ -14340,7 +14428,7 @@
    <lg>
      <l pos="A">казямня</l>
      <stg>
-       <st Contlex="A_">казямня</st>
+       <st Contlex="A_AVA">казямня</st>
      </stg>
    </lg>
    <mg>
@@ -14482,13 +14570,16 @@
        <t pos="A">ankara</t>
        <t pos="A">julma</t>
      </tg>
-     <xg> <x>сон калгода ломанць</x> <phonet>son kalgədə lomańć</phonet>
+     <xg>
+       <x>сон калгода ломанць</x> <phonet>son kalgədə lomańć</phonet>
        <xt xml:lang="fin">hän on karkea ihminen</xt>
      </xg>
-     <xg> <x>калгода пря</x> <phonet>kalgədə pŕä</phonet>
+     <xg>
+       <x>калгода пря</x> <phonet>kalgədə pŕä</phonet>
        <xt xml:lang="fin">kovapäinen</xt>
      </xg>
-     <xg> <x>калготкя</x> <phonet>kalgətkä</phonet>
+     <xg>
+       <x>калготкя</x> <phonet>kalgətkä</phonet>
        <xt xml:lang="fin">kovanlainen</xt>
      </xg>
    </mg>
@@ -14497,7 +14588,7 @@
    <lg>
      <l pos="A">калгу</l>
      <stg>
-       <st Contlex="A_">калгу</st>
+       <st Contlex="A_KELU">калгу</st>
      </stg> <phonet>kalgu</phonet>
    </lg>
    <mg>
@@ -14610,25 +14701,32 @@
        <t pos="A">kala­</t>
        <t pos="A">kalaisa</t>
      </tg>
-     <xg> <x>калонь эйфтема бот</x> <phonet>kaləń äjfťəmə bot</phonet>
+     <xg>
+       <x>калонь эйфтема бот</x> <phonet>kaləń äjfťəmə bot</phonet>
        <xt xml:lang="fin">puuatrain</xt>
      </xg>
-     <xg> <x>калонь кундай</x> <phonet>kaləń kundaj</phonet>
+     <xg>
+       <x>калонь кундай</x> <phonet>kaləń kundaj</phonet>
        <xt xml:lang="fin">kalastaja</xt>
      </xg>
-     <xg> <x>калонь кундама</x> <phonet>kaləń kundama</phonet>
+     <xg>
+       <x>калонь кундама</x> <phonet>kaləń kundama</phonet>
        <xt xml:lang="fin">kalastus</xt>
      </xg>
-     <xg> <x>калонь пакарь</x> <phonet>kaləń pakaŕ</phonet>
+     <xg>
+       <x>калонь пакарь</x> <phonet>kaləń pakaŕ</phonet>
        <xt xml:lang="fin">kalanruoto</xt>
      </xg>
-     <xg> <x>калонь паця</x> <phonet>kaləń paćä</phonet>
+     <xg>
+       <x>калонь паця</x> <phonet>kaləń paćä</phonet>
        <xt xml:lang="fin">evä</xt>
      </xg>
-     <xg> <x>калонь салай</x> <phonet>kaləń salaj</phonet>
+     <xg>
+       <x>калонь салай</x> <phonet>kaləń salaj</phonet>
        <xt xml:lang="fin">lokki (Larus)</xt>
      </xg>
-     <xg> <x>калонь сузма</x> <phonet>kaləń suzma</phonet>
+     <xg>
+       <x>калонь сузма</x> <phonet>kaləń suzma</phonet>
        <xt xml:lang="fin">(murt.) kalansuomu</xt>
      </xg>
    </mg>
@@ -14668,7 +14766,7 @@
    <lg>
      <l pos="A">калу</l>
      <stg>
-       <st Contlex="A_">калу</st>
+       <st Contlex="A_KELU">калу</st>
      </stg> <phonet>kalu</phonet>
    </lg>
    <mg>
@@ -14677,7 +14775,8 @@
        <t pos="A">runsaskalainen</t>
        <t pos="A">kalaisa</t>
      </tg>
-     <xg> <x>тя ляйсь калу</x> <phonet>ťä ľäjś kalu</phonet>
+     <xg>
+       <x>тя ляйсь калу</x> <phonet>ťä ľäjś kalu</phonet>
        <xt xml:lang="fin">tämä on kalaisa joki</xt>
      </xg>
    </mg>
@@ -14713,13 +14812,16 @@
      <tg xml:lang="fra">
        <t pos="A">mauvais</t>
      </tg>
-     <xg> <x>сонь шумбрашиц кальдяв</x> <phonet>soń šumbrašic kaľďav</phonet>
+     <xg>
+       <x>сонь шумбрашиц кальдяв</x> <phonet>soń šumbrašic kaľďav</phonet>
        <xt xml:lang="fin">hänen terveytensä on heikko</xt>
      </xg>
-     <xg> <x>аф кальдяв</x> <phonet>af kaľďav</phonet>
+     <xg>
+       <x>аф кальдяв</x> <phonet>af kaľďav</phonet>
        <xt xml:lang="fin">ei hullumpi</xt>
      </xg>
-     <xg> <x>кальдяв тише</x> <phonet>kaľďav ťišä</phonet>
+     <xg>
+       <x>кальдяв тише</x> <phonet>kaľďav ťišä</phonet>
        <xt xml:lang="fin">rikkaruoho</xt>
      </xg>
    </mg>
@@ -14838,7 +14940,7 @@
    <lg>
      <l pos="A">камакшу</l>
      <stg>
-       <st Contlex="A_">камакшу</st>
+       <st Contlex="A_KELU">камакшу</st>
      </stg> <phonet>kamakšu</phonet>
    </lg>
    <mg>
@@ -14895,7 +14997,7 @@
    <lg>
      <l pos="A">камоку</l>
      <stg>
-       <st Contlex="A_">камоку</st>
+       <st Contlex="A_KELU">камоку</st>
      </stg> <phonet>kamoku</phonet>
    </lg>
    <mg>
@@ -14984,7 +15086,7 @@
    <lg>
      <l pos="A">канду</l>
      <stg>
-       <st Contlex="A_">канду</st>
+       <st Contlex="A_KELU">канду</st>
      </stg>
    </lg>
    <mg>
@@ -15016,7 +15118,7 @@
    <lg>
      <l pos="A">каньзерксу</l>
      <stg>
-       <st Contlex="A_">каньзерксу</st>
+       <st Contlex="A_KELU">каньзерксу</st>
      </stg>
    </lg>
    <mg>
@@ -15272,7 +15374,7 @@
    <lg>
      <l pos="A">кархчафксу</l>
      <stg>
-       <st Contlex="A_">кархчафксу</st>
+       <st Contlex="A_KELU">кархчафксу</st>
      </stg>
    </lg>
    <mg>
@@ -15287,7 +15389,7 @@
    <lg>
      <l pos="A">кархчу</l>
      <stg>
-       <st Contlex="A_">кархчу</st>
+       <st Contlex="A_KELU">кархчу</st>
      </stg>
    </lg>
    <mg>
@@ -15311,10 +15413,12 @@
        <t pos="A">vastakkain</t>
        <t pos="A">vastatusten</t>
      </tg>
-     <xg> <x>карань-каршек</x> <phonet>karań-karšək</phonet>
+     <xg>
+       <x>карань-каршек</x> <phonet>karań-karšək</phonet>
        <xt xml:lang="fin">vastaan, vastoin, vasten</xt>
      </xg>
-     <xg> <x>каршек конят</x> <phonet>karšək końat</phonet>
+     <xg>
+       <x>каршек конят</x> <phonet>karšək końat</phonet>
        <xt xml:lang="fin">vastakkain</xt>
      </xg>
    </mg>
@@ -15553,7 +15657,8 @@
      <tg xml:lang="fin">
        <t pos="A">savuinen</t>
      </tg>
-     <xg> <x>кудса качама</x> <phonet>kucə kačama</phonet>
+     <xg>
+       <x>кудса качама</x> <phonet>kucə kačama</phonet>
        <xt xml:lang="fin">talossa on savuista</xt>
      </xg>
    </mg>
@@ -15562,7 +15667,7 @@
    <lg>
      <l pos="A">качаму</l>
      <stg>
-       <st Contlex="A_">качаму</st>
+       <st Contlex="A_KELU">качаму</st>
      </stg> <phonet>kačamu</phonet>
    </lg>
    <mg>
@@ -15592,7 +15697,7 @@
    <lg>
      <l pos="A">кашан</l>
      <stg>
-       <st Contlex="A_">кашан</st>
+       <st Contlex="A_KAL">кашан</st>
      </stg> <phonet>kašan</phonet>
    </lg>
    <mg>
@@ -15601,7 +15706,8 @@
        <t pos="A">oikullinen</t>
        <t pos="A">äksy</t>
      </tg>
-     <xg> <x>кашан алаша</x> <phonet>kašan alaša</phonet>
+     <xg>
+       <x>кашан алаша</x> <phonet>kašan alaša</phonet>
        <xt xml:lang="fin">vikuri hevonen</xt>
      </xg>
    </mg>
@@ -15712,7 +15818,7 @@
    <lg>
      <l pos="A">каштан</l>
      <stg>
-       <st Contlex="A_">каштан</st>
+       <st Contlex="A_KAL">каштан</st>
      </stg> <phonet>kaštan</phonet>
    </lg>
    <mg>
@@ -15843,10 +15949,12 @@
        <t pos="A">kivinen</t>
        <t pos="A">kivi-</t>
      </tg>
-     <xg> <x>кевонь куд</x> <phonet>kevəń gud</phonet>
+     <xg>
+       <x>кевонь куд</x> <phonet>kevəń gud</phonet>
        <xt xml:lang="fin">1. kivitalo. 2. vankila</xt>
      </xg>
-     <xg> <x>кевонь пря</x> <phonet>kevəń bŕä</phonet>
+     <xg>
+       <x>кевонь пря</x> <phonet>kevəń bŕä</phonet>
        <xt xml:lang="fin">jääräpää</xt>
      </xg>
    </mg>
@@ -15869,7 +15977,7 @@
    <lg>
      <l pos="A">кеву</l>
      <stg>
-       <st Contlex="A_">кеву</st>
+       <st Contlex="A_KELU">кеву</st>
      </stg> <phonet>kevu</phonet>
    </lg>
    <mg>
@@ -15878,7 +15986,8 @@
        <t pos="A">kivinen</t>
        <t pos="A">kivikkoinen</t>
      </tg>
-     <xg> <x>модась тяса кеву</x> <phonet>modaś ťasa kevu</phonet>
+     <xg>
+       <x>модась тяса кеву</x> <phonet>modaś ťasa kevu</phonet>
        <xt xml:lang="fin">maa on täällä kivinen</xt>
      </xg>
    </mg>
@@ -16008,7 +16117,7 @@
    <lg>
      <l pos="A">кезьмян</l>
      <stg>
-       <st Contlex="A_">кезьмян</st>
+       <st Contlex="A_KAL">кезьмян</st>
      </stg>
    </lg>
    <mg>
@@ -16076,13 +16185,16 @@
      <tg xml:lang="fra">
        <t pos="A">large</t>
      </tg>
-     <xg> <x>кели ляй</x> <phonet>keľi ľäj</phonet>
+     <xg>
+       <x>кели ляй</x> <phonet>keľi ľäj</phonet>
        <xt xml:lang="fin">leveä joki</xt>
      </xg>
-     <xg> <x>кели курга</x> <phonet>keľi kurga</phonet>
+     <xg>
+       <x>кели курга</x> <phonet>keľi kurga</phonet>
        <xt xml:lang="fin">suurisuu</xt>
      </xg>
-     <xg> <x>кели кргапарь</x> <phonet>keľi kərgapaŕ</phonet>
+     <xg>
+       <x>кели кргапарь</x> <phonet>keľi kərgapaŕ</phonet>
        <xt xml:lang="fin">juoppo</xt>
      </xg>
    </mg>
@@ -16223,7 +16335,7 @@
    <lg>
      <l pos="A">кельмоня</l>
      <stg>
-       <st Contlex="A_">кельмоня</st>
+       <st Contlex="A_AVA">кельмоня</st>
      </stg>
    </lg>
    <mg>
@@ -16279,13 +16391,16 @@
        <t pos="A">kova</t>
        <t pos="A">luja</t>
      </tg>
-     <xg> <x>кеме шуфта</x> <phonet>kemə šufta</phonet>
+     <xg>
+       <x>кеме шуфта</x> <phonet>kemə šufta</phonet>
        <xt xml:lang="fin">kova puu (aines)</xt>
      </xg>
-     <xg> <x>кеме вал</x> <phonet>kemə val</phonet>
+     <xg>
+       <x>кеме вал</x> <phonet>kemə val</phonet>
        <xt xml:lang="fin">painava sana</xt>
      </xg>
-     <xg> <x>пилес кеме</x> <phonet>piľəs kemä</phonet>
+     <xg>
+       <x>пилес кеме</x> <phonet>piľəs kemä</phonet>
        <xt xml:lang="fin">huonokuuloinen</xt>
      </xg>
    </mg>
@@ -16390,7 +16505,7 @@
    <lg>
      <l pos="A">кенжу</l>
      <stg>
-       <st Contlex="A_">кенжу</st>
+       <st Contlex="A_KELU">кенжу</st>
      </stg> <phonet>keńǯu</phonet>
    </lg>
    <mg>
@@ -16449,7 +16564,7 @@
    <lg>
      <l pos="A">кепоня</l>
      <stg>
-       <st Contlex="A_">кепоня</st>
+       <st Contlex="A_AVA">кепоня</st>
      </stg>
    </lg>
    <mg>
@@ -16488,16 +16603,20 @@
      <tg xml:lang="fra">
        <t pos="A">gauche</t>
      </tg>
-     <xg> <x>кержи пяле</x> <phonet>kerži päľä</phonet>
+     <xg>
+       <x>кержи пяле</x> <phonet>kerži päľä</phonet>
        <xt xml:lang="fin">vasemmalla; vasen puoli; makuupaikka uunin vasemmalla puolella</xt>
      </xg>
-     <xg> <x>кержи пяли</x> <phonet>kerži päľi</phonet>
+     <xg>
+       <x>кержи пяли</x> <phonet>kerži päľi</phonet>
        <xt xml:lang="fin">vasemmalle, vasempaan (päin)</xt>
      </xg>
-     <xg> <x>кержи пяльде</x> <phonet>kerži päľďä</phonet>
+     <xg>
+       <x>кержи пяльде</x> <phonet>kerži päľďä</phonet>
        <xt xml:lang="fin">vasemmalta (päin)</xt>
      </xg>
-     <xg> <x>кержи шири</x> <phonet>kerži šiŕi</phonet>
+     <xg>
+       <x>кержи шири</x> <phonet>kerži šiŕi</phonet>
        <xt xml:lang="fin">vasemmalle sivulle</xt>
      </xg>
    </mg>
@@ -16537,7 +16656,7 @@
    <lg>
      <l pos="A">керы</l>
      <stg>
-       <st Contlex="A_">керы</st>
+       <st Contlex="A_ANDY">керы</st>
      </stg> <phonet>keri</phonet>
    </lg>
    <mg>
@@ -16601,7 +16720,7 @@
    <lg>
      <l pos="A">киволды</l>
      <stg>
-       <st Contlex="A_">киволды</st>
+       <st Contlex="A_ANDY">киволды</st>
      </stg>
    </lg>
    <mg>
@@ -16630,10 +16749,12 @@
      <tg xml:lang="fin">
        <t pos="A">vuosi-</t>
      </tg>
-     <xg> <x>колма кизонь идь</x> <phonet>kolma kizəń iď</phonet>
+     <xg>
+       <x>колма кизонь идь</x> <phonet>kolma kizəń iď</phonet>
        <xt xml:lang="fin">kolmivuotias lapsi</xt>
      </xg>
-     <xg> <x>кизонь-киза</x> <phonet>kizəń-kiza</phonet>
+     <xg>
+       <x>кизонь-киза</x> <phonet>kizəń-kiza</phonet>
        <xt xml:lang="fin">vuosikausia, vuosikausiin</xt>
      </xg>
    </mg>
@@ -16657,7 +16778,7 @@
    <lg>
      <l pos="A">киксу</l>
      <stg>
-       <st Contlex="A_">киксу</st>
+       <st Contlex="A_KELU">киксу</st>
      </stg>
    </lg>
    <mg>
@@ -16714,7 +16835,8 @@
        <t pos="A">ämmä</t>
        <t pos="A">akka</t>
      </tg>
-     <xg> <x>кильдем ава/баба</x> <phonet>kiľďəm ava /baba</phonet>
+     <xg>
+       <x>кильдем ава/баба</x> <phonet>kiľďəm ava /baba</phonet>
        <xt xml:lang="fin">lihava akka</xt>
      </xg>
    </mg>
@@ -16737,7 +16859,7 @@
    <lg>
      <l pos="A">килькшу</l>
      <stg>
-       <st Contlex="A_">килькшу</st>
+       <st Contlex="A_KELU">килькшу</st>
      </stg>
    </lg>
    <mg>
@@ -16790,7 +16912,8 @@
      <tg xml:lang="fin">
        <t pos="A">siedettävä</t>
      </tg>
-     <xg> <x>аф кирдемшка</x> <phonet>af kiŕďəmška</phonet>
+     <xg>
+       <x>аф кирдемшка</x> <phonet>af kiŕďəmška</phonet>
        <xt xml:lang="fin">sietämätön</xt>
      </xg>
    </mg>
@@ -16857,7 +16980,7 @@
    <lg>
      <l pos="A">кирьженя</l>
      <stg>
-       <st Contlex="A_">кирьженя</st>
+       <st Contlex="A_AVA">кирьженя</st>
      </stg>
    </lg>
    <mg>
@@ -16889,7 +17012,7 @@
    <lg>
      <l pos="A">кирьхцетьксу</l>
      <stg>
-       <st Contlex="A_">кирьхцетьксу</st>
+       <st Contlex="A_KELU">кирьхцетьксу</st>
      </stg>
    </lg>
    <mg>
@@ -16918,7 +17041,7 @@
    <lg>
      <l pos="A">китьксу</l>
      <stg>
-       <st Contlex="A_">китьксу</st>
+       <st Contlex="A_KELU">китьксу</st>
      </stg>
    </lg>
    <mg>
@@ -16943,20 +17066,25 @@
        <t pos="A">kiero</t>
        <t pos="A">väärä</t>
      </tg>
-     <xg> <x>кичкор валса корхтамс</x> <phonet>kičkər valsə korxtams</phonet>
+     <xg>
+       <x>кичкор валса корхтамс</x> <phonet>kičkər valsə korxtams</phonet>
        <xt xml:lang="fin">vihjailla, puhua kierrellen</xt>
      </xg>
-     <xg> <x>шуфтонясь касы кичкорста</x> <phonet>šuftəńäś kasi kičkərsta</phonet>
+     <xg>
+       <x>шуфтонясь касы кичкорста</x> <phonet>šuftəńäś kasi kičkərsta</phonet>
        <xt xml:lang="fin">puu kasvaa vinoon</xt>
      </xg>
-     <xg> <x>кичкор-мувор пильге</x> <phonet>kičkər-muvər piľgä</phonet>
+     <xg>
+       <x>кичкор-мувор пильге</x> <phonet>kičkər-muvər piľgä</phonet>
        <xt xml:lang="fin">länkisäärinen</xt>
      </xg>
-     <xg> <x>кичкор-мячкор</x> <phonet>kičkər-mäčkər</phonet>
+     <xg>
+       <x>кичкор-мячкор</x> <phonet>kičkər-mäčkər</phonet>
        <xt xml:lang="fin">kiero</xt>
        <xt xml:lang="fin">väärä</xt>
      </xg>
-     <xg> <x>кичкор-мячкор якай</x> <phonet>kičkər-mäčkər jakaj</phonet>
+     <xg>
+       <x>кичкор-мячкор якай</x> <phonet>kičkər-mäčkər jakaj</phonet>
        <xt xml:lang="fin">hoipertelee (humalainen)</xt>
      </xg>
    </mg>
@@ -17044,7 +17172,7 @@
    <lg>
      <l pos="A">клину</l>
      <stg>
-       <st Contlex="A_">клину</st>
+       <st Contlex="A_KELU">клину</st>
      </stg>
    </lg>
    <mg>
@@ -17299,7 +17427,8 @@
      <tg xml:lang="fin">
        <t pos="A">rikas</t>
      </tg>
-     <xg> <x>козядонга козя</x> <phonet>koźadəŋgə koźä</phonet>
+     <xg>
+       <x>козядонга козя</x> <phonet>koźadəŋgə koźä</phonet>
        <xt xml:lang="fin">rikkain</xt>
      </xg>
    </mg>
@@ -17380,7 +17509,7 @@
    <lg>
      <l pos="A">колмонзання</l>
      <stg>
-       <st Contlex="A_">колмонзання</st>
+       <st Contlex="A_AVA">колмонзання</st>
      </stg>
    </lg>
    <mg>
@@ -17423,7 +17552,7 @@
    <lg>
      <l pos="A">колмоньцаня</l>
      <stg>
-       <st Contlex="A_">колмоньцаня</st>
+       <st Contlex="A_AVA">колмоньцаня</st>
      </stg>
    </lg>
    <mg>
@@ -17573,7 +17702,7 @@
    <lg>
      <l pos="A">комлявня</l>
      <stg>
-       <st Contlex="A_">комлявня</st>
+       <st Contlex="A_AVA">комлявня</st>
      </stg>
    </lg>
    <mg>
@@ -18033,7 +18162,7 @@
    <lg>
      <l pos="A">копу</l>
      <stg>
-       <st Contlex="A_">копу</st>
+       <st Contlex="A_KELU">копу</st>
      </stg>
    </lg>
    <mg>
@@ -18141,7 +18270,7 @@
    <lg>
      <l pos="A">кору</l>
      <stg>
-       <st Contlex="A_">кору</st>
+       <st Contlex="A_KELU">кору</st>
      </stg>
    </lg>
    <mg>
@@ -18156,7 +18285,7 @@
    <lg>
      <l pos="A">корхтафкшу</l>
      <stg>
-       <st Contlex="A_">корхтафкшу</st>
+       <st Contlex="A_KELU">корхтафкшу</st>
      </stg> <phonet>korxtafkšu</phonet>
    </lg>
    <mg>
@@ -18170,7 +18299,7 @@
    <lg>
      <l pos="A">корцу</l>
      <stg>
-       <st Contlex="A_">корцу</st>
+       <st Contlex="A_KELU">корцу</st>
      </stg>
    </lg>
    <mg>
@@ -18277,10 +18406,12 @@
      <tg xml:lang="fra">
        <t pos="A">sec</t>
      </tg>
-     <xg> <x>коське кши</x> <phonet>kośkə kši</phonet>
+     <xg>
+       <x>коське кши</x> <phonet>kośkə kši</phonet>
        <xt xml:lang="fin">kuivattu leipä</xt>
      </xg>
-     <xg> <x>коське сан</x> <phonet>kośkə san</phonet>
+     <xg>
+       <x>коське сан</x> <phonet>kośkə san</phonet>
        <xt xml:lang="fin">jänne</xt>
      </xg>
    </mg>
@@ -18289,7 +18420,7 @@
    <lg>
      <l pos="A">коськоня</l>
      <stg>
-       <st Contlex="A_">коськоня</st>
+       <st Contlex="A_AVA">коськоня</st>
      </stg>
    </lg>
    <mg>
@@ -18362,7 +18493,7 @@
    <lg>
      <l pos="A">кразоюня</l>
      <stg>
-       <st Contlex="A_">кразоюня</st>
+       <st Contlex="A_AVA">кразоюня</st>
      </stg>
    </lg>
    <mg>
@@ -18423,7 +18554,7 @@
    <lg>
      <l pos="A">крахмалу</l>
      <stg>
-       <st Contlex="A_">крахмалу</st>
+       <st Contlex="A_KELU">крахмалу</st>
      </stg>
    </lg>
    <mg>
@@ -18624,7 +18755,7 @@
    <lg>
      <l pos="A">крутаня</l>
      <stg>
-       <st Contlex="A_">крутаня</st>
+       <st Contlex="A_AVA">крутаня</st>
      </stg>
    </lg>
    <mg>
@@ -18661,10 +18792,12 @@
      <tg xml:lang="fin">
        <t pos="A">kummi-</t>
      </tg>
-     <xg> <x>крёснай цёра</x> <phonet>kŕosnaj ćora</phonet>
+     <xg>
+       <x>крёснай цёра</x> <phonet>kŕosnaj ćora</phonet>
        <xt xml:lang="fin">kummipoika</xt>
      </xg>
-     <xg> <x>крёснай тядя</x> <phonet>kŕosnaj ťäďä</phonet>
+     <xg>
+       <x>крёснай тядя</x> <phonet>kŕosnaj ťäďä</phonet>
        <xt xml:lang="fin">kummitäti</xt>
      </xg>
    </mg>
@@ -18699,10 +18832,12 @@
      <tg xml:lang="fra">
        <t pos="A">long</t>
      </tg>
-     <xg> <x>кувака ёфкс</x> <phonet>kuvaka jofks</phonet>
+     <xg>
+       <x>кувака ёфкс</x> <phonet>kuvaka jofks</phonet>
        <xt xml:lang="fin">satu</xt>
      </xg>
-     <xg> <x>кувака сёка</x> <phonet>kuvaka śoka</phonet>
+     <xg>
+       <x>кувака сёка</x> <phonet>kuvaka śoka</phonet>
        <xt xml:lang="fin">naisen hameenkoristeen eräs osa</xt>
      </xg>
    </mg>
@@ -18711,7 +18846,7 @@
    <lg>
      <l pos="A">кувшты</l>
      <stg>
-       <st Contlex="A_">кувшты</st>
+       <st Contlex="A_ANDY">кувшты</st>
      </stg>
    </lg>
    <mg>
@@ -18917,7 +19052,7 @@
    <lg>
      <l pos="A">кулофты</l>
      <stg>
-       <st Contlex="A_">кулофты</st>
+       <st Contlex="A_ANDY">кулофты</st>
      </stg>
    </lg>
    <mg>
@@ -18932,7 +19067,7 @@
    <lg>
      <l pos="A">кулувня</l>
      <stg>
-       <st Contlex="A_">кулувня</st>
+       <st Contlex="A_AVA">кулувня</st>
      </stg>
    </lg>
    <mg>
@@ -18985,7 +19120,8 @@
        <t pos="A">ammoinen</t>
        <t pos="A">muinainen</t>
      </tg>
-     <xg> <x>аф кунардонь</x> <phonet>af kunardəń</phonet>
+     <xg>
+       <x>аф кунардонь</x> <phonet>af kunardəń</phonet>
        <xt xml:lang="fin">äskettäinen, taannoinen</xt>
      </xg>
    </mg>
@@ -19026,7 +19162,7 @@
    <lg>
      <l pos="A">кундраня</l>
      <stg>
-       <st Contlex="A_">кундраня</st>
+       <st Contlex="A_AVA">кундраня</st>
      </stg>
    </lg>
    <mg>
@@ -19568,10 +19704,12 @@
        <t pos="A">ankara</t>
        <t pos="A">vahva (juoma)</t>
      </tg>
-     <xg> <x>кяжи атям</x> <phonet>käži aťam</phonet>
+     <xg>
+       <x>кяжи атям</x> <phonet>käži aťam</phonet>
        <xt xml:lang="fin">kova ukonilma</xt>
      </xg>
-     <xg> <x>кяжи сельмот</x> <phonet>käži śeľmət</phonet>
+     <xg>
+       <x>кяжи сельмот</x> <phonet>käži śeľmət</phonet>
        <xt xml:lang="fin">vihaisesti</xt>
      </xg>
    </mg>
@@ -19590,7 +19728,8 @@
        <t pos="A">-kielinen</t>
        <t pos="A">kielellinen</t>
      </tg>
-     <xg> <x>кялень кизефкс</x> <phonet>käľəń kiźəfks</phonet>
+     <xg>
+       <x>кялень кизефкс</x> <phonet>käľəń kiźəfks</phonet>
        <xt xml:lang="fin">kielikysymys</xt>
      </xg>
    </mg>
@@ -19639,10 +19778,12 @@
        <t pos="A">paljain jaloin</t>
        <t pos="A">avojaloin</t>
      </tg>
-     <xg> <x>якамс кяпе</x> <phonet>jakams käpä</phonet>
+     <xg>
+       <x>якамс кяпе</x> <phonet>jakams käpä</phonet>
        <xt xml:lang="fin">kulkea paljain jaloin</xt>
      </xg>
-     <xg> <x>кяпе-крхтапа</x> <phonet>käpä-kərxtapa</phonet>
+     <xg>
+       <x>кяпе-крхтапа</x> <phonet>käpä-kərxtapa</phonet>
        <xt xml:lang="fin">ilkialaston</xt>
      </xg>
    </mg>
@@ -19651,7 +19792,7 @@
    <lg>
      <l pos="A">кярязу</l>
      <stg>
-       <st Contlex="A_">кярязу</st>
+       <st Contlex="A_KELU">кярязу</st>
      </stg>
    </lg>
    <mg>
@@ -19674,7 +19815,8 @@
        <t pos="A">raitis</t>
        <t pos="A">selvä</t>
      </tg>
-     <xg> <x>кятавста</x> <phonet>kätavsta</phonet>
+     <xg>
+       <x>кятавста</x> <phonet>kätavsta</phonet>
        <xt xml:lang="fin">raittiina, selvänä</xt>
      </xg>
    </mg>
@@ -19712,7 +19854,7 @@
    <lg>
      <l pos="A">кяшу</l>
      <stg>
-       <st Contlex="A_">кяшу</st>
+       <st Contlex="A_KELU">кяшу</st>
      </stg>
    </lg>
    <mg>
@@ -19740,7 +19882,7 @@
    <lg>
      <l pos="A">лаборды</l>
      <stg>
-       <st Contlex="A_">лаборды</st>
+       <st Contlex="A_ANDY">лаборды</st>
      </stg>
    </lg>
    <mg>
@@ -19828,7 +19970,7 @@
    <lg>
      <l pos="A">лаву</l>
      <stg>
-       <st Contlex="A_">лаву</st>
+       <st Contlex="A_KELU">лаву</st>
      </stg> <phonet>lavu</phonet>
    </lg>
    <mg>
@@ -19873,7 +20015,7 @@
    <lg>
      <l pos="A">ладнайня</l>
      <stg>
-       <st Contlex="A_">ладнайня</st>
+       <st Contlex="A_AVA">ладнайня</st>
      </stg>
    </lg>
    <mg>
@@ -19902,7 +20044,7 @@
    <lg>
      <l pos="A">лажаня</l>
      <stg>
-       <st Contlex="A_">лажаня</st>
+       <st Contlex="A_AVA">лажаня</st>
      </stg>
    </lg>
    <mg>
@@ -20037,7 +20179,7 @@
    <lg>
      <l pos="A">лакштан</l>
      <stg>
-       <st Contlex="A_">лакштан</st>
+       <st Contlex="A_KAL">лакштан</st>
      </stg>
    </lg>
    <mg>
@@ -20074,13 +20216,16 @@
        <t pos="A">makea</t>
        <t pos="A">suolaton</t>
      </tg>
-     <xg> <x>ламбама кши</x> <phonet>lambamə kši</phonet>
+     <xg>
+       <x>ламбама кши</x> <phonet>lambamə kši</phonet>
        <xt xml:lang="fin">happamaton leipä</xt>
      </xg>
-     <xg> <x>ламбама ряпс</x> <phonet>lambam(ə) ŕäps</phonet>
+     <xg>
+       <x>ламбама ряпс</x> <phonet>lambam(ə) ŕäps</phonet>
        <xt xml:lang="fin">sokerijuurikas</xt>
      </xg>
-     <xg> <x>ламбама сал</x> <phonet>lambam(ə) sal</phonet>
+     <xg>
+       <x>ламбама сал</x> <phonet>lambam(ə) sal</phonet>
        <xt xml:lang="fin">aluna</xt>
      </xg>
    </mg>
@@ -20175,7 +20320,8 @@
        <t pos="A">-lta</t>
        <t pos="A">päällys-</t>
      </tg>
-     <xg> <x>пянакуд лангста</x> <phonet>pänakud laŋksta</phonet>
+     <xg>
+       <x>пянакуд лангста</x> <phonet>pänakud laŋksta</phonet>
        <xt xml:lang="fin">uunilta</xt>
      </xg>
    </mg>
@@ -20271,17 +20417,21 @@
      <tg xml:lang="fin">
        <t pos="A">avara</t>
      </tg>
-     <xg> <x>лапш пакся</x> <phonet>lapəš pakśä</phonet>
+     <xg>
+       <x>лапш пакся</x> <phonet>lapəš pakśä</phonet>
        <xt xml:lang="fin">laakea pelto</xt>
      </xg>
-     <xg> <x>лапш шалхка</x> <phonet>lapəš šalxka</phonet>
+     <xg>
+       <x>лапш шалхка</x> <phonet>lapəš šalxka</phonet>
        <xt xml:lang="fin">kippuranenä</xt>
        <xt xml:lang="fin">kippuranenäinen</xt>
      </xg>
-     <xg> <x>лапш васта</x> <phonet>lapš/lapəš vasta</phonet>
+     <xg>
+       <x>лапш васта</x> <phonet>lapš/lapəš vasta</phonet>
        <xt xml:lang="fin">alanko</xt>
      </xg>
-     <xg> <x>лапш вастоня</x> <phonet>lapš vastəńä</phonet>
+     <xg>
+       <x>лапш вастоня</x> <phonet>lapš vastəńä</phonet>
        <xt xml:lang="fin">alanko</xt>
      </xg>
    </mg>
@@ -20315,7 +20465,8 @@
        <t pos="A">hevosella oleva</t>
        <t pos="A">ratsailla oleva</t>
      </tg>
-     <xg> <x>ластя ломань</x> <phonet>laśťä lomań</phonet>
+     <xg>
+       <x>ластя ломань</x> <phonet>laśťä lomań</phonet>
        <xt xml:lang="fin">ratsastaja</xt>
        <xt xml:lang="fin">ratsumies</xt>
      </xg>
@@ -20325,7 +20476,7 @@
    <lg>
      <l pos="A">латку</l>
      <stg>
-       <st Contlex="A_">латку</st>
+       <st Contlex="A_KELU">латку</st>
      </stg>
    </lg>
    <mg>
@@ -20340,7 +20491,7 @@
    <lg>
      <l pos="A">латкуня</l>
      <stg>
-       <st Contlex="A_">латкуня</st>
+       <st Contlex="A_AVA">латкуня</st>
      </stg>
    </lg>
    <mg>
@@ -20369,7 +20520,7 @@
    <lg>
      <l pos="A">лафтукшу</l>
      <stg>
-       <st Contlex="A_">лафтукшу</st>
+       <st Contlex="A_KELU">лафтукшу</st>
      </stg>
    </lg>
    <mg>
@@ -20411,14 +20562,17 @@
        <t pos="A">löyhä</t>
        <t pos="A">höllä</t>
      </tg>
-     <xg> <x>лафча васта</x> <phonet>lafčə vasta</phonet>
+     <xg>
+       <x>лафча васта</x> <phonet>lafčə vasta</phonet>
        <xt xml:lang="fin">heikko kohta</xt>
        <xt xml:lang="fin">heikkous</xt>
      </xg>
-     <xg> <x>сонь шумбрашиц лафча</x> <phonet>soń šumbrašic lafča</phonet>
+     <xg>
+       <x>сонь шумбрашиц лафча</x> <phonet>soń šumbrašic lafča</phonet>
        <xt xml:lang="fin">hänen terveytensä on heikko</xt>
      </xg>
-     <xg> <x>лифча-лафча</x> <phonet>ľifča-lafča</phonet>
+     <xg>
+       <x>лифча-лафча</x> <phonet>ľifča-lafča</phonet>
        <xt xml:lang="fin">löyhä</xt>
        <xt xml:lang="fin">harva (kangas, kudonnainen)</xt>
      </xg>
@@ -20428,7 +20582,7 @@
    <lg>
      <l pos="A">лафченя</l>
      <stg>
-       <st Contlex="A_">лафченя</st>
+       <st Contlex="A_AVA">лафченя</st>
      </stg>
    </lg>
    <mg>
@@ -20463,7 +20617,7 @@
    <lg>
      <l pos="A">лашму</l>
      <stg>
-       <st Contlex="A_">лашму</st>
+       <st Contlex="A_KELU">лашму</st>
      </stg>
    </lg>
    <mg>
@@ -20738,7 +20892,7 @@
    <lg>
      <l pos="A">лепоня</l>
      <stg>
-       <st Contlex="A_">лепоня</st>
+       <st Contlex="A_AVA">лепоня</st>
      </stg>
    </lg>
    <mg>
@@ -20802,7 +20956,7 @@
    <lg>
      <l pos="A">летьконя</l>
      <stg>
-       <st Contlex="A_">летьконя</st>
+       <st Contlex="A_AVA">летьконя</st>
      </stg>
    </lg>
    <mg>
@@ -20817,7 +20971,7 @@
    <lg>
      <l pos="A">лефксозу</l>
      <stg>
-       <st Contlex="A_">лефксозу</st>
+       <st Contlex="A_KELU">лефксозу</st>
      </stg>
    </lg>
    <mg>
@@ -20831,7 +20985,7 @@
    <lg>
      <l pos="A">лефксу</l>
      <stg>
-       <st Contlex="A_">лефксу</st>
+       <st Contlex="A_KELU">лефксу</st>
      </stg>
    </lg>
    <mg>
@@ -20862,7 +21016,7 @@
    <lg>
      <l pos="A">лешу</l>
      <stg>
-       <st Contlex="A_">лешу</st>
+       <st Contlex="A_KELU">лешу</st>
      </stg>
    </lg>
    <mg>
@@ -21060,7 +21214,7 @@
    <lg>
      <l pos="A">лифксу</l>
      <stg>
-       <st Contlex="A_">лифксу</st>
+       <st Contlex="A_KELU">лифксу</st>
      </stg> <phonet>ľifksu</phonet>
    </lg>
    <mg>
@@ -21164,7 +21318,8 @@
        <t pos="A">paha</t>
        <t pos="A">ilkeä</t>
      </tg>
-     <xg> <x>лихойсь сяволеза!</x> <phonet>ľixojś śävəľəza</phonet>
+     <xg>
+       <x>лихойсь сяволеза!</x> <phonet>ľixojś śävəľəza</phonet>
        <xt xml:lang="fin">piru vieköön!</xt>
      </xg>
    </mg>
@@ -21279,7 +21434,7 @@
    <lg>
      <l pos="A">лову</l>
      <stg>
-       <st Contlex="A_">лову</st>
+       <st Contlex="A_KELU">лову</st>
      </stg> <phonet>lovu</phonet>
    </lg>
    <mg>
@@ -21287,10 +21442,12 @@
      <tg xml:lang="fin">
        <t pos="A">luminen</t>
      </tg>
-     <xg> <x>лову ульця</x> <phonet>lovu uľćä</phonet>
+     <xg>
+       <x>лову ульця</x> <phonet>lovu uľćä</phonet>
        <xt xml:lang="fin">luminen katu</xt>
      </xg>
-     <xg> <x>лову тялоня</x> <phonet>lovu ťaləńä</phonet>
+     <xg>
+       <x>лову тялоня</x> <phonet>lovu ťaləńä</phonet>
        <xt xml:lang="fin">lumisena talvena</xt>
      </xg>
    </mg>
@@ -21399,7 +21556,8 @@
        <t pos="A">tuuhea</t>
        <t pos="A">runsaslehtinen</t>
      </tg>
-     <xg> <x>лопав шуфта</x> <phonet>lopav šufta</phonet>
+     <xg>
+       <x>лопав шуфта</x> <phonet>lopav šufta</phonet>
        <xt xml:lang="fin">lehtevä puu</xt>
      </xg>
    </mg>
@@ -21437,7 +21595,7 @@
    <lg>
      <l pos="A">лоскан</l>
      <stg>
-       <st Contlex="A_">лоскан</st>
+       <st Contlex="A_KAL">лоскан</st>
      </stg>
    </lg>
    <mg>
@@ -21470,7 +21628,7 @@
    <lg>
      <l pos="A">лоскоду</l>
      <stg>
-       <st Contlex="A_">лоскоду</st>
+       <st Contlex="A_KELU">лоскоду</st>
      </stg> <phonet>loskədu</phonet>
    </lg>
    <mg>
@@ -21515,7 +21673,7 @@
    <lg>
      <l pos="A">лотку</l>
      <stg>
-       <st Contlex="A_">лотку</st>
+       <st Contlex="A_KELU">лотку</st>
      </stg> <phonet>lotku</phonet>
    </lg>
    <mg>
@@ -21523,7 +21681,8 @@
      <tg xml:lang="fin">
        <t pos="A">kuoppainen</t>
      </tg>
-     <xg> <x>лотку-латку</x> <phonet>lotku-latku</phonet>
+     <xg>
+       <x>лотку-латку</x> <phonet>lotku-latku</phonet>
        <xt xml:lang="fin">kuoppainen, epätasainen</xt>
      </xg>
    </mg>
@@ -21562,7 +21721,7 @@
    <lg>
      <l pos="A">лофцу</l>
      <stg>
-       <st Contlex="A_">лофцу</st>
+       <st Contlex="A_KELU">лофцу</st>
      </stg> <phonet>lofcu</phonet>
    </lg>
    <mg>
@@ -21570,7 +21729,8 @@
      <tg xml:lang="fin">
        <t pos="A">maitoinen</t>
      </tg>
-     <xg> <x>лофцу панчф</x> <phonet>lofcu pańčf</phonet>
+     <xg>
+       <x>лофцу панчф</x> <phonet>lofcu pańčf</phonet>
        <xt xml:lang="fin">voikukka (Taraxacum officinale)</xt>
      </xg>
    </mg>
@@ -21654,7 +21814,7 @@
    <lg>
      <l pos="A">лужаня</l>
      <stg>
-       <st Contlex="A_">лужаня</st>
+       <st Contlex="A_AVA">лужаня</st>
      </stg>
    </lg>
    <mg>
@@ -21670,7 +21830,7 @@
    <lg>
      <l pos="A">лужу-лажу</l>
      <stg>
-       <st Contlex="A_">лужу-лажу</st>
+       <st Contlex="A_KELU">лужу-лажу</st>
      </stg>
    </lg>
    <mg>
@@ -21717,7 +21877,7 @@
    <lg>
      <l pos="A">луфксу</l>
      <stg>
-       <st Contlex="A_">луфксу</st>
+       <st Contlex="A_KELU">луфксу</st>
      </stg>
    </lg>
    <mg>
@@ -21732,7 +21892,7 @@
    <lg>
      <l pos="A">лушму</l>
      <stg>
-       <st Contlex="A_">лушму</st>
+       <st Contlex="A_KELU">лушму</st>
      </stg>
    </lg>
    <mg>
@@ -22001,7 +22161,7 @@
    <lg>
      <l pos="A">ляды</l>
      <stg>
-       <st Contlex="A_">ляды</st>
+       <st Contlex="A_ANDY">ляды</st>
      </stg>
    </lg>
    <mg>
@@ -22093,7 +22253,7 @@
    <lg>
      <l pos="A">лямбоня</l>
      <stg>
-       <st Contlex="A_">лямбоня</st>
+       <st Contlex="A_AVA">лямбоня</st>
      </stg> <phonet>ľämbəńä</phonet>
    </lg>
    <mg>
@@ -22144,7 +22304,8 @@
      <tg xml:lang="fin">
        <t pos="A">pehmeä</t>
      </tg>
-     <xg> <x>ляпе васта</x> <phonet>ľäpə vasta</phonet>
+     <xg>
+       <x>ляпе васта</x> <phonet>ľäpə vasta</phonet>
        <xt xml:lang="fin">aukile</xt>
        <xt xml:lang="fin">fontanelli</xt>
        <xt xml:lang="fin">nivuset</xt>
@@ -22155,7 +22316,7 @@
    <lg>
      <l pos="A">ляпоня</l>
      <stg>
-       <st Contlex="A_">ляпоня</st>
+       <st Contlex="A_AVA">ляпоня</st>
      </stg>
    </lg>
    <mg>
@@ -22355,7 +22516,8 @@
        <t pos="A">toukokuinen</t>
        <t pos="A">toukokuun</t>
      </tg>
-     <xg> <x>васенце маень ши</x> <phonet>vaśəńćə majəń ši</phonet>
+     <xg>
+       <x>васенце маень ши</x> <phonet>vaśəńćə majəń ši</phonet>
        <xt xml:lang="fin">vappu</xt>
      </xg>
    </mg>
@@ -22378,7 +22540,7 @@
    <lg>
      <l pos="A">мазиняня</l>
      <stg>
-       <st Contlex="A_">мазиняня</st>
+       <st Contlex="A_AVA">мазиняня</st>
      </stg>
    </lg>
    <mg>
@@ -22393,7 +22555,7 @@
    <lg>
      <l pos="A">мазы</l>
      <stg>
-       <st Contlex="A_">мазы</st>
+       <st Contlex="A_ANDY">мазы</st>
      </stg> <phonet>mazi, maźi</phonet>
    </lg>
    <mg>
@@ -22401,25 +22563,32 @@
      <tg xml:lang="fin">
        <t pos="A">kaunis</t>
      </tg>
-     <xg> <x>мазы пильгоня</x> <phonet>mazi piľgəńä</phonet>
+     <xg>
+       <x>мазы пильгоня</x> <phonet>mazi piľgəńä</phonet>
        <xt xml:lang="fin">mokšalaiset naisen kengät</xt>
      </xg>
-     <xg> <x>мазы шама панчф</x> <phonet>mazi šama pańčf</phonet>
+     <xg>
+       <x>мазы шама панчф</x> <phonet>mazi šama pańčf</phonet>
        <xt xml:lang="fin">orvokki (Viola).</xt>
      </xg>
-     <xg> <x>мазы тутма</x> <phonet>mazi tutma, maźi ťuťme</phonet>
+     <xg>
+       <x>мазы тутма</x> <phonet>mazi tutma, maźi ťuťme</phonet>
        <xt xml:lang="fin">punatulkku (Pyrrhula pyrrhula)</xt>
      </xg>
-     <xg> <x>мазы шире</x> <phonet>mazi šiŕä</phonet>
+     <xg>
+       <x>мазы шире</x> <phonet>mazi šiŕä</phonet>
        <xt xml:lang="fin">kankaan oikea puoli</xt>
      </xg>
-     <xg> <x>мазыня</x> <phonet>mazińä, maźińä</phonet>
+     <xg>
+       <x>мазыня</x> <phonet>mazińä, maźińä</phonet>
        <xt xml:lang="fin">sievä</xt>
      </xg>
-     <xg> <x>аф мазы сельмот ваны</x> <phonet>af mazi śeľmət vani</phonet>
+     <xg>
+       <x>аф мазы сельмот ваны</x> <phonet>af mazi śeľmət vani</phonet>
        <xt xml:lang="fin">katsoo pahalla silmällä</xt>
      </xg>
-     <xg> <x>аф мазыста ваны</x> <phonet>af mazista vani</phonet>
+     <xg>
+       <x>аф мазыста ваны</x> <phonet>af mazista vani</phonet>
        <xt xml:lang="fin">katsoo pahasti</xt>
      </xg>
    </mg>
@@ -22488,7 +22657,7 @@
    <lg>
      <l pos="A">макшу</l>
      <stg>
-       <st Contlex="A_">макшу</st>
+       <st Contlex="A_KELU">макшу</st>
      </stg> <phonet>makšu</phonet>
    </lg>
    <mg>
@@ -22511,25 +22680,32 @@
        <t pos="A">läheinen</t>
        <t pos="A">lähi-</t>
      </tg>
-     <xg> <x>мала ки</x> <phonet>mala ki</phonet>
+     <xg>
+       <x>мала ки</x> <phonet>mala ki</phonet>
        <xt xml:lang="fin">läheinen tie</xt>
      </xg>
-     <xg> <x>маластонь</x> <phonet>malastəń</phonet>
+     <xg>
+       <x>маластонь</x> <phonet>malastəń</phonet>
        <xt xml:lang="fin">läheinen, lähi-</xt>
      </xg>
-     <xg> <x>маластонь шитне</x> <phonet>malastəń šiťńä</phonet>
+     <xg>
+       <x>маластонь шитне</x> <phonet>malastəń šiťńä</phonet>
        <xt xml:lang="fin">lähipäivät</xt>
      </xg>
-     <xg> <x>маластонь ошсь</x> <phonet>malastəń ošś</phonet>
+     <xg>
+       <x>маластонь ошсь</x> <phonet>malastəń ošś</phonet>
        <xt xml:lang="fin">läheinen kaupunki</xt>
      </xg>
-     <xg> <x>малатнень</x> <phonet>malaťńəń</phonet>
+     <xg>
+       <x>малатнень</x> <phonet>malaťńəń</phonet>
        <xt xml:lang="fin">läheiset, lähi-</xt>
      </xg>
-     <xg> <x>малань</x> <phonet>malań</phonet>
+     <xg>
+       <x>малань</x> <phonet>malań</phonet>
        <xt xml:lang="fin">läheinen, lähi-</xt>
      </xg>
-     <xg> <x>малацень</x> <phonet>malaćəń</phonet>
+     <xg>
+       <x>малацень</x> <phonet>malaćəń</phonet>
        <xt xml:lang="fin">läheinen, lähi-</xt>
      </xg>
    </mg>
@@ -22635,10 +22811,12 @@
        <t pos="A">kaunis ilma</t>
        <t pos="A">pouta</t>
      </tg>
-     <xg> <x>аф мани</x> <phonet>af mańi</phonet>
+     <xg>
+       <x>аф мани</x> <phonet>af mańi</phonet>
        <xt xml:lang="fin">ruma ilma</xt>
      </xg>
-     <xg> <x>манинь пингста</x> <phonet>mańiń piŋksta</phonet>
+     <xg>
+       <x>манинь пингста</x> <phonet>mańiń piŋksta</phonet>
        <xt xml:lang="fin">kauniilla ilmalla</xt>
      </xg>
    </mg>
@@ -22669,7 +22847,8 @@
      <tg xml:lang="fin">
        <t pos="A">manna-</t>
      </tg>
-     <xg> <x>маннай ям</x> <phonet>mannaj jam</phonet>
+     <xg>
+       <x>маннай ям</x> <phonet>mannaj jam</phonet>
        <xt xml:lang="fin">mannapuuro</xt>
      </xg>
    </mg>
@@ -22874,7 +23053,7 @@
    <lg>
      <l pos="A">марожу</l>
      <stg>
-       <st Contlex="A_">марожу</st>
+       <st Contlex="A_KELU">марожу</st>
      </stg> <phonet>marəžu</phonet>
    </lg>
    <mg>
@@ -22972,7 +23151,8 @@
        <t pos="A">omenainen</t>
        <t pos="A">omenoita tuottava</t>
      </tg>
-     <xg> <x>марлюсь марю</x> <phonet>maŕľuś maŕu</phonet>
+     <xg>
+       <x>марлюсь марю</x> <phonet>maŕľuś maŕu</phonet>
        <xt xml:lang="fin">omenapuu on satoisa, tuottoisa</xt>
      </xg>
    </mg>
@@ -23198,10 +23378,12 @@
        <t pos="A">matala (vesi)</t>
        <t pos="A">matalikko</t>
      </tg>
-     <xg> <x>маця ляйня</x> <phonet>maćä ľäjńä</phonet>
+     <xg>
+       <x>маця ляйня</x> <phonet>maćä ľäjńä</phonet>
        <xt xml:lang="fin">matala joki</xt>
      </xg>
-     <xg> <x>озамс маця вастс</x> <phonet>ozams maćä vasc</phonet>
+     <xg>
+       <x>озамс маця вастс</x> <phonet>ozams maćä vasc</phonet>
        <xt xml:lang="fin">ajaa matalikolle</xt>
      </xg>
    </mg>
@@ -23315,7 +23497,7 @@
    <lg>
      <l pos="A">машты</l>
      <stg>
-       <st Contlex="A_">машты</st>
+       <st Contlex="A_ANDY">машты</st>
      </stg>
    </lg>
    <mg>
@@ -23362,7 +23544,7 @@
    <lg>
      <l pos="A">медень канды</l>
      <stg>
-       <st Contlex="A_">медень канды</st>
+       <st Contlex="A_ANDY">медень канды</st>
      </stg>
    </lg>
    <mg>
@@ -23447,7 +23629,8 @@
        <t pos="A">takimmainen</t>
        <t pos="A">viimeinen</t>
      </tg>
-     <xg> <x>мекольцеда</x> <phonet>mekəľćəda</phonet>
+     <xg>
+       <x>мекольцеда</x> <phonet>mekəľćəda</phonet>
        <xt xml:lang="fin">viimeisen kerran, viimeksi</xt>
      </xg>
    </mg>
@@ -23508,7 +23691,8 @@
        <t pos="A">hieno</t>
        <t pos="A">pieni</t>
      </tg>
-     <xg> <x>мелкай ярмакт</x> <phonet>melkaj jarmakt</phonet>
+     <xg>
+       <x>мелкай ярмакт</x> <phonet>melkaj jarmakt</phonet>
        <xt xml:lang="fin">pikkurahat, kolikot</xt>
      </xg>
    </mg>
@@ -23679,7 +23863,7 @@
    <lg>
      <l pos="A">менду</l>
      <stg>
-       <st Contlex="A_">менду</st>
+       <st Contlex="A_KELU">менду</st>
      </stg>
    </lg>
    <mg>
@@ -24376,7 +24560,7 @@
    <lg>
      <l pos="A">моргу</l>
      <stg>
-       <st Contlex="A_">моргу</st>
+       <st Contlex="A_KELU">моргу</st>
      </stg>
    </lg>
    <mg>
@@ -24386,7 +24570,8 @@
        <t pos="A">oksainen</t>
        <t pos="A">tuuhea</t>
      </tg>
-     <xg> <x>моргу шуфта</x> <phonet>morgu šufta</phonet>
+     <xg>
+       <x>моргу шуфта</x> <phonet>morgu šufta</phonet>
        <xt xml:lang="fin">oksainen puu</xt>
      </xg>
    </mg>
@@ -24441,13 +24626,16 @@
      <tg xml:lang="fin">
        <t pos="A">syyllinen</t>
      </tg>
-     <xg> <x>шовор-мувор</x> <phonet>šovər-muvər</phonet>
+     <xg>
+       <x>шовор-мувор</x> <phonet>šovər-muvər</phonet>
        <xt xml:lang="fin">suvustaan huonontunut, degeneroitunut</xt>
      </xg>
-     <xg> <x>шовор-мувор тусь</x> <phonet>šovər-muvər tuś</phonet>
+     <xg>
+       <x>шовор-мувор тусь</x> <phonet>šovər-muvər tuś</phonet>
        <xt xml:lang="fin">meni pois</xt>
      </xg>
-     <xg> <x>кичкор-мувор</x> <phonet>kičkər-muvər</phonet>
+     <xg>
+       <x>кичкор-мувор</x> <phonet>kičkər-muvər</phonet>
        <xt xml:lang="fin">kiero, väärä</xt>
      </xg>
    </mg>
@@ -24456,7 +24644,7 @@
    <lg>
      <l pos="A">мувору</l>
      <stg>
-       <st Contlex="A_">мувору</st>
+       <st Contlex="A_KELU">мувору</st>
      </stg> <phonet>muvəru</phonet>
    </lg>
    <mg>
@@ -24465,7 +24653,8 @@
        <t pos="A">syyllinen</t>
        <t pos="A">syypää</t>
      </tg>
-     <xg> <x>муворукс путомс</x> <phonet>muvəruks putəms</phonet>
+     <xg>
+       <x>муворукс путомс</x> <phonet>muvəruks putəms</phonet>
        <xt xml:lang="fin">syyttää</xt>
      </xg>
    </mg>
@@ -24562,7 +24751,7 @@
    <lg>
      <l pos="A">мурду</l>
      <stg>
-       <st Contlex="A_">мурду</st>
+       <st Contlex="A_KELU">мурду</st>
      </stg>
    </lg>
    <mg>
@@ -24607,7 +24796,7 @@
    <lg>
      <l pos="A">мутнаня</l>
      <stg>
-       <st Contlex="A_">мутнаня</st>
+       <st Contlex="A_AVA">мутнаня</st>
      </stg>
    </lg>
    <mg>
@@ -24622,7 +24811,7 @@
    <lg>
      <l pos="A">мучу</l>
      <stg>
-       <st Contlex="A_">мучу</st>
+       <st Contlex="A_KELU">мучу</st>
      </stg>
    </lg>
    <mg>
@@ -24652,7 +24841,7 @@
    <lg>
      <l pos="A">мушку</l>
      <stg>
-       <st Contlex="A_">мушку</st>
+       <st Contlex="A_KELU">мушку</st>
      </stg>
    </lg>
    <mg>
@@ -24715,7 +24904,7 @@
    <lg>
      <l pos="A">мяльдяфкшу</l>
      <stg>
-       <st Contlex="A_">мяльдяфкшу</st>
+       <st Contlex="A_KELU">мяльдяфкшу</st>
      </stg>
    </lg>
    <mg>
@@ -24745,7 +24934,7 @@
    <lg>
      <l pos="A">мяльфтемня</l>
      <stg>
-       <st Contlex="A_">мяльфтемня</st>
+       <st Contlex="A_AVA">мяльфтемня</st>
      </stg>
    </lg>
    <mg>
@@ -24775,7 +24964,7 @@
    <lg>
      <l pos="A">мялямксу</l>
      <stg>
-       <st Contlex="A_">мялямксу</st>
+       <st Contlex="A_KELU">мялямксу</st>
      </stg>
    </lg>
    <mg>
@@ -24790,7 +24979,7 @@
    <lg>
      <l pos="A">мялямкшу</l>
      <stg>
-       <st Contlex="A_">мялямкшу</st>
+       <st Contlex="A_KELU">мялямкшу</st>
      </stg>
    </lg>
    <mg>
@@ -24804,7 +24993,7 @@
    <lg>
      <l pos="A">мяляму</l>
      <stg>
-       <st Contlex="A_">мяляму</st>
+       <st Contlex="A_KELU">мяляму</st>
      </stg> <phonet>mäľamu</phonet>
    </lg>
    <mg>
@@ -24931,7 +25120,8 @@
        <t pos="A">lima­</t>
        <t pos="A">limainen</t>
      </tg>
-     <xg> <x>навла панга</x> <phonet>navla paŋga</phonet>
+     <xg>
+       <x>навла панга</x> <phonet>navla paŋga</phonet>
        <xt xml:lang="fin">voitatti (Boletus luteus)</xt>
      </xg>
    </mg>
@@ -25066,7 +25256,7 @@
    <lg>
      <l pos="A">назёму</l>
      <stg>
-       <st Contlex="A_">назёму</st>
+       <st Contlex="A_KELU">назёму</st>
      </stg> <phonet>naźomu</phonet>
    </lg>
    <mg>
@@ -25221,7 +25411,7 @@
    <lg>
      <l pos="A">намозу</l>
      <stg>
-       <st Contlex="A_">намозу</st>
+       <st Contlex="A_KELU">намозу</st>
      </stg>
    </lg>
    <mg>
@@ -25308,7 +25498,8 @@
        <t pos="A">luja</t>
        <t pos="A">vahva</t>
      </tg>
-     <xg> <x>конашкава алясь нарде!</x> <phonet>konaškava aľäś naŕďä</phonet>
+     <xg>
+       <x>конашкава алясь нарде!</x> <phonet>konaškava aľäś naŕďä</phonet>
        <xt xml:lang="fin">kuinka vahva (tämä) mies onkaan!</xt>
      </xg>
    </mg>
@@ -25364,7 +25555,7 @@
    <lg>
      <l pos="A">нару</l>
      <stg>
-       <st Contlex="A_">нару</st>
+       <st Contlex="A_KELU">нару</st>
      </stg> <phonet>naru</phonet>
    </lg>
    <mg>
@@ -25528,7 +25719,8 @@
      <tg xml:lang="fra">
        <t pos="A">mouillé</t>
      </tg>
-     <xg> <x>кода начка варси</x> <phonet>koda načkə varsi</phonet>
+     <xg>
+       <x>кода начка варси</x> <phonet>koda načkə varsi</phonet>
        <xt xml:lang="fin">kuin märkä varis</xt>
      </xg>
    </mg>
@@ -25537,7 +25729,7 @@
    <lg>
      <l pos="A">начконя</l>
      <stg>
-       <st Contlex="A_">начконя</st>
+       <st Contlex="A_AVA">начконя</st>
      </stg>
    </lg>
    <mg>
@@ -25552,7 +25744,7 @@
    <lg>
      <l pos="A">наян</l>
      <stg>
-       <st Contlex="A_">наян</st>
+       <st Contlex="A_KAL">наян</st>
      </stg> <phonet>najan</phonet>
    </lg>
    <mg>
@@ -25992,11 +26184,13 @@
        <t pos="A">vino</t>
        <t pos="A">kalteva</t>
      </tg>
-     <xg> <x>нокла шуфта</x> <phonet>nokla šufta</phonet>
+     <xg>
+       <x>нокла шуфта</x> <phonet>nokla šufta</phonet>
        <xt xml:lang="fin">vinossa seisova puu</xt>
        <xt xml:lang="fin">vinosti/vinoon/väärään kasvava puu</xt>
      </xg>
-     <xg> <x>тоса кись нокла</x> <phonet>tosa kiś nokla</phonet>
+     <xg>
+       <x>тоса кись нокла</x> <phonet>tosa kiś nokla</phonet>
        <xt xml:lang="fin">tie on siellä kalteva</xt>
      </xg>
    </mg>
@@ -26033,7 +26227,7 @@
    <lg>
      <l pos="A">нолгады</l>
      <stg>
-       <st Contlex="A_">нолгады</st>
+       <st Contlex="A_ANDY">нолгады</st>
      </stg>
    </lg>
    <mg>
@@ -26064,7 +26258,7 @@
    <lg>
      <l pos="A">нолгажу</l>
      <stg>
-       <st Contlex="A_">нолгажу</st>
+       <st Contlex="A_KELU">нолгажу</st>
      </stg> <phonet>nolgažu</phonet>
    </lg>
    <mg>
@@ -26078,7 +26272,8 @@
      <tg xml:lang="fin">
        <t pos="A">jatkuvasti hikoava</t>
      </tg>
-     <xg> <x>нолгажу ки</x> <phonet>nolgažu ki</phonet>
+     <xg>
+       <x>нолгажу ки</x> <phonet>nolgažu ki</phonet>
        <xt xml:lang="fin">liukas tie</xt>
      </xg>
    </mg>
@@ -26118,7 +26313,7 @@
    <lg>
      <l pos="A">нолгу</l>
      <stg>
-       <st Contlex="A_">нолгу</st>
+       <st Contlex="A_KELU">нолгу</st>
      </stg>
    </lg>
    <mg>
@@ -26263,7 +26458,7 @@
    <lg>
      <l pos="A">ношконя</l>
      <stg>
-       <st Contlex="A_">ношконя</st>
+       <st Contlex="A_AVA">ношконя</st>
      </stg>
    </lg>
    <mg>
@@ -26500,7 +26695,7 @@
    <lg>
      <l pos="A">нюрьхкшты</l>
      <stg>
-       <st Contlex="A_">нюрьхкшты</st>
+       <st Contlex="A_ANDY">нюрьхкшты</st>
      </stg>
    </lg>
    <mg>
@@ -26515,7 +26710,7 @@
    <lg>
      <l pos="A">нюрьхкяня</l>
      <stg>
-       <st Contlex="A_">нюрьхкяня</st>
+       <st Contlex="A_AVA">нюрьхкяня</st>
      </stg> <phonet>ńuŕxkäńä, ńəŕxkäńä</phonet>
    </lg>
    <mg>
@@ -26526,7 +26721,8 @@
      <tg xml:lang="fra">
        <t pos="A">court</t>
      </tg>
-     <xg> <x>нюрьхкяняста азомс</x> <phonet>ńuŕxkäńast(a) azəms</phonet>
+     <xg>
+       <x>нюрьхкяняста азомс</x> <phonet>ńuŕxkäńast(a) azəms</phonet>
        <xt xml:lang="fin">kertoa lyhyesti</xt>
      </xg>
    </mg>
@@ -26558,10 +26754,12 @@
        <t pos="A">havaittava</t>
        <t pos="A">huomattava</t>
      </tg>
-     <xg> <x>аф няевикс</x> <phonet>af ńäjəviks</phonet>
+     <xg>
+       <x>аф няевикс</x> <phonet>af ńäjəviks</phonet>
        <xt xml:lang="fin">näkymätön, huomaamaton</xt>
      </xg>
-     <xg> <x>аф няевикс яння</x> <phonet>af ńäjəviks janńä</phonet>
+     <xg>
+       <x>аф няевикс яння</x> <phonet>af ńäjəviks janńä</phonet>
        <xt xml:lang="fin">huomaamaton polku</xt>
      </xg>
    </mg>
@@ -26587,7 +26785,7 @@
    <lg>
      <l pos="A">няемашканя</l>
      <stg>
-       <st Contlex="A_">няемашканя</st>
+       <st Contlex="A_AVA">няемашканя</st>
      </stg>
    </lg>
    <mg>
@@ -27040,40 +27238,52 @@
      <tg xml:lang="fra">
        <t pos="A">nouveau</t>
      </tg>
-     <xg> <x>од киза</x> <phonet>od kiza</phonet>
+     <xg>
+       <x>од киза</x> <phonet>od kiza</phonet>
        <xt xml:lang="fin">uusivuosi</xt>
      </xg>
-     <xg> <x>од ков</x> <phonet>od kov</phonet>
+     <xg>
+       <x>од ков</x> <phonet>od kov</phonet>
        <xt xml:lang="fin">uusikuu</xt>
      </xg>
-     <xg> <x>од куля</x> <phonet>od kuľä</phonet>
+     <xg>
+       <x>од куля</x> <phonet>od kuľä</phonet>
        <xt xml:lang="fin">uutinen</xt>
      </xg>
-     <xg> <x>мезе од?</x> <phonet>meź(ə) od?</phonet>
+     <xg>
+       <x>мезе од?</x> <phonet>meź(ə) od?</phonet>
        <xt xml:lang="fin">mitä uutta? mitä kuuluu?</xt>
      </xg>
-     <xg> <x>одкс</x> <phonet>otks</phonet>
+     <xg>
+       <x>одкс</x> <phonet>otks</phonet>
        <xt xml:lang="fin">uudelleen, uudestaan</xt>
      </xg>
-     <xg> <x>од шачф</x> <phonet>od šačf</phonet>
+     <xg>
+       <x>од шачф</x> <phonet>od šačf</phonet>
        <xt xml:lang="fin">vastasyntynyt</xt>
      </xg>
-     <xg> <x>од ломатть</x> <phonet>od lomaťť</phonet>
+     <xg>
+       <x>од ломатть</x> <phonet>od lomaťť</phonet>
        <xt xml:lang="fin">nuoriso</xt>
      </xg>
-     <xg> <x>од рьвяня</x> <phonet>od əŕväńä</phonet>
+     <xg>
+       <x>од рьвяня</x> <phonet>od əŕväńä</phonet>
        <xt xml:lang="fin">nuorikko</xt>
      </xg>
-     <xg> <x>од цёра</x> <phonet>od ćora, od ʒ’ora</phonet>
+     <xg>
+       <x>од цёра</x> <phonet>od ćora, od ʒ’ora</phonet>
        <xt xml:lang="fin">nuorukainen</xt>
      </xg>
-     <xg> <x>од пара пряса</x> <phonet>od par(ə) pŕasa</phonet>
+     <xg>
+       <x>од пара пряса</x> <phonet>od par(ə) pŕasa</phonet>
        <xt xml:lang="fin">niin nuori; niin nuorena</xt>
      </xg>
-     <xg> <x>одня</x> <phonet>odńä</phonet>
+     <xg>
+       <x>одня</x> <phonet>odńä</phonet>
        <xt xml:lang="fin">uudehko, uudenlainen; nuorehko, nuorekas</xt>
      </xg>
-     <xg> <x>лангс ваномс одня</x> <phonet>laŋks vanəms odńä</phonet>
+     <xg>
+       <x>лангс ваномс одня</x> <phonet>laŋks vanəms odńä</phonet>
        <xt xml:lang="fin">hän on nuoren näköinen</xt>
      </xg>
    </mg>
@@ -27349,13 +27559,16 @@
      <tg xml:lang="fin">
        <t pos="A">(num.) toinen</t>
      </tg>
-     <xg> <x>омба мастор</x> <phonet>ombə mastər</phonet>
+     <xg>
+       <x>омба мастор</x> <phonet>ombə mastər</phonet>
        <xt xml:lang="fin">ulkomaa, vieras maa.</xt>
      </xg>
-     <xg> <x>сон эряй омба берякса</x> <phonet>son eŕäj ombə beŕaksa</phonet>
+     <xg>
+       <x>сон эряй омба берякса</x> <phonet>son eŕäj ombə beŕaksa</phonet>
        <xt xml:lang="fin">hän asuu vastarannalla.</xt>
      </xg>
-     <xg> <x>омба пяли</x> <phonet>ombə päľi</phonet>
+     <xg>
+       <x>омба пяли</x> <phonet>ombə päľi</phonet>
        <xt xml:lang="fin">toiselle puolelle.</xt>
      </xg>
    </mg>
@@ -27421,7 +27634,7 @@
    <lg>
      <l pos="A">опапты</l>
      <stg>
-       <st Contlex="A_">опапты</st>
+       <st Contlex="A_ANDY">опапты</st>
      </stg>
    </lg>
    <mg>
@@ -27692,13 +27905,16 @@
      <tg xml:lang="fra">
        <t pos="A">tranchant</t>
      </tg>
-     <xg> <x>оржа пе</x> <phonet>orǯa pe</phonet>
+     <xg>
+       <x>оржа пе</x> <phonet>orǯa pe</phonet>
        <xt xml:lang="fin">terävä kärki.</xt>
      </xg>
-     <xg> <x>оржа ёнь</x> <phonet>orǯa joń</phonet>
+     <xg>
+       <x>оржа ёнь</x> <phonet>orǯa joń</phonet>
        <xt xml:lang="fin">terävä äly.</xt>
      </xg>
-     <xg> <x>оржаня</x> <phonet>orǯańä</phonet>
+     <xg>
+       <x>оржаня</x> <phonet>orǯańä</phonet>
        <xt xml:lang="fin">terävänlainen</xt>
      </xg>
    </mg>
@@ -27848,7 +28064,7 @@
    <lg>
      <l pos="A">оталаня</l>
      <stg>
-       <st Contlex="A_">оталаня</st>
+       <st Contlex="A_AVA">оталаня</st>
      </stg>
    </lg>
    <mg>
@@ -28086,7 +28302,7 @@
    <lg>
      <l pos="A">отькорня</l>
      <stg>
-       <st Contlex="A_">отькорня</st>
+       <st Contlex="A_AVA">отькорня</st>
      </stg>
    </lg>
    <mg>
@@ -28110,7 +28326,8 @@
        <t pos="A">sukkela</t>
        <t pos="A">nokkela</t>
      </tg>
-     <xg> <x>отькорь цёра</x> <phonet>oťkəŕ ćora</phonet>
+     <xg>
+       <x>отькорь цёра</x> <phonet>oťkəŕ ćora</phonet>
        <xt xml:lang="fin">nokkela poika.</xt>
      </xg>
    </mg>
@@ -28229,40 +28446,52 @@
      <tg xml:lang="fra">
        <t pos="A">grand</t>
      </tg>
-     <xg> <x>оцю ака</x> <phonet>oću aka</phonet>
+     <xg>
+       <x>оцю ака</x> <phonet>oću aka</phonet>
        <xt xml:lang="fin">isosisko, vanhempi sisar.</xt>
      </xg>
-     <xg> <x>оцю мяль</x> <phonet>oću mäľ</phonet>
+     <xg>
+       <x>оцю мяль</x> <phonet>oću mäľ</phonet>
        <xt xml:lang="fin">into, innostus.</xt>
      </xg>
-     <xg> <x>сон оцю мяльса кундась тонафнемати</x> <phonet>son oću mäľsə kundaś tonafńəmaťi</phonet>
+     <xg>
+       <x>сон оцю мяльса кундась тонафнемати</x> <phonet>son oću mäľsə kundaś tonafńəmaťi</phonet>
        <xt xml:lang="fin">hän tarttui opintoihin innolla.</xt>
      </xg>
-     <xg> <x>оцю пря</x> <phonet>oću pŕä</phonet>
+     <xg>
+       <x>оцю пря</x> <phonet>oću pŕä</phonet>
        <xt xml:lang="fin">isopäinen.</xt>
      </xg>
-     <xg> <x>оцю пря корож</x> <phonet>oću pŕä korəš</phonet>
+     <xg>
+       <x>оцю пря корож</x> <phonet>oću pŕä korəš</phonet>
        <xt xml:lang="fin">huuhkaja (Bubo bubo).</xt>
      </xg>
-     <xg> <x>оцю прят тарксемс</x> <phonet>oću pŕat tarkśəms</phonet>
+     <xg>
+       <x>оцю прят тарксемс</x> <phonet>oću pŕat tarkśəms</phonet>
        <xt xml:lang="fin">luulla liikoja itsestään.</xt>
      </xg>
-     <xg> <x>оцю сур</x> <phonet>oću sur</phonet>
+     <xg>
+       <x>оцю сур</x> <phonet>oću sur</phonet>
        <xt xml:lang="fin">keskisormi.</xt>
      </xg>
-     <xg> <x>оцю шалхка</x> <phonet>oću šalxka</phonet>
+     <xg>
+       <x>оцю шалхка</x> <phonet>oću šalxka</phonet>
        <xt xml:lang="fin">pitkänenäinen.</xt>
      </xg>
-     <xg> <x>оцюдонга оцю</x> <phonet>oćudəŋg(ə) oću</phonet>
+     <xg>
+       <x>оцюдонга оцю</x> <phonet>oćudəŋg(ə) oću</phonet>
        <xt xml:lang="fin">mahdollisimman suuri, suuren suuri.</xt>
      </xg>
-     <xg> <x>оцюват</x> <phonet>oćuvat</phonet>
+     <xg>
+       <x>оцюват</x> <phonet>oćuvat</phonet>
        <xt xml:lang="fin">olet iso.</xt>
      </xg>
-     <xg> <x>касат оцюста</x> <phonet>kasat oćusta</phonet>
+     <xg>
+       <x>касат оцюста</x> <phonet>kasat oćusta</phonet>
        <xt xml:lang="fin">kasvat isoksi.</xt>
      </xg>
-     <xg> <x>оцюнек-ёмланек</x> <phonet>oćunək-jomlańək</phonet>
+     <xg>
+       <x>оцюнек-ёмланек</x> <phonet>oćunək-jomlańək</phonet>
        <xt xml:lang="fin">kaikkineen.</xt>
      </xg>
    </mg>
@@ -28271,7 +28500,7 @@
    <lg>
      <l pos="A">оцюня</l>
      <stg>
-       <st Contlex="A_">оцюня</st>
+       <st Contlex="A_AVA">оцюня</st>
      </stg> <phonet>oćuńä</phonet>
    </lg>
    <mg>
@@ -28280,7 +28509,8 @@
        <t pos="A">johtaja</t>
        <t pos="A">esimies</t>
      </tg>
-     <xg> <x>велень оцюня</x> <phonet>veľəń oćuńä</phonet>
+     <xg>
+       <x>велень оцюня</x> <phonet>veľəń oćuńä</phonet>
        <xt xml:lang="fin">kylänvanhin.</xt>
      </xg>
    </mg>
@@ -28373,7 +28603,7 @@
    <lg>
      <l pos="A">павазу</l>
      <stg>
-       <st Contlex="A_">павазу</st>
+       <st Contlex="A_KELU">павазу</st>
      </stg> <phonet>pavazu</phonet>
    </lg>
    <mg>
@@ -28382,10 +28612,12 @@
        <t pos="A">onnellinen</t>
        <t pos="A">onnekas</t>
      </tg>
-     <xg> <x>павазу идень пинге</x> <phonet>pavazu iďəń piŋgä</phonet>
+     <xg>
+       <x>павазу идень пинге</x> <phonet>pavazu iďəń piŋgä</phonet>
        <xt xml:lang="fin">onnellinen lapsuus.</xt>
      </xg>
-     <xg> <x>павазу ломань</x> <phonet>pavazu lomań</phonet>
+     <xg>
+       <x>павазу ломань</x> <phonet>pavazu lomań</phonet>
        <xt xml:lang="fin">onnekas ihminen.</xt>
      </xg>
    </mg>
@@ -28515,10 +28747,12 @@
        <t pos="A">luinen</t>
        <t pos="A">luiseva</t>
      </tg>
-     <xg> <x>пакарю кал</x> <phonet>pakaŕu kal</phonet>
+     <xg>
+       <x>пакарю кал</x> <phonet>pakaŕu kal</phonet>
        <xt xml:lang="fin">ruotoinen kala.</xt>
      </xg>
-     <xg> <x>пакарю ломань</x> <phonet>pakaŕu lomań</phonet>
+     <xg>
+       <x>пакарю ломань</x> <phonet>pakaŕu lomań</phonet>
        <xt xml:lang="fin">luiseva ihminen.</xt>
      </xg>
    </mg>
@@ -28527,7 +28761,7 @@
    <lg>
      <l pos="A">пакору</l>
      <stg>
-       <st Contlex="A_">пакору</st>
+       <st Contlex="A_KELU">пакору</st>
      </stg>
    </lg>
    <mg>
@@ -28569,7 +28803,7 @@
    <lg>
      <l pos="A">пакшу</l>
      <stg>
-       <st Contlex="A_">пакшу</st>
+       <st Contlex="A_KELU">пакшу</st>
      </stg> <phonet>pakšu</phonet>
    </lg>
    <mg>
@@ -28639,7 +28873,7 @@
    <lg>
      <l pos="A">пангу</l>
      <stg>
-       <st Contlex="A_">пангу</st>
+       <st Contlex="A_KELU">пангу</st>
      </stg>
    </lg>
    <mg>
@@ -28647,10 +28881,12 @@
      <tg xml:lang="fin">
        <t pos="A"></t>
      </tg>
-     <xg> <x>пангу пря</x> <phonet>paŋgu pŕä</phonet>
+     <xg>
+       <x>пангу пря</x> <phonet>paŋgu pŕä</phonet>
        <xt xml:lang="fin">likainen, hilseinen pää.</xt>
      </xg>
-     <xg> <x>пангу шуфта</x> <phonet>paŋgu šufta</phonet>
+     <xg>
+       <x>пангу шуфта</x> <phonet>paŋgu šufta</phonet>
        <xt xml:lang="fin">sammaleinen puu.</xt>
      </xg>
    </mg>
@@ -28673,7 +28909,7 @@
    <lg>
      <l pos="A">панду</l>
      <stg>
-       <st Contlex="A_">панду</st>
+       <st Contlex="A_KELU">панду</st>
      </stg> <phonet>pandu</phonet>
    </lg>
    <mg>
@@ -28698,19 +28934,24 @@
        <t pos="A">avoin</t>
        <t pos="A">avoinna oleva</t>
      </tg>
-     <xg> <x>панжада куркт</x> <phonet>pańǯadə kurkt</phonet>
+     <xg>
+       <x>панжада куркт</x> <phonet>pańǯadə kurkt</phonet>
        <xt xml:lang="fin">suu auki.</xt>
      </xg>
-     <xg> <x>панжада сельмот</x> <phonet>pańǯadə śeľmət</phonet>
+     <xg>
+       <x>панжада сельмот</x> <phonet>pańǯadə śeľmət</phonet>
        <xt xml:lang="fin">avoimin silmin, silmät auki.</xt>
      </xg>
-     <xg> <x>панжада вальмат</x> <phonet>pańǯadə vaľmat</phonet>
+     <xg>
+       <x>панжада вальмат</x> <phonet>pańǯadə vaľmat</phonet>
        <xt xml:lang="fin">ikkuna avoinna/ auki.</xt>
      </xg>
-     <xg> <x>панжадонь сельмот</x> <phonet>pańǯadəń śeľmət</phonet>
+     <xg>
+       <x>панжадонь сельмот</x> <phonet>pańǯadəń śeľmət</phonet>
        <xt xml:lang="fin">silmät avoinna/auki.</xt>
      </xg>
-     <xg> <x>панжадонь ваймот</x> <phonet>pańǯadəń vajmət</phonet>
+     <xg>
+       <x>панжадонь ваймот</x> <phonet>pańǯadəń vajmət</phonet>
        <xt xml:lang="fin">avomielisesti.</xt>
      </xg>
    </mg>
@@ -28747,7 +28988,7 @@
    <lg>
      <l pos="A">панксу</l>
      <stg>
-       <st Contlex="A_">панксу</st>
+       <st Contlex="A_KELU">панксу</st>
      </stg> <phonet>paŋksu</phonet>
    </lg>
    <mg>
@@ -28804,7 +29045,7 @@
    <lg>
      <l pos="A">панчфу</l>
      <stg>
-       <st Contlex="A_">панчфу</st>
+       <st Contlex="A_KELU">панчфу</st>
      </stg> <phonet>pańčfu</phonet>
    </lg>
    <mg>
@@ -28821,7 +29062,8 @@
        <t pos="A">reiällinen</t>
        <t pos="A">reikäinen</t>
      </tg>
-     <xg> <x>панчфу панар</x> <phonet>pańčfu panar</phonet>
+     <xg>
+       <x>панчфу панар</x> <phonet>pańčfu panar</phonet>
        <xt xml:lang="fin">reikäinen paita.</xt>
      </xg>
    </mg>
@@ -28855,25 +29097,32 @@
      <tg xml:lang="fra">
        <t pos="A">bon</t>
      </tg>
-     <xg> <x>пара вал</x> <phonet>parə val</phonet>
+     <xg>
+       <x>пара вал</x> <phonet>parə val</phonet>
        <xt xml:lang="fin">tervehdys.</xt>
      </xg>
-     <xg> <x>пара уша</x> <phonet>parə uša</phonet>
+     <xg>
+       <x>пара уша</x> <phonet>parə uša</phonet>
        <xt xml:lang="fin">hyvä sää.</xt>
      </xg>
-     <xg> <x>лангс ваномс аф пара</x> <phonet>laŋks vanəms af para</phonet>
+     <xg>
+       <x>лангс ваномс аф пара</x> <phonet>laŋks vanəms af para</phonet>
        <xt xml:lang="fin">pahannäköinen.</xt>
      </xg>
-     <xg> <x>аф пара вайгяльса</x> <phonet>af parə vajgäľsa</phonet>
+     <xg>
+       <x>аф пара вайгяльса</x> <phonet>af parə vajgäľsa</phonet>
        <xt xml:lang="fin">kauhistuneena, pahalla äänellä.</xt>
      </xg>
-     <xg> <x>парста</x> <phonet>parsta, parəsta</phonet>
+     <xg>
+       <x>парста</x> <phonet>parsta, parəsta</phonet>
        <xt xml:lang="fin">hyvin.</xt>
      </xg>
-     <xg> <x>аф парста</x> <phonet>af parsta</phonet>
+     <xg>
+       <x>аф парста</x> <phonet>af parsta</phonet>
        <xt xml:lang="fin">huonosti, kelvottomasti.</xt>
      </xg>
-     <xg> <x>шумбрат-пархт азондомс</x> <phonet>šumbrat-parxt azəndəms</phonet>
+     <xg>
+       <x>шумбрат-пархт азондомс</x> <phonet>šumbrat-parxt azəndəms</phonet>
        <xt xml:lang="fin">tervehtiä.</xt>
      </xg>
    </mg>
@@ -28896,13 +29145,16 @@
        <t pos="A">kuohkea</t>
        <t pos="A">muheva</t>
      </tg>
-     <xg> <x>паргана келу</x> <phonet>pargana kelu</phonet>
+     <xg>
+       <x>паргана келу</x> <phonet>pargana kelu</phonet>
        <xt xml:lang="fin">tuuhea(lehväinen) koivu.</xt>
      </xg>
-     <xg> <x>паргана кши</x> <phonet>pargana kši</phonet>
+     <xg>
+       <x>паргана кши</x> <phonet>pargana kši</phonet>
        <xt xml:lang="fin">hyvin noussut leipä.</xt>
      </xg>
-     <xg> <x>паргана пула</x> <phonet>pargana pula</phonet>
+     <xg>
+       <x>паргана пула</x> <phonet>pargana pula</phonet>
        <xt xml:lang="fin">pörröinen häntä (ketun).</xt>
      </xg>
    </mg>
@@ -28925,7 +29177,7 @@
    <lg>
      <l pos="A">паргу</l>
      <stg>
-       <st Contlex="A_">паргу</st>
+       <st Contlex="A_KELU">паргу</st>
      </stg>
    </lg>
    <mg>
@@ -28939,7 +29191,7 @@
    <lg>
      <l pos="A">паргун</l>
      <stg>
-       <st Contlex="A_">паргун</st>
+       <st Contlex="A_KAL">паргун</st>
      </stg>
    </lg>
    <mg>
@@ -29065,7 +29317,7 @@
    <lg>
      <l pos="A">пароня</l>
      <stg>
-       <st Contlex="A_">пароня</st>
+       <st Contlex="A_AVA">пароня</st>
      </stg>
    </lg>
    <mg>
@@ -29477,16 +29729,20 @@
      <tg xml:lang="fin">
        <t pos="A">vaarallinen</t>
      </tg>
-     <xg> <x>пелькс арась</x> <phonet>peľks araś</phonet>
+     <xg>
+       <x>пелькс арась</x> <phonet>peľks araś</phonet>
        <xt xml:lang="fin">muuttui pelottavaksi.</xt>
      </xg>
-     <xg> <x>пелькс ломань</x> <phonet>peľks lomań</phonet>
+     <xg>
+       <x>пелькс ломань</x> <phonet>peľks lomań</phonet>
        <xt xml:lang="fin">pelottava ihminen.</xt>
      </xg>
-     <xg> <x>пелькс урма</x> <phonet>peľks urma</phonet>
+     <xg>
+       <x>пелькс урма</x> <phonet>peľks urma</phonet>
        <xt xml:lang="fin">vaarallinen tauti.</xt>
      </xg>
-     <xg> <x>тейне мес-бди пелькс</x> <phonet>ťejńä mes-bəďi peľks</phonet>
+     <xg>
+       <x>тейне мес-бди пелькс</x> <phonet>ťejńä mes-bəďi peľks</phonet>
        <xt xml:lang="fin">minua pelottaa vähän.</xt>
      </xg>
    </mg>
@@ -29733,7 +29989,7 @@
    <lg>
      <l pos="A">песоку</l>
      <stg>
-       <st Contlex="A_">песоку</st>
+       <st Contlex="A_KELU">песоку</st>
      </stg> <phonet>päsoku</phonet>
    </lg>
    <mg>
@@ -29785,10 +30041,12 @@
        <t pos="A">ääretön</t>
        <t pos="A">rajaton</t>
      </tg>
-     <xg> <x>пефтома лама</x> <phonet>peftəmə lama</phonet>
+     <xg>
+       <x>пефтома лама</x> <phonet>peftəmə lama</phonet>
        <xt xml:lang="fin">loputtomasti, loputtoman paljon.</xt>
      </xg>
-     <xg> <x>пефтома тевда</x> <phonet>peftəmə ťevda</phonet>
+     <xg>
+       <x>пефтома тевда</x> <phonet>peftəmə ťevda</phonet>
        <xt xml:lang="fin">loputtomasti työtä.</xt>
      </xg>
    </mg>
@@ -29868,7 +30126,7 @@
    <lg>
      <l pos="A">пзьгоналу</l>
      <stg>
-       <st Contlex="A_">пзьгоналу</st>
+       <st Contlex="A_KELU">пзьгоналу</st>
        <st Contlex="A_" status="Use/SpellNoSugg">пъзьгоналу</st>
      </stg> <phonet>pəźgənalu</phonet>
    </lg>
@@ -29970,13 +30228,16 @@
      <tg xml:lang="fra">
        <t pos="A">vert</t>
      </tg>
-     <xg> <x>пиже идь</x> <phonet>piž(ə) iď</phonet>
+     <xg>
+       <x>пиже идь</x> <phonet>piž(ə) iď</phonet>
        <xt xml:lang="fin">vauva.</xt>
      </xg>
-     <xg> <x>пиже шаба</x> <phonet>pižə šaba</phonet>
+     <xg>
+       <x>пиже шаба</x> <phonet>pižə šaba</phonet>
        <xt xml:lang="fin">vauva.</xt>
      </xg>
-     <xg> <x>пиже нар</x> <phonet>pižə nar</phonet>
+     <xg>
+       <x>пиже нар</x> <phonet>pižə nar</phonet>
        <xt xml:lang="fin">viherrehu.</xt>
      </xg>
    </mg>
@@ -29999,7 +30260,7 @@
    <lg>
      <l pos="A">пизелу</l>
      <stg>
-       <st Contlex="A_">пизелу</st>
+       <st Contlex="A_KELU">пизелу</st>
      </stg>
    </lg>
    <mg>
@@ -30027,7 +30288,7 @@
    <lg>
      <l pos="A">пизему</l>
      <stg>
-       <st Contlex="A_">пизему</st>
+       <st Contlex="A_KELU">пизему</st>
      </stg> <phonet>piźəmu</phonet>
    </lg>
    <mg>
@@ -30041,7 +30302,7 @@
    <lg>
      <l pos="A">пизьгатау</l>
      <stg>
-       <st Contlex="A_">пизьгатау</st>
+       <st Contlex="A_KELU">пизьгатау</st>
      </stg>
    </lg>
    <mg>
@@ -30055,7 +30316,7 @@
    <lg>
      <l pos="A">пизьгоналу</l>
      <stg>
-       <st Contlex="A_">пизьгоналу</st>
+       <st Contlex="A_KELU">пизьгоналу</st>
      </stg>
    </lg>
    <mg>
@@ -30069,7 +30330,7 @@
    <lg>
      <l pos="A">пизьгону</l>
      <stg>
-       <st Contlex="A_">пизьгону</st>
+       <st Contlex="A_KELU">пизьгону</st>
      </stg>
    </lg>
    <mg>
@@ -30125,7 +30386,7 @@
    <lg>
      <l pos="A">пильфтемня</l>
      <stg>
-       <st Contlex="A_">пильфтемня</st>
+       <st Contlex="A_AVA">пильфтемня</st>
      </stg>
    </lg>
    <mg>
@@ -30189,10 +30450,12 @@
      <tg xml:lang="fin">
        <t pos="A">kellanvihreä</t>
      </tg>
-     <xg> <x>пинжем краска</x> <phonet>pińǯəm kraska</phonet>
+     <xg>
+       <x>пинжем краска</x> <phonet>pińǯəm kraska</phonet>
        <xt xml:lang="fin">kellanvihreä väri.</xt>
      </xg>
-     <xg> <x>пинжем лопа</x> <phonet>pińǯəm lopa</phonet>
+     <xg>
+       <x>пинжем лопа</x> <phonet>pińǯəm lopa</phonet>
        <xt xml:lang="fin">kellanvihreä lehti.</xt>
      </xg>
    </mg>
@@ -30281,7 +30544,8 @@
        <t pos="A">kallis</t>
        <t pos="A">arvokas</t>
      </tg>
-     <xg> <x>питниста стяй</x> <phonet>piťńistə śťäj</phonet>
+     <xg>
+       <x>питниста стяй</x> <phonet>piťńistə śťäj</phonet>
        <xt xml:lang="fin">maksaa paljon; paljon maksava.</xt>
      </xg>
    </mg>
@@ -30332,7 +30596,7 @@
    <lg>
      <l pos="A">пичефксу</l>
      <stg>
-       <st Contlex="A_">пичефксу</st>
+       <st Contlex="A_KELU">пичефксу</st>
      </stg> <phonet>pičəfksu</phonet>
    </lg>
    <mg>
@@ -30891,7 +31155,8 @@
        <t pos="A">muuttuva</t>
        <t pos="A">vaihteleva</t>
      </tg>
-     <xg> <x>аф полафневи</x> <phonet>af polafńəvi</phonet>
+     <xg>
+       <x>аф полафневи</x> <phonet>af polafńəvi</phonet>
        <xt xml:lang="fin">muuttumaton.</xt>
      </xg>
    </mg>
@@ -31195,7 +31460,7 @@
    <lg>
      <l pos="A">помадавня</l>
      <stg>
-       <st Contlex="A_">помадавня</st>
+       <st Contlex="A_AVA">помадавня</st>
      </stg>
    </lg>
    <mg>
@@ -31280,7 +31545,7 @@
    <lg>
      <l pos="A">понду</l>
      <stg>
-       <st Contlex="A_">понду</st>
+       <st Contlex="A_KELU">понду</st>
      </stg> <phonet>pondu</phonet>
    </lg>
    <mg>
@@ -31504,7 +31769,7 @@
    <lg>
      <l pos="A">потякшу</l>
      <stg>
-       <st Contlex="A_">потякшу</st>
+       <st Contlex="A_KELU">потякшу</st>
      </stg>
    </lg>
    <mg>
@@ -31557,7 +31822,8 @@
        <t pos="A">pehmeä</t>
        <t pos="A">murea</t>
      </tg>
-     <xg> <x>почана модамарь</x> <phonet>počana modamaŕ</phonet>
+     <xg>
+       <x>почана модамарь</x> <phonet>počana modamaŕ</phonet>
        <xt xml:lang="fin">jauhoinen peruna.</xt>
      </xg>
    </mg>
@@ -31580,7 +31846,7 @@
    <lg>
      <l pos="A">почу</l>
      <stg>
-       <st Contlex="A_">почу</st>
+       <st Contlex="A_KELU">почу</st>
      </stg>
    </lg>
    <mg>
@@ -31608,7 +31874,7 @@
    <lg>
      <l pos="A">почфу</l>
      <stg>
-       <st Contlex="A_">почфу</st>
+       <st Contlex="A_KELU">почфу</st>
      </stg>
    </lg>
    <mg>
@@ -31986,7 +32252,7 @@
    <lg>
      <l pos="A">причаня</l>
      <stg>
-       <st Contlex="A_">причаня</st>
+       <st Contlex="A_AVA">причаня</st>
      </stg>
    </lg>
    <mg>
@@ -32246,10 +32512,12 @@
      <tg xml:lang="fin">
        <t pos="A">yksinkertainen</t>
      </tg>
-     <xg> <x>простой тев</x> <phonet>prastoj ťev</phonet>
+     <xg>
+       <x>простой тев</x> <phonet>prastoj ťev</phonet>
        <xt xml:lang="fin">yksinkertainen asia.</xt>
      </xg>
-     <xg> <x>ломанць сон простой</x> <phonet>lomańć son prastoj</phonet>
+     <xg>
+       <x>ломанць сон простой</x> <phonet>lomańć son prastoj</phonet>
        <xt xml:lang="fin">hän on yksinkertainen ihminen.</xt>
      </xg>
    </mg>
@@ -32365,10 +32633,12 @@
      <tg xml:lang="fin">
        <t pos="A">kuuma</t>
      </tg>
-     <xg> <x>каямс пси</x> <phonet>kajams pśi</phonet>
+     <xg>
+       <x>каямс пси</x> <phonet>kajams pśi</phonet>
        <xt xml:lang="fin">heittää/lyödä löylyä.</xt>
      </xg>
-     <xg> <x>пси урма</x> <phonet>pśi urma</phonet>
+     <xg>
+       <x>пси урма</x> <phonet>pśi urma</phonet>
        <xt xml:lang="fin">kuume.</xt>
      </xg>
    </mg>
@@ -32391,7 +32661,7 @@
    <lg>
      <l pos="A">пуворксу</l>
      <stg>
-       <st Contlex="A_">пуворксу</st>
+       <st Contlex="A_KELU">пуворксу</st>
      </stg> <phonet>puvərksu</phonet>
    </lg>
    <mg>
@@ -32405,7 +32675,7 @@
    <lg>
      <l pos="A">пувору</l>
      <stg>
-       <st Contlex="A_">пувору</st>
+       <st Contlex="A_KELU">пувору</st>
      </stg>
    </lg>
    <mg>
@@ -32433,7 +32703,7 @@
    <lg>
      <l pos="A">пужананя</l>
      <stg>
-       <st Contlex="A_">пужананя</st>
+       <st Contlex="A_AVA">пужананя</st>
      </stg>
    </lg>
    <mg>
@@ -32447,7 +32717,7 @@
    <lg>
      <l pos="A">пузаня</l>
      <stg>
-       <st Contlex="A_">пузаня</st>
+       <st Contlex="A_AVA">пузаня</st>
      </stg>
    </lg>
    <mg>
@@ -32475,7 +32745,7 @@
    <lg>
      <l pos="A">пукшу</l>
      <stg>
-       <st Contlex="A_">пукшу</st>
+       <st Contlex="A_KELU">пукшу</st>
      </stg> <phonet>pukšu</phonet>
    </lg>
    <mg>
@@ -32511,7 +32781,7 @@
    <lg>
      <l pos="A">пулукшу</l>
      <stg>
-       <st Contlex="A_">пулукшу</st>
+       <st Contlex="A_KELU">пулукшу</st>
      </stg>
    </lg>
    <mg>
@@ -32562,7 +32832,8 @@
        <t pos="A">pölyinen</t>
        <t pos="A">tomuinen</t>
      </tg>
-     <xg> <x>пулю ки</x> <phonet>puľu ki</phonet>
+     <xg>
+       <x>пулю ки</x> <phonet>puľu ki</phonet>
        <xt xml:lang="fin">pölyinen tie.</xt>
      </xg>
    </mg>
@@ -32613,7 +32884,7 @@
    <lg>
      <l pos="A">пупу</l>
      <stg>
-       <st Contlex="A_">пупу</st>
+       <st Contlex="A_KELU">пупу</st>
      </stg>
    </lg>
    <mg>
@@ -32669,7 +32940,7 @@
    <lg>
      <l pos="A">пуру</l>
      <stg>
-       <st Contlex="A_">пуру</st>
+       <st Contlex="A_KELU">пуру</st>
      </stg>
    </lg>
    <mg>
@@ -32683,7 +32954,7 @@
    <lg>
      <l pos="A">пурхцозу</l>
      <stg>
-       <st Contlex="A_">пурхцозу</st>
+       <st Contlex="A_KELU">пурхцозу</st>
      </stg>
    </lg>
    <mg>
@@ -32697,7 +32968,7 @@
    <lg>
      <l pos="A">пурхцу</l>
      <stg>
-       <st Contlex="A_">пурхцу</st>
+       <st Contlex="A_KELU">пурхцу</st>
      </stg> <phonet>purxcu</phonet>
    </lg>
    <mg>
@@ -32711,7 +32982,7 @@
    <lg>
      <l pos="A">пурцу</l>
      <stg>
-       <st Contlex="A_">пурцу</st>
+       <st Contlex="A_KELU">пурцу</st>
      </stg>
    </lg>
    <mg>
@@ -32725,7 +32996,7 @@
    <lg>
      <l pos="A">пурьгону</l>
      <stg>
-       <st Contlex="A_">пурьгону</st>
+       <st Contlex="A_KELU">пурьгону</st>
      </stg>
    </lg>
    <mg>
@@ -32767,7 +33038,7 @@
    <lg>
      <l pos="A">путьку</l>
      <stg>
-       <st Contlex="A_">путьку</st>
+       <st Contlex="A_KELU">путьку</st>
      </stg> <phonet>puťku</phonet>
    </lg>
    <mg>
@@ -32823,7 +33094,7 @@
    <lg>
      <l pos="A">пуху</l>
      <stg>
-       <st Contlex="A_">пуху</st>
+       <st Contlex="A_KELU">пуху</st>
      </stg>
    </lg>
    <mg>
@@ -32837,7 +33108,7 @@
    <lg>
      <l pos="A">пскафкшу</l>
      <stg>
-       <st Contlex="A_">пскафкшу</st>
+       <st Contlex="A_KELU">пскафкшу</st>
        <st Contlex="A_" status="Use/SpellNoSugg">пъскафкшу</st>
      </stg>
    </lg>
@@ -32852,7 +33123,7 @@
    <lg>
      <l pos="A">пськину</l>
      <stg>
-       <st Contlex="A_">пськину</st>
+       <st Contlex="A_KELU">пськину</st>
        <st Contlex="A_" status="Use/SpellNoSugg">пъськину</st>
      </stg>
    </lg>
@@ -32882,7 +33153,7 @@
    <lg>
      <l pos="A">пчкан</l>
      <stg>
-       <st Contlex="A_">пчкан</st>
+       <st Contlex="A_KAL">пчкан</st>
        <st Contlex="A_" status="Use/SpellNoSugg">пъчкан</st>
      </stg>
    </lg>
@@ -33079,10 +33350,12 @@
        <t pos="A">(raivo)hullu</t>
        <t pos="A">vihainen</t>
      </tg>
-     <xg> <x>пяляз панга</x> <phonet>päľas paŋga</phonet>
+     <xg>
+       <x>пяляз панга</x> <phonet>päľas paŋga</phonet>
        <xt xml:lang="fin">keltainen kärpässieni (Amanita mappa).</xt>
      </xg>
-     <xg> <x>пяляз пине</x> <phonet>päľas pińä</phonet>
+     <xg>
+       <x>пяляз пине</x> <phonet>päľas pińä</phonet>
        <xt xml:lang="fin">vesikauhuinen koira.</xt>
      </xg>
    </mg>
@@ -33120,7 +33393,8 @@
        <t pos="A">likainen</t>
        <t pos="A">lika-</t>
      </tg>
-     <xg> <x>пяндра ведь</x> <phonet>pändra veď</phonet>
+     <xg>
+       <x>пяндра ведь</x> <phonet>pändra veď</phonet>
        <xt xml:lang="fin">likavesi.</xt>
      </xg>
    </mg>
@@ -33143,7 +33417,7 @@
    <lg>
      <l pos="A">пянксу</l>
      <stg>
-       <st Contlex="A_">пянксу</st>
+       <st Contlex="A_KELU">пянксу</st>
      </stg>
    </lg>
    <mg>
@@ -33179,7 +33453,8 @@
      <tg xml:lang="fin">
        <t pos="A">kuuro</t>
      </tg>
-     <xg> <x>пяряв пиле</x> <phonet>päŕav piľä</phonet>
+     <xg>
+       <x>пяряв пиле</x> <phonet>päŕav piľä</phonet>
        <xt xml:lang="fin">kuuro korva.</xt>
      </xg>
    </mg>
@@ -33270,13 +33545,16 @@
      <tg xml:lang="fra">
        <t pos="A">plein</t>
      </tg>
-     <xg> <x>утопне пяшксет сёрода</x> <phonet>utəpńə päškśət śorəda</phonet>
+     <xg>
+       <x>утопне пяшксет сёрода</x> <phonet>utəpńə päškśət śorəda</phonet>
        <xt xml:lang="fin">aitat ovat täynnä viljaa.</xt>
      </xg>
-     <xg> <x>шяйсь пяшксе сяськта</x> <phonet>šäjś päškśə śäśkta</phonet>
+     <xg>
+       <x>шяйсь пяшксе сяськта</x> <phonet>šäjś päškśə śäśkta</phonet>
        <xt xml:lang="fin">suo on täynnä hyttysiä.</xt>
      </xg>
-     <xg> <x>пяшксеня</x> <phonet>päškśəńä</phonet>
+     <xg>
+       <x>пяшксеня</x> <phonet>päškśəńä</phonet>
        <xt xml:lang="fin">täydenlainen, melko täysi.</xt>
      </xg>
    </mg>
@@ -33364,7 +33642,8 @@
        <t pos="A">työ­</t>
        <t pos="A">työläis-</t>
      </tg>
-     <xg> <x>рабочай ши</x> <phonet>rabočaj ši</phonet>
+     <xg>
+       <x>рабочай ши</x> <phonet>rabočaj ši</phonet>
        <xt xml:lang="fin">työpäivä.</xt>
      </xg>
    </mg>
@@ -33399,25 +33678,32 @@
      <tg xml:lang="fra">
        <t pos="A">noir</t>
      </tg>
-     <xg> <x>равжа мода</x> <phonet>ravžə moda</phonet>
+     <xg>
+       <x>равжа мода</x> <phonet>ravžə moda</phonet>
        <xt xml:lang="fin">musta multa.</xt>
      </xg>
-     <xg> <x>равжа парина</x> <phonet>ravžə paŕəna</phonet>
+     <xg>
+       <x>равжа парина</x> <phonet>ravžə paŕəna</phonet>
        <xt xml:lang="fin">kesanto.</xt>
      </xg>
-     <xg> <x>равжа прамож</x> <phonet>ravžə braməš</phonet>
+     <xg>
+       <x>равжа прамож</x> <phonet>ravžə braməš</phonet>
        <xt xml:lang="fin">herhiläinen (Vespa crabro).</xt>
      </xg>
-     <xg> <x>равжа вал</x> <phonet>ravžə val</phonet>
+     <xg>
+       <x>равжа вал</x> <phonet>ravžə val</phonet>
        <xt xml:lang="fin">ruma sana, kirous.</xt>
      </xg>
-     <xg> <x>равжа валса стамс</x> <phonet>ravžə valsə stams</phonet>
+     <xg>
+       <x>равжа валса стамс</x> <phonet>ravžə valsə stams</phonet>
        <xt xml:lang="fin">kirota karkeasti.</xt>
      </xg>
-     <xg> <x>равжа пакарьса</x> <phonet>ravžə pakaŕsa</phonet>
+     <xg>
+       <x>равжа пакарьса</x> <phonet>ravžə pakaŕsa</phonet>
        <xt xml:lang="fin">murheessa, kurjuudessa.</xt>
      </xg>
-     <xg> <x>равжа панга</x> <phonet>ravžə paŋga</phonet>
+     <xg>
+       <x>равжа панга</x> <phonet>ravžə paŋga</phonet>
        <xt xml:lang="fin">mustarousku (Lactorius necator).</xt>
      </xg>
    </mg>
@@ -33706,7 +33992,7 @@
    <lg>
      <l pos="A">рашку</l>
      <stg>
-       <st Contlex="A_">рашку</st>
+       <st Contlex="A_KELU">рашку</st>
      </stg>
    </lg>
    <mg>
@@ -33720,7 +34006,7 @@
    <lg>
      <l pos="A">рдазу</l>
      <stg>
-       <st Contlex="A_">рдазу</st>
+       <st Contlex="A_KELU">рдазу</st>
        <st Contlex="A_" status="Use/SpellNoSugg">ърдазу</st>
      </stg> <phonet>ərdazu, urdazu</phonet>
    </lg>
@@ -34103,7 +34389,7 @@
    <lg>
      <l pos="A">ризаня</l>
      <stg>
-       <st Contlex="A_">ризаня</st>
+       <st Contlex="A_AVA">ризаня</st>
      </stg>
    </lg>
    <mg>
@@ -34131,7 +34417,7 @@
    <lg>
      <l pos="A">ризфу</l>
      <stg>
-       <st Contlex="A_">ризфу</st>
+       <st Contlex="A_KELU">ризфу</st>
      </stg> <phonet>ŕizfu</phonet>
    </lg>
    <mg>
@@ -34380,7 +34666,7 @@
    <lg>
      <l pos="A">рубецу</l>
      <stg>
-       <st Contlex="A_">рубецу</st>
+       <st Contlex="A_KELU">рубецу</st>
      </stg>
    </lg>
    <mg>
@@ -34534,7 +34820,7 @@
    <lg>
      <l pos="A">рупаня</l>
      <stg>
-       <st Contlex="A_">рупаня</st>
+       <st Contlex="A_AVA">рупаня</st>
      </stg>
    </lg>
    <mg>
@@ -34702,7 +34988,7 @@
    <lg>
      <l pos="A">рязы</l>
      <stg>
-       <st Contlex="A_">рязы</st>
+       <st Contlex="A_ANDY">рязы</st>
      </stg>
    </lg>
    <mg>
@@ -34716,7 +35002,7 @@
    <lg>
      <l pos="A">рязыня</l>
      <stg>
-       <st Contlex="A_">рязыня</st>
+       <st Contlex="A_AVA">рязыня</st>
      </stg>
    </lg>
    <mg>
@@ -34786,7 +35072,7 @@
    <lg>
      <l pos="A">сакалу</l>
      <stg>
-       <st Contlex="A_">сакалу</st>
+       <st Contlex="A_KELU">сакалу</st>
      </stg> <phonet>sakalu</phonet>
    </lg>
    <mg>
@@ -34795,7 +35081,8 @@
        <t pos="A">parrakas</t>
        <t pos="A">-partainen</t>
      </tg>
-     <xg> <x>сакалу аля</x> <phonet>sakalu aľä</phonet>
+     <xg>
+       <x>сакалу аля</x> <phonet>sakalu aľä</phonet>
        <xt xml:lang="fin">parrakas mies.</xt>
      </xg>
    </mg>
@@ -34840,10 +35127,12 @@
      <tg xml:lang="fin">
        <t pos="A">varas</t>
      </tg>
-     <xg> <x>бабань салай</x> <phonet>babań salaj</phonet>
+     <xg>
+       <x>бабань салай</x> <phonet>babań salaj</phonet>
        <xt xml:lang="fin">hämähäkki (Araneus).</xt>
      </xg>
-     <xg> <x>салмоксонь салай</x> <phonet>salməksəń salaj</phonet>
+     <xg>
+       <x>салмоксонь салай</x> <phonet>salməksəń salaj</phonet>
        <xt xml:lang="fin">sudenkorento (Odonata).</xt>
      </xg>
    </mg>
@@ -34852,7 +35141,7 @@
    <lg>
      <l pos="A">салмоксу</l>
      <stg>
-       <st Contlex="A_">салмоксу</st>
+       <st Contlex="A_KELU">салмоксу</st>
      </stg> <phonet>salməksu</phonet>
    </lg>
    <mg>
@@ -34868,7 +35157,7 @@
    <lg>
      <l pos="A">салу</l>
      <stg>
-       <st Contlex="A_">салу</st>
+       <st Contlex="A_KELU">салу</st>
      </stg> <phonet>salu</phonet>
    </lg>
    <mg>
@@ -35023,7 +35312,7 @@
    <lg>
      <l pos="A">сану</l>
      <stg>
-       <st Contlex="A_">сану</st>
+       <st Contlex="A_KELU">сану</st>
      </stg> <phonet>sanu</phonet>
    </lg>
    <mg>
@@ -35175,7 +35464,8 @@
      <tg xml:lang="fin">
        <t pos="A">riittävä</t>
      </tg>
-     <xg> <x>аф сатомшка</x> <phonet>af satəmška</phonet>
+     <xg>
+       <x>аф сатомшка</x> <phonet>af satəmška</phonet>
        <xt xml:lang="fin">riittämätön, puutteellinen.</xt>
      </xg>
    </mg>
@@ -35326,7 +35616,8 @@
      <tg xml:lang="fin">
        <t pos="A">pyhä</t>
      </tg>
-     <xg> <x>святой ведня</x> <phonet>śvätoj veďńä</phonet>
+     <xg>
+       <x>святой ведня</x> <phonet>śvätoj veďńä</phonet>
        <xt xml:lang="fin">vihkivesi.</xt>
      </xg>
    </mg>
@@ -35451,7 +35742,7 @@
    <lg>
      <l pos="A">седиень элякофты</l>
      <stg>
-       <st Contlex="A_">седиень элякофты</st>
+       <st Contlex="A_ANDY">седиень элякофты</st>
      </stg>
    </lg>
    <mg>
@@ -35606,7 +35897,7 @@
    <lg>
      <l pos="A">сельгу</l>
      <stg>
-       <st Contlex="A_">сельгу</st>
+       <st Contlex="A_KELU">сельгу</st>
      </stg> <phonet>śeľgu</phonet>
    </lg>
    <mg>
@@ -35755,10 +36046,12 @@
      <tg xml:lang="fin">
        <t pos="A">sininen</t>
      </tg>
-     <xg> <x>сенем пря панчф</x> <phonet>śeńəm bŕä pańčf</phonet>
+     <xg>
+       <x>сенем пря панчф</x> <phonet>śeńəm bŕä pańčf</phonet>
        <xt xml:lang="fin">ruiskukka, ruiskaunokki (Centaurea cyanus).</xt>
      </xg>
-     <xg> <x>сенем пря тише</x> <phonet>śeńəm bŕä ťišä</phonet>
+     <xg>
+       <x>сенем пря тише</x> <phonet>śeńəm bŕä ťišä</phonet>
        <xt xml:lang="fin">ruiskukka, ruiskaunokki (Centaurea cyanus).</xt>
      </xg>
    </mg>
@@ -35795,7 +36088,7 @@
    <lg>
      <l pos="A">сенерня</l>
      <stg>
-       <st Contlex="A_">сенерня</st>
+       <st Contlex="A_AVA">сенерня</st>
      </stg>
    </lg>
    <mg>
@@ -35983,13 +36276,16 @@
      <tg xml:lang="fin">
        <t pos="A">pitkä</t>
      </tg>
-     <xg> <x>сери эши</x> <phonet>śeŕi äši</phonet>
+     <xg>
+       <x>сери эши</x> <phonet>śeŕi äši</phonet>
        <xt xml:lang="fin">syvä kaivo.</xt>
      </xg>
-     <xg> <x>сери келу</x> <phonet>śeŕi kelu</phonet>
+     <xg>
+       <x>сери келу</x> <phonet>śeŕi kelu</phonet>
        <xt xml:lang="fin">korkea koivu.</xt>
      </xg>
-     <xg> <x>сери цёра</x> <phonet>śeŕi ćora</phonet>
+     <xg>
+       <x>сери цёра</x> <phonet>śeŕi ćora</phonet>
        <xt xml:lang="fin">pitkä poika.</xt>
      </xg>
    </mg>
@@ -36284,7 +36580,7 @@
    <lg>
      <l pos="A">сильгешалхконя</l>
      <stg>
-       <st Contlex="A_">сильгешалхконя</st>
+       <st Contlex="A_AVA">сильгешалхконя</st>
      </stg>
    </lg>
    <mg>
@@ -36298,7 +36594,7 @@
    <lg>
      <l pos="A">сильфу</l>
      <stg>
-       <st Contlex="A_">сильфу</st>
+       <st Contlex="A_KELU">сильфу</st>
      </stg>
    </lg>
    <mg>
@@ -36464,10 +36760,12 @@
      <tg xml:lang="fra">
        <t pos="A">vieux</t>
      </tg>
-     <xg> <x>сире атя</x> <phonet>śiŕ(ä) aťä</phonet>
+     <xg>
+       <x>сире атя</x> <phonet>śiŕ(ä) aťä</phonet>
        <xt xml:lang="fin">ukko, vanhus.</xt>
      </xg>
-     <xg> <x>сире баба</x> <phonet>śiŕə baba</phonet>
+     <xg>
+       <x>сире баба</x> <phonet>śiŕə baba</phonet>
        <xt xml:lang="fin">muori, mummo.</xt>
      </xg>
    </mg>
@@ -36687,7 +36985,8 @@
      <tg xml:lang="fin">
        <t pos="A">pika-</t>
      </tg>
-     <xg> <x>скорай поезд</x> <phonet>skoraj pojəst</phonet>
+     <xg>
+       <x>скорай поезд</x> <phonet>skoraj pojəst</phonet>
        <xt xml:lang="fin">pikajuna.</xt>
      </xg>
    </mg>
@@ -36859,7 +37158,7 @@
    <lg>
      <l pos="A">славнайня</l>
      <stg>
-       <st Contlex="A_">славнайня</st>
+       <st Contlex="A_AVA">славнайня</st>
      </stg>
    </lg>
    <mg>
@@ -36887,7 +37186,7 @@
    <lg>
      <l pos="A">сластун</l>
      <stg>
-       <st Contlex="A_">сластун</st>
+       <st Contlex="A_KAL">сластун</st>
      </stg>
    </lg>
    <mg>
@@ -37089,7 +37388,7 @@
    <lg>
      <l pos="A">смоль-равженя</l>
      <stg>
-       <st Contlex="A_">смоль-равженя</st>
+       <st Contlex="A_AVA">смоль-равженя</st>
        <st Contlex="A_" status="Use/SpellNoSugg">съмоль-равженя</st>
      </stg>
    </lg>
@@ -37341,7 +37640,7 @@
    <lg>
      <l pos="A">соду</l>
      <stg>
-       <st Contlex="A_">соду</st>
+       <st Contlex="A_KELU">соду</st>
      </stg> <phonet>sodu</phonet>
    </lg>
    <mg>
@@ -37349,7 +37648,8 @@
      <tg xml:lang="fin">
        <t pos="A">nokinen</t>
      </tg>
-     <xg> <x>соду пря тише</x> <phonet>sodu pŕä ťišä</phonet>
+     <xg>
+       <x>соду пря тише</x> <phonet>sodu pŕä ťišä</phonet>
        <xt xml:lang="fin">nokitauti.</xt>
      </xg>
    </mg>
@@ -37400,7 +37700,7 @@
    <lg>
      <l pos="A">сокайшканя</l>
      <stg>
-       <st Contlex="A_">сокайшканя</st>
+       <st Contlex="A_AVA">сокайшканя</st>
      </stg>
    </lg>
    <mg>
@@ -37422,13 +37722,16 @@
      <tg xml:lang="fin">
        <t pos="A">sokea</t>
      </tg>
-     <xg> <x>потма сокор</x> <phonet>potmə sokər</phonet>
+     <xg>
+       <x>потма сокор</x> <phonet>potmə sokər</phonet>
        <xt xml:lang="fin">umpisokea.</xt>
      </xg>
-     <xg> <x>сокор сюлапе</x> <phonet>sokər śuləpe</phonet>
+     <xg>
+       <x>сокор сюлапе</x> <phonet>sokər śuləpe</phonet>
        <xt xml:lang="fin">umpisuoli.</xt>
      </xg>
-     <xg> <x>сокор унжа</x> <phonet>sokər unǯa/ińǯa</phonet>
+     <xg>
+       <x>сокор унжа</x> <phonet>sokər unǯa/ińǯa</phonet>
        <xt xml:lang="fin">hämähäkki (Araneus).</xt>
      </xg>
    </mg>
@@ -37465,7 +37768,7 @@
    <lg>
      <l pos="A">соку</l>
      <stg>
-       <st Contlex="A_">соку</st>
+       <st Contlex="A_KELU">соку</st>
      </stg> <phonet>soku</phonet>
    </lg>
    <mg>
@@ -37474,7 +37777,8 @@
        <t pos="A">märkä</t>
        <t pos="A">kostea</t>
      </tg>
-     <xg> <x>сокуня</x> <phonet>sokuńä</phonet>
+     <xg>
+       <x>сокуня</x> <phonet>sokuńä</phonet>
        <xt xml:lang="fin">kostea, nahkea.</xt>
      </xg>
    </mg>
@@ -37511,7 +37815,7 @@
    <lg>
      <l pos="A">соланя</l>
      <stg>
-       <st Contlex="A_">соланя</st>
+       <st Contlex="A_AVA">соланя</st>
      </stg>
    </lg>
    <mg>
@@ -37562,7 +37866,8 @@
        <t pos="A">pehmeä</t>
        <t pos="A">kuohkea</t>
      </tg>
-     <xg> <x>соргана почф</x> <phonet>sorgana počf</phonet>
+     <xg>
+       <x>соргана почф</x> <phonet>sorgana počf</phonet>
        <xt xml:lang="fin">hieno jauho.</xt>
      </xg>
    </mg>
@@ -37599,7 +37904,7 @@
    <lg>
      <l pos="A">сору</l>
      <stg>
-       <st Contlex="A_">сору</st>
+       <st Contlex="A_KELU">сору</st>
      </stg> <phonet>soru</phonet>
    </lg>
    <mg>
@@ -37607,7 +37912,8 @@
      <tg xml:lang="fin">
        <t pos="A">roskainen</t>
      </tg>
-     <xg> <x>сору сёра</x> <phonet>soru śora</phonet>
+     <xg>
+       <x>сору сёра</x> <phonet>soru śora</phonet>
        <xt xml:lang="fin">puhdistamaton vilja.</xt>
      </xg>
    </mg>
@@ -38015,7 +38321,8 @@
        <t pos="A">sellainen</t>
        <t pos="A">tuollainen</t>
      </tg>
-     <xg> <x>мезе стамсь?</x> <phonet>meźə stamś</phonet>
+     <xg>
+       <x>мезе стамсь?</x> <phonet>meźə stamś</phonet>
        <xt xml:lang="fin">mikäs tuo on?</xt>
      </xg>
    </mg>
@@ -38460,7 +38767,7 @@
    <lg>
      <l pos="A">страннайня</l>
      <stg>
-       <st Contlex="A_">страннайня</st>
+       <st Contlex="A_AVA">страннайня</st>
        <st Contlex="A_" status="Use/SpellNoSugg">сътраннайня</st>
      </stg>
    </lg>
@@ -38700,7 +39007,7 @@
    <lg>
      <l pos="A">стядонь коня</l>
      <stg>
-       <st Contlex="A_">стядонь коня</st>
+       <st Contlex="A_AVA">стядонь коня</st>
        <st Contlex="A_" status="Use/SpellNoSugg">сътядонь коня</st>
      </stg>
    </lg>
@@ -38745,7 +39052,7 @@
    <lg>
      <l pos="A">стядоньтутманя</l>
      <stg>
-       <st Contlex="A_">стядоньтутманя</st>
+       <st Contlex="A_AVA">стядоньтутманя</st>
        <st Contlex="A_" status="Use/SpellNoSugg">сътядоньтутманя</st>
      </stg>
    </lg>
@@ -38858,7 +39165,7 @@
    <lg>
      <l pos="A">судемня</l>
      <stg>
-       <st Contlex="A_">судемня</st>
+       <st Contlex="A_AVA">судемня</st>
      </stg>
    </lg>
    <mg>
@@ -38900,7 +39207,7 @@
    <lg>
      <l pos="A">сузланя</l>
      <stg>
-       <st Contlex="A_">сузланя</st>
+       <st Contlex="A_AVA">сузланя</st>
      </stg>
    </lg>
    <mg>
@@ -38928,7 +39235,7 @@
    <lg>
      <l pos="A">сузман</l>
      <stg>
-       <st Contlex="A_">сузман</st>
+       <st Contlex="A_KAL">сузман</st>
      </stg> <phonet>suzman</phonet>
    </lg>
    <mg>
@@ -38936,7 +39243,8 @@
      <tg xml:lang="fin">
        <t pos="A">laiha</t>
      </tg>
-     <xg> <x>сузман баба</x> <phonet>suzman baba</phonet>
+     <xg>
+       <x>сузман баба</x> <phonet>suzman baba</phonet>
        <xt xml:lang="fin">laiha nainen.</xt>
      </xg>
    </mg>
@@ -38945,7 +39253,7 @@
    <lg>
      <l pos="A">сузмоня</l>
      <stg>
-       <st Contlex="A_">сузмоня</st>
+       <st Contlex="A_AVA">сузмоня</st>
      </stg>
    </lg>
    <mg>
@@ -38973,7 +39281,7 @@
    <lg>
      <l pos="A">сузу</l>
      <stg>
-       <st Contlex="A_">сузу</st>
+       <st Contlex="A_KELU">сузу</st>
      </stg> <phonet>suzu</phonet>
    </lg>
    <mg>
@@ -39032,7 +39340,7 @@
    <lg>
      <l pos="A">суксу</l>
      <stg>
-       <st Contlex="A_">суксу</st>
+       <st Contlex="A_KELU">суксу</st>
      </stg> <phonet>suksu</phonet>
    </lg>
    <mg>
@@ -39088,7 +39396,7 @@
    <lg>
      <l pos="A">сураду</l>
      <stg>
-       <st Contlex="A_">сураду</st>
+       <st Contlex="A_KELU">сураду</st>
      </stg>
    </lg>
    <mg>
@@ -39144,7 +39452,7 @@
    <lg>
      <l pos="A">сурду-сарду</l>
      <stg>
-       <st Contlex="A_">сурду-сарду</st>
+       <st Contlex="A_KELU">сурду-сарду</st>
      </stg>
    </lg>
    <mg>
@@ -39158,7 +39466,7 @@
    <lg>
      <l pos="A">сурксу</l>
      <stg>
-       <st Contlex="A_">сурксу</st>
+       <st Contlex="A_KELU">сурксу</st>
      </stg>
    </lg>
    <mg>
@@ -39172,7 +39480,7 @@
    <lg>
      <l pos="A">сурму</l>
      <stg>
-       <st Contlex="A_">сурму</st>
+       <st Contlex="A_KELU">сурму</st>
      </stg>
    </lg>
    <mg>
@@ -39214,7 +39522,7 @@
    <lg>
      <l pos="A">суру</l>
      <stg>
-       <st Contlex="A_">суру</st>
+       <st Contlex="A_KELU">суру</st>
      </stg>
    </lg>
    <mg>
@@ -39284,7 +39592,7 @@
    <lg>
      <l pos="A">сутурман</l>
      <stg>
-       <st Contlex="A_">сутурман</st>
+       <st Contlex="A_KAL">сутурман</st>
      </stg>
    </lg>
    <mg>
@@ -39357,7 +39665,7 @@
    <lg>
      <l pos="A">срму</l>
      <stg>
-       <st Contlex="A_">срму</st>
+       <st Contlex="A_KELU">срму</st>
        <st Contlex="A_" status="Use/SpellNoSugg">сърму</st>
      </stg>
    </lg>
@@ -39457,7 +39765,7 @@
    <lg>
      <l pos="A">сюзялу</l>
      <stg>
-       <st Contlex="A_">сюзялу</st>
+       <st Contlex="A_KELU">сюзялу</st>
      </stg> <phonet>śuźalu</phonet>
    </lg>
    <mg>
@@ -39507,10 +39815,12 @@
      <tg xml:lang="fin">
        <t pos="A">(murt.) hämärä</t>
      </tg>
-     <xg> <x>сюнелю тяла</x> <phonet>śuńəľu ťala</phonet>
+     <xg>
+       <x>сюнелю тяла</x> <phonet>śuńəľu ťala</phonet>
        <xt xml:lang="fin">hämärä talvi.</xt>
      </xg>
-     <xg> <x>сюнелю ши</x> <phonet>śuńəľu ši</phonet>
+     <xg>
+       <x>сюнелю ши</x> <phonet>śuńəľu ši</phonet>
        <xt xml:lang="fin">pilvinen päivä.</xt>
      </xg>
    </mg>
@@ -39519,7 +39829,7 @@
    <lg>
      <l pos="A">сюрду-сярду</l>
      <stg>
-       <st Contlex="A_">сюрду-сярду</st>
+       <st Contlex="A_KELU">сюрду-сярду</st>
      </stg>
    </lg>
    <mg>
@@ -39575,7 +39885,7 @@
    <lg>
      <l pos="A">сюру</l>
      <stg>
-       <st Contlex="A_">сюру</st>
+       <st Contlex="A_KELU">сюру</st>
      </stg> <phonet>śuru</phonet>
    </lg>
    <mg>
@@ -39584,7 +39894,8 @@
        <t pos="A">sarvekas</t>
        <t pos="A">sarvellinen</t>
      </tg>
-     <xg> <x>шись сюру, тячи якшама</x> <phonet>šiś śuru ťäči jakšama</phonet>
+     <xg>
+       <x>шись сюру, тячи якшама</x> <phonet>šiś śuru ťäči jakšama</phonet>
        <xt xml:lang="fin">aurinko on punainen, tänään on kylmä.</xt>
      </xg>
    </mg>
@@ -39593,7 +39904,7 @@
    <lg>
      <l pos="A">сютксу</l>
      <stg>
-       <st Contlex="A_">сютксу</st>
+       <st Contlex="A_KELU">сютксу</st>
      </stg>
    </lg>
    <mg>
@@ -39691,7 +40002,7 @@
    <lg>
      <l pos="A">сяворды</l>
      <stg>
-       <st Contlex="A_">сяворды</st>
+       <st Contlex="A_ANDY">сяворды</st>
      </stg>
    </lg>
    <mg>
@@ -39785,22 +40096,28 @@
      <tg xml:lang="fin">
        <t pos="A">sama</t>
      </tg>
-     <xg> <x>сяка кизоня</x> <phonet>śakə kizəńä</phonet>
+     <xg>
+       <x>сяка кизоня</x> <phonet>śakə kizəńä</phonet>
        <xt xml:lang="fin">samana vuonna.</xt>
      </xg>
-     <xg> <x>сяка киге</x> <phonet>śakə kigä</phonet>
+     <xg>
+       <x>сяка киге</x> <phonet>śakə kigä</phonet>
        <xt xml:lang="fin">saman tien.</xt>
      </xg>
-     <xg> <x>сяка жа</x> <phonet>śakə ža</phonet>
+     <xg>
+       <x>сяка жа</x> <phonet>śakə ža</phonet>
        <xt xml:lang="fin">samanlainen.</xt>
      </xg>
-     <xg> <x>сяка тев</x> <phonet>śakə ťev</phonet>
+     <xg>
+       <x>сяка тев</x> <phonet>śakə ťev</phonet>
        <xt xml:lang="fin">jatkuvasti, alinomaa, tämän tästä.</xt>
      </xg>
-     <xg> <x>сяконь ёткова</x> <phonet>śakəń jotkəva</phonet>
+     <xg>
+       <x>сяконь ёткова</x> <phonet>śakəń jotkəva</phonet>
        <xt xml:lang="fin">sillä välin, välillä.</xt>
      </xg>
-     <xg> <x>сяконь лангс</x> <phonet>śakəń laŋks</phonet>
+     <xg>
+       <x>сяконь лангс</x> <phonet>śakəń laŋks</phonet>
        <xt xml:lang="fin">samalla kertaa, saman tien.</xt>
      </xg>
    </mg>
@@ -39825,7 +40142,7 @@
    <lg>
      <l pos="A">сяльгу</l>
      <stg>
-       <st Contlex="A_">сяльгу</st>
+       <st Contlex="A_KELU">сяльгу</st>
      </stg> <phonet>śäľgu</phonet>
    </lg>
    <mg>
@@ -39943,7 +40260,7 @@
    <lg>
      <l pos="A">сярду</l>
      <stg>
-       <st Contlex="A_">сярду</st>
+       <st Contlex="A_KELU">сярду</st>
      </stg>
    </lg>
    <mg>
@@ -39957,7 +40274,7 @@
    <lg>
      <l pos="A">сярду-сюрду</l>
      <stg>
-       <st Contlex="A_">сярду-сюрду</st>
+       <st Contlex="A_KELU">сярду-сюрду</st>
      </stg>
    </lg>
    <mg>
@@ -40131,7 +40448,7 @@
    <lg>
      <l pos="A">сёрмавня</l>
      <stg>
-       <st Contlex="A_">сёрмавня</st>
+       <st Contlex="A_AVA">сёрмавня</st>
      </stg> <phonet>śormavńä</phonet>
    </lg>
    <mg>
@@ -40159,7 +40476,7 @@
    <lg>
      <l pos="A">сёру</l>
      <stg>
-       <st Contlex="A_">сёру</st>
+       <st Contlex="A_KELU">сёру</st>
      </stg> <phonet>śoru</phonet>
    </lg>
    <mg>
@@ -40244,7 +40561,7 @@
    <lg>
      <l pos="A">тазу</l>
      <stg>
-       <st Contlex="A_">тазу</st>
+       <st Contlex="A_KELU">тазу</st>
      </stg> <phonet>tazu</phonet>
    </lg>
    <mg>
@@ -40327,10 +40644,12 @@
      <tg xml:lang="fra">
        <t pos="A">lisse</t>
      </tg>
-     <xg> <x>такор тинге</x> <phonet>takər ťiŋgä</phonet>
+     <xg>
+       <x>такор тинге</x> <phonet>takər ťiŋgä</phonet>
        <xt xml:lang="fin">puimatanner.</xt>
      </xg>
-     <xg> <x>такор ки</x> <phonet>takər ki</phonet>
+     <xg>
+       <x>такор ки</x> <phonet>takər ki</phonet>
        <xt xml:lang="fin">tasainen tie.</xt>
      </xg>
    </mg>
@@ -40420,13 +40739,16 @@
        <t pos="A">luja</t>
        <t pos="A">tukeva</t>
      </tg>
-     <xg> <x>тангода алаша</x> <phonet>taŋgəd(ə) alaša</phonet>
+     <xg>
+       <x>тангода алаша</x> <phonet>taŋgəd(ə) alaša</phonet>
        <xt xml:lang="fin">vahva/vankka hevonen.</xt>
      </xg>
-     <xg> <x>тангода ломань</x> <phonet>taŋgədə lomań</phonet>
+     <xg>
+       <x>тангода ломань</x> <phonet>taŋgədə lomań</phonet>
        <xt xml:lang="fin">vakaa ihminen.</xt>
      </xg>
-     <xg> <x>тангода котф</x> <phonet>taŋgədə kotf</phonet>
+     <xg>
+       <x>тангода котф</x> <phonet>taŋgədə kotf</phonet>
        <xt xml:lang="fin">luja kangas.</xt>
      </xg>
    </mg>
@@ -40505,7 +40827,7 @@
    <lg>
      <l pos="A">тапу</l>
      <stg>
-       <st Contlex="A_">тапу</st>
+       <st Contlex="A_KELU">тапу</st>
      </stg>
    </lg>
    <mg>
@@ -40533,7 +40855,7 @@
    <lg>
      <l pos="A">тараду</l>
      <stg>
-       <st Contlex="A_">тараду</st>
+       <st Contlex="A_KELU">тараду</st>
      </stg> <phonet>taradu</phonet>
    </lg>
    <mg>
@@ -40544,7 +40866,8 @@
        <t pos="A">haaroittuva</t>
        <t pos="A">vesova</t>
      </tg>
-     <xg> <x>тарадуста</x> <phonet>taradusta</phonet>
+     <xg>
+       <x>тарадуста</x> <phonet>taradusta</phonet>
        <xt xml:lang="fin">haaroittuen, vesoen.</xt>
      </xg>
    </mg>
@@ -40651,7 +40974,7 @@
    <lg>
      <l pos="A">таштоня</l>
      <stg>
-       <st Contlex="A_">таштоня</st>
+       <st Contlex="A_AVA">таштоня</st>
      </stg>
    </lg>
    <mg>
@@ -40721,7 +41044,7 @@
    <lg>
      <l pos="A">твету</l>
      <stg>
-       <st Contlex="A_">твету</st>
+       <st Contlex="A_KELU">твету</st>
        <st Contlex="A_" status="Use/SpellNoSugg">тъвету</st>
      </stg>
    </lg>
@@ -40779,7 +41102,7 @@
    <lg>
      <l pos="A">теву</l>
      <stg>
-       <st Contlex="A_">теву</st>
+       <st Contlex="A_KELU">теву</st>
      </stg> <phonet>ťevu</phonet>
    </lg>
    <mg>
@@ -40794,7 +41117,8 @@
      <tg xml:lang="fin">
        <t pos="A">asiallinen</t>
      </tg>
-     <xg> <x>тевуня</x> <phonet>ťevuńä</phonet>
+     <xg>
+       <x>тевуня</x> <phonet>ťevuńä</phonet>
        <xt xml:lang="fin">ahkera, toimelias, työteliäs.</xt>
      </xg>
    </mg>
@@ -41226,7 +41550,7 @@
    <lg>
      <l pos="A">тишу</l>
      <stg>
-       <st Contlex="A_">тишу</st>
+       <st Contlex="A_KELU">тишу</st>
      </stg>
    </lg>
    <mg>
@@ -41255,7 +41579,7 @@
    <lg>
      <l pos="A">тнярдоння</l>
      <stg>
-       <st Contlex="A_">тнярдоння</st>
+       <st Contlex="A_AVA">тнярдоння</st>
        <st Contlex="A_" status="Use/SpellNoSugg">тънярдоння</st>
      </stg>
    </lg>
@@ -41365,7 +41689,8 @@
      <tg xml:lang="fin">
        <t pos="A">tavara-</t>
      </tg>
-     <xg> <x>товарнай поезд</x> <phonet>tavarnaj pojəst</phonet>
+     <xg>
+       <x>товарнай поезд</x> <phonet>tavarnaj pojəst</phonet>
        <xt xml:lang="fin">tavarajuna.</xt>
      </xg>
    </mg>
@@ -41388,7 +41713,7 @@
    <lg>
      <l pos="A">тову</l>
      <stg>
-       <st Contlex="A_">тову</st>
+       <st Contlex="A_KELU">тову</st>
      </stg>
    </lg>
    <mg>
@@ -41430,7 +41755,7 @@
    <lg>
      <l pos="A">тозяня</l>
      <stg>
-       <st Contlex="A_">тозяня</st>
+       <st Contlex="A_AVA">тозяня</st>
      </stg>
    </lg>
    <mg>
@@ -41543,7 +41868,7 @@
    <lg>
      <l pos="A">толу</l>
      <stg>
-       <st Contlex="A_">толу</st>
+       <st Contlex="A_KELU">толу</st>
      </stg> <phonet>tolu</phonet>
    </lg>
    <mg>
@@ -41557,7 +41882,7 @@
    <lg>
      <l pos="A">томаконя</l>
      <stg>
-       <st Contlex="A_">томаконя</st>
+       <st Contlex="A_AVA">томаконя</st>
      </stg>
    </lg>
    <mg>
@@ -41585,7 +41910,7 @@
    <lg>
      <l pos="A">томбу</l>
      <stg>
-       <st Contlex="A_">томбу</st>
+       <st Contlex="A_KELU">томбу</st>
      </stg> <phonet>tombu</phonet>
    </lg>
    <mg>
@@ -41593,7 +41918,8 @@
      <tg xml:lang="fin">
        <t pos="A">syvänteinen</t>
      </tg>
-     <xg> <x>эрьхксь томбу</x> <phonet>äŕxkś tombu</phonet>
+     <xg>
+       <x>эрьхксь томбу</x> <phonet>äŕxkś tombu</phonet>
        <xt xml:lang="fin">järvi on syvä.</xt>
      </xg>
    </mg>
@@ -41715,7 +42041,7 @@
    <lg>
      <l pos="A">топафты</l>
      <stg>
-       <st Contlex="A_">топафты</st>
+       <st Contlex="A_ANDY">топафты</st>
      </stg>
    </lg>
    <mg>
@@ -42417,7 +42743,7 @@
    <lg>
      <l pos="A">тувозу</l>
      <stg>
-       <st Contlex="A_">тувозу</st>
+       <st Contlex="A_KELU">тувозу</st>
      </stg>
    </lg>
    <mg>
@@ -42473,7 +42799,7 @@
    <lg>
      <l pos="A">туйгон</l>
      <stg>
-       <st Contlex="A_">туйгон</st>
+       <st Contlex="A_KAL">туйгон</st>
      </stg>
    </lg>
    <mg>
@@ -42501,7 +42827,7 @@
    <lg>
      <l pos="A">туману</l>
      <stg>
-       <st Contlex="A_">туману</st>
+       <st Contlex="A_KELU">туману</st>
      </stg>
    </lg>
    <mg>
@@ -42613,7 +42939,7 @@
    <lg>
      <l pos="A">турду</l>
      <stg>
-       <st Contlex="A_">турду</st>
+       <st Contlex="A_KELU">турду</st>
      </stg>
    </lg>
    <mg>
@@ -42730,7 +43056,7 @@
    <lg>
      <l pos="A">тусту</l>
      <stg>
-       <st Contlex="A_">тусту</st>
+       <st Contlex="A_KELU">тусту</st>
      </stg>
    </lg>
    <mg>
@@ -42940,7 +43266,8 @@
      <tg xml:lang="fra">
        <t pos="A">jaune</t>
      </tg>
-     <xg> <x>тюжя пря панчф</x> <phonet>ťužä pŕä pańčf</phonet>
+     <xg>
+       <x>тюжя пря панчф</x> <phonet>ťužä pŕä pańčf</phonet>
        <xt xml:lang="fin">tuhatkauno (Bellis perennis); voikukka (Taraxacum officinalis).</xt>
      </xg>
    </mg>
@@ -42977,7 +43304,7 @@
    <lg>
      <l pos="A">тюня</l>
      <stg>
-       <st Contlex="A_">тюня</st>
+       <st Contlex="A_AVA">тюня</st>
      </stg>
    </lg>
    <mg>
@@ -43061,7 +43388,7 @@
    <lg>
      <l pos="A">тяддецення</l>
      <stg>
-       <st Contlex="A_">тяддецення</st>
+       <st Contlex="A_AVA">тяддецення</st>
      </stg>
    </lg>
    <mg>
@@ -43173,7 +43500,7 @@
    <lg>
      <l pos="A">тяйнешты</l>
      <stg>
-       <st Contlex="A_">тяйнешты</st>
+       <st Contlex="A_ANDY">тяйнешты</st>
      </stg>
    </lg>
    <mg>
@@ -43201,7 +43528,7 @@
    <lg>
      <l pos="A">тяйня</l>
      <stg>
-       <st Contlex="A_">тяйня</st>
+       <st Contlex="A_AVA">тяйня</st>
      </stg> <phonet>ťäjńä</phonet>
    </lg>
    <mg>
@@ -43218,7 +43545,7 @@
    <lg>
      <l pos="A">тяйшты</l>
      <stg>
-       <st Contlex="A_">тяйшты</st>
+       <st Contlex="A_ANDY">тяйшты</st>
      </stg>
    </lg>
    <mg>
@@ -43232,7 +43559,7 @@
    <lg>
      <l pos="A">тяконя</l>
      <stg>
-       <st Contlex="A_">тяконя</st>
+       <st Contlex="A_AVA">тяконя</st>
      </stg>
    </lg>
    <mg>
@@ -43246,7 +43573,7 @@
    <lg>
      <l pos="A">тяконя-ажаня</l>
      <stg>
-       <st Contlex="A_">тяконя-ажаня</st>
+       <st Contlex="A_AVA">тяконя-ажаня</st>
      </stg>
    </lg>
    <mg>
@@ -43260,7 +43587,7 @@
    <lg>
      <l pos="A">тяконя-маконя</l>
      <stg>
-       <st Contlex="A_">тяконя-маконя</st>
+       <st Contlex="A_AVA">тяконя-маконя</st>
      </stg>
    </lg>
    <mg>
@@ -43288,7 +43615,7 @@
    <lg>
      <l pos="A">тялоня</l>
      <stg>
-       <st Contlex="A_">тялоня</st>
+       <st Contlex="A_AVA">тялоня</st>
      </stg>
    </lg>
    <mg>
@@ -43471,7 +43798,7 @@
    <lg>
      <l pos="A">тяшканя</l>
      <stg>
-       <st Contlex="A_">тяшканя</st>
+       <st Contlex="A_AVA">тяшканя</st>
      </stg>
    </lg>
    <mg>
@@ -43867,7 +44194,7 @@
    <lg>
      <l pos="A">удофкшу</l>
      <stg>
-       <st Contlex="A_">удофкшу</st>
+       <st Contlex="A_KELU">удофкшу</st>
      </stg> <phonet>udəfkšu</phonet>
    </lg>
    <mg>
@@ -43945,10 +44272,12 @@
      <tg xml:lang="fin">
        <t pos="A">1. valitettavasti. 2. sääli</t>
      </tg>
-     <xg> <x>тейне ужяль сон</x> <phonet>ťejń(ä) užäľ son</phonet>
+     <xg>
+       <x>тейне ужяль сон</x> <phonet>ťejń(ä) užäľ son</phonet>
        <xt xml:lang="fin">minun on sääli häntä.</xt>
      </xg>
-     <xg> <x>ужяль, што сон тусь</x> <phonet>užäľ što son tuś</phonet>
+     <xg>
+       <x>ужяль, што сон тусь</x> <phonet>užäľ što son tuś</phonet>
        <xt xml:lang="fin">vahinko että hän lähti.</xt>
      </xg>
    </mg>
@@ -43957,7 +44286,7 @@
    <lg>
      <l pos="A">ужяня</l>
      <stg>
-       <st Contlex="A_">ужяня</st>
+       <st Contlex="A_AVA">ужяня</st>
      </stg>
    </lg>
    <mg>
@@ -44111,7 +44440,7 @@
    <lg>
      <l pos="A">ульму</l>
      <stg>
-       <st Contlex="A_">ульму</st>
+       <st Contlex="A_KELU">ульму</st>
      </stg>
    </lg>
    <mg>
@@ -44265,7 +44594,7 @@
    <lg>
      <l pos="A">унду</l>
      <stg>
-       <st Contlex="A_">унду</st>
+       <st Contlex="A_KELU">унду</st>
      </stg> <phonet>undu</phonet>
    </lg>
    <mg>
@@ -44279,7 +44608,8 @@
      <tg xml:lang="fin">
        <t pos="A">tyhjä</t>
      </tg>
-     <xg> <x>унду нешке</x> <phonet>undu ńeškä</phonet>
+     <xg>
+       <x>унду нешке</x> <phonet>undu ńeškä</phonet>
        <xt xml:lang="fin">tyhjäksi kaavittu mehiläispesä.</xt>
      </xg>
    </mg>
@@ -44288,7 +44618,7 @@
    <lg>
      <l pos="A">унзу-манзу</l>
      <stg>
-       <st Contlex="A_">унзу-манзу</st>
+       <st Contlex="A_KELU">унзу-манзу</st>
      </stg>
    </lg>
    <mg>
@@ -44339,7 +44669,8 @@
        <t pos="A">mitattava</t>
        <t pos="A">punnittavissa oleva</t>
      </tg>
-     <xg> <x>аф ункстави</x> <phonet>af uŋkstavi</phonet>
+     <xg>
+       <x>аф ункстави</x> <phonet>af uŋkstavi</phonet>
        <xt xml:lang="fin">mittaamaton.</xt>
      </xg>
    </mg>
@@ -44470,7 +44801,8 @@
        <t pos="A">täsmällinen</t>
        <t pos="A">huolellinen</t>
      </tg>
-     <xg> <x>аф уряднай</x> <phonet>af uŕadnaj</phonet>
+     <xg>
+       <x>аф уряднай</x> <phonet>af uŕadnaj</phonet>
        <xt xml:lang="fin">sekainen, epäjärjestyksessä oleva, epätarkka.</xt>
      </xg>
    </mg>
@@ -44507,7 +44839,7 @@
    <lg>
      <l pos="A">усолу</l>
      <stg>
-       <st Contlex="A_">усолу</st>
+       <st Contlex="A_KELU">усолу</st>
      </stg>
    </lg>
    <mg>
@@ -44563,7 +44895,7 @@
    <lg>
      <l pos="A">уськазу</l>
      <stg>
-       <st Contlex="A_">уськазу</st>
+       <st Contlex="A_KELU">уськазу</st>
      </stg>
    </lg>
    <mg>
@@ -44591,7 +44923,7 @@
    <lg>
      <l pos="A">утлоку</l>
      <stg>
-       <st Contlex="A_">утлоку</st>
+       <st Contlex="A_KELU">утлоку</st>
      </stg>
    </lg>
    <mg>
@@ -44669,7 +45001,8 @@
      <tg xml:lang="fin">
        <t pos="A">halpa</t>
      </tg>
-     <xg> <x>уцезста</x> <phonet>ućəzsta</phonet>
+     <xg>
+       <x>уцезста</x> <phonet>ućəzsta</phonet>
        <xt xml:lang="fin">halvalla.</xt>
      </xg>
    </mg>
@@ -44876,7 +45209,7 @@
    <lg>
      <l pos="A">ушяня</l>
      <stg>
-       <st Contlex="A_">ушяня</st>
+       <st Contlex="A_AVA">ушяня</st>
      </stg>
    </lg>
    <mg>
@@ -45432,7 +45765,8 @@
        <t pos="A">yhdet</t>
        <t pos="A">eräät</t>
      </tg>
-     <xg> <x>финцне ... омбонцне</x> <phonet>fincńä ... ombəncńä</phonet>
+     <xg>
+       <x>финцне ... омбонцне</x> <phonet>fincńä ... ombəncńä</phonet>
        <xt xml:lang="fin">toiset ... toiset.</xt>
      </xg>
    </mg>
@@ -45484,7 +45818,7 @@
    <lg>
      <l pos="A">фкяня-сяконя</l>
      <stg>
-       <st Contlex="A_">фкяня-сяконя</st>
+       <st Contlex="A_AVA">фкяня-сяконя</st>
        <st Contlex="A_" status="Use/SpellNoSugg">фъкяня-сяконя</st>
      </stg>
    </lg>
@@ -45499,7 +45833,7 @@
    <lg>
      <l pos="A">фкяня-тяконя</l>
      <stg>
-       <st Contlex="A_">фкяня-тяконя</st>
+       <st Contlex="A_AVA">фкяня-тяконя</st>
        <st Contlex="A_" status="Use/SpellNoSugg">фъкяня-тяконя</st>
      </stg>
    </lg>
@@ -45953,7 +46287,7 @@
    <lg>
      <l pos="A">фтиня</l>
      <stg>
-       <st Contlex="A_">фтиня</st>
+       <st Contlex="A_AVA">фтиня</st>
        <st Contlex="A_" status="Use/SpellNoSugg">фътиня</st>
      </stg>
    </lg>
@@ -46449,7 +46783,7 @@
    <lg>
      <l pos="A">цебярня</l>
      <stg>
-       <st Contlex="A_">цебярня</st>
+       <st Contlex="A_AVA">цебярня</st>
      </stg>
    </lg>
    <mg>
@@ -46463,7 +46797,7 @@
    <lg>
      <l pos="A">цебярня-пароня</l>
      <stg>
-       <st Contlex="A_">цебярня-пароня</st>
+       <st Contlex="A_AVA">цебярня-пароня</st>
      </stg>
    </lg>
    <mg>
@@ -46489,13 +46823,16 @@
        <t pos="A">hyvin</t>
        <t pos="A">kunnolla</t>
      </tg>
-     <xg> <x>арьсемс цебярь</x> <phonet>aŕśəms ćebäŕ</phonet>
+     <xg>
+       <x>арьсемс цебярь</x> <phonet>aŕśəms ćebäŕ</phonet>
        <xt xml:lang="fin">siunata.</xt>
      </xg>
-     <xg> <x>сембе цебярсь сатови трудса</x> <phonet>śembə ćebäŕś satəvi truca</phonet>
+     <xg>
+       <x>сембе цебярсь сатови трудса</x> <phonet>śembə ćebäŕś satəvi truca</phonet>
        <xt xml:lang="fin">kaikki hyvä vaatii vaivaa.</xt>
      </xg>
-     <xg> <x>цебярь кожф</x> <phonet>ćebäŕ kožf</phonet>
+     <xg>
+       <x>цебярь кожф</x> <phonet>ćebäŕ kožf</phonet>
        <xt xml:lang="fin">hyvä sää.</xt>
      </xg>
    </mg>
@@ -46745,7 +47082,7 @@
    <lg>
      <l pos="A">цигон</l>
      <stg>
-       <st Contlex="A_">цигон</st>
+       <st Contlex="A_KAL">цигон</st>
      </stg>
    </lg>
    <mg>
@@ -46927,7 +47264,7 @@
    <lg>
      <l pos="A">цякан</l>
      <stg>
-       <st Contlex="A_">цякан</st>
+       <st Contlex="A_KAL">цякан</st>
      </stg>
    </lg>
    <mg>
@@ -47039,7 +47376,7 @@
    <lg>
      <l pos="A">цяторды</l>
      <stg>
-       <st Contlex="A_">цяторды</st>
+       <st Contlex="A_ANDY">цяторды</st>
      </stg>
    </lg>
    <mg>
@@ -47106,10 +47443,12 @@
        <t pos="A">kehno</t>
        <t pos="A">heikko</t>
      </tg>
-     <xg> <x>цёлак авань ямкс</x> <phonet>ćolak avań jamks</phonet>
+     <xg>
+       <x>цёлак авань ямкс</x> <phonet>ćolak avań jamks</phonet>
        <xt xml:lang="fin">rae.</xt>
      </xg>
-     <xg> <x>цёлак сельмоста</x> <phonet>ćolak śeľməsta</phonet>
+     <xg>
+       <x>цёлак сельмоста</x> <phonet>ćolak śeľməsta</phonet>
        <xt xml:lang="fin">pahalla silmällä katsottu.</xt>
      </xg>
    </mg>
@@ -47118,7 +47457,7 @@
    <lg>
      <l pos="A">цёмафксу</l>
      <stg>
-       <st Contlex="A_">цёмафксу</st>
+       <st Contlex="A_KELU">цёмафксу</st>
      </stg>
    </lg>
    <mg>
@@ -47182,7 +47521,8 @@
      <tg xml:lang="fin">
        <t pos="A"></t>
      </tg>
-     <xg> <x>чайнай куцюня</x> <phonet>čäjnaj kućuńä</phonet>
+     <xg>
+       <x>чайнай куцюня</x> <phonet>čäjnaj kućuńä</phonet>
        <xt xml:lang="fin">teelusikka.</xt>
      </xg>
    </mg>
@@ -47261,7 +47601,7 @@
    <lg>
      <l pos="A">чван</l>
      <stg>
-       <st Contlex="A_">чван</st>
+       <st Contlex="A_KAL">чван</st>
        <st Contlex="A_" status="Use/SpellNoSugg">чъван</st>
      </stg>
    </lg>
@@ -47461,7 +47801,7 @@
    <lg>
      <l pos="A">чипорня</l>
      <stg>
-       <st Contlex="A_">чипорня</st>
+       <st Contlex="A_AVA">чипорня</st>
      </stg>
    </lg>
    <mg>
@@ -47588,7 +47928,7 @@
    <lg>
      <l pos="A">чуван</l>
      <stg>
-       <st Contlex="A_">чуван</st>
+       <st Contlex="A_KAL">чуван</st>
      </stg>
    </lg>
    <mg>
@@ -47786,28 +48126,36 @@
      <tg xml:lang="fin">
        <t pos="A">kehno</t>
      </tg>
-     <xg> <x>шавонь кятть</x> <phonet>šavəń käťť</phonet>
+     <xg>
+       <x>шавонь кятть</x> <phonet>šavəń käťť</phonet>
        <xt xml:lang="fin">tyhjin käsin.</xt>
      </xg>
-     <xg> <x>шава куд</x> <phonet>šavə kud</phonet>
+     <xg>
+       <x>шава куд</x> <phonet>šavə kud</phonet>
        <xt xml:lang="fin">autiotalo.</xt>
      </xg>
-     <xg> <x>шава курга</x> <phonet>šavə kurga</phonet>
+     <xg>
+       <x>шава курга</x> <phonet>šavə kurga</phonet>
        <xt xml:lang="fin">kelmi.</xt>
      </xg>
-     <xg> <x>шава пря</x> <phonet>šavə pŕä</phonet>
+     <xg>
+       <x>шава пря</x> <phonet>šavə pŕä</phonet>
        <xt xml:lang="fin">typerys, tyhmyri.</xt>
      </xg>
-     <xg> <x>шава прят</x> <phonet>šavə pŕat</phonet>
+     <xg>
+       <x>шава прят</x> <phonet>šavə pŕat</phonet>
        <xt xml:lang="fin">selvin päin.</xt>
      </xg>
-     <xg> <x>шава тев</x> <phonet>šavə ťev</phonet>
+     <xg>
+       <x>шава тев</x> <phonet>šavə ťev</phonet>
        <xt xml:lang="fin">turha työ.</xt>
      </xg>
-     <xg> <x>шава тише</x> <phonet>šavə ťišä</phonet>
+     <xg>
+       <x>шава тише</x> <phonet>šavə ťišä</phonet>
        <xt xml:lang="fin">rikkakasvi, -ruoho.</xt>
      </xg>
-     <xg> <x>шавос корхтамс</x> <phonet>šavəs korxtams</phonet>
+     <xg>
+       <x>шавос корхтамс</x> <phonet>šavəs korxtams</phonet>
        <xt xml:lang="fin">1. lörpötellä. 2. puhua kuuroille korville.</xt>
      </xg>
    </mg>
@@ -47816,7 +48164,7 @@
    <lg>
      <l pos="A">шавлаку</l>
      <stg>
-       <st Contlex="A_">шавлаку</st>
+       <st Contlex="A_KELU">шавлаку</st>
      </stg>
    </lg>
    <mg>
@@ -47830,7 +48178,7 @@
    <lg>
      <l pos="A">шавоня</l>
      <stg>
-       <st Contlex="A_">шавоня</st>
+       <st Contlex="A_AVA">шавоня</st>
      </stg>
    </lg>
    <mg>
@@ -48014,7 +48362,7 @@
    <lg>
      <l pos="A">шанжу</l>
      <stg>
-       <st Contlex="A_">шанжу</st>
+       <st Contlex="A_KELU">шанжу</st>
      </stg>
    </lg>
    <mg>
@@ -48042,7 +48390,7 @@
    <lg>
      <l pos="A">шапаксу</l>
      <stg>
-       <st Contlex="A_">шапаксу</st>
+       <st Contlex="A_KELU">шапаксу</st>
      </stg>
    </lg>
    <mg>
@@ -48066,16 +48414,20 @@
        <t pos="A">kitkerä</t>
        <t pos="A">katkera</t>
      </tg>
-     <xg> <x>шапама лофца</x> <phonet>šapamə lofca</phonet>
+     <xg>
+       <x>шапама лофца</x> <phonet>šapamə lofca</phonet>
        <xt xml:lang="fin">piimä, kefiiri.</xt>
      </xg>
-     <xg> <x>шапама тише</x> <phonet>šapamə ťišä</phonet>
+     <xg>
+       <x>шапама тише</x> <phonet>šapamə ťišä</phonet>
        <xt xml:lang="fin">peltotaskuruoho (Thlaspi arvense).</xt>
      </xg>
-     <xg> <x>шапамда симемась</x> <phonet>šapamdə śiməmaś</phonet>
+     <xg>
+       <x>шапамда симемась</x> <phonet>šapamdə śiməmaś</phonet>
        <xt xml:lang="fin">viinanjuonti, ryyppääminen.</xt>
      </xg>
-     <xg> <x>шапамть эзда копорямс</x> <phonet>šapamť ezdə kopəŕams</phonet>
+     <xg>
+       <x>шапамть эзда копорямс</x> <phonet>šapamť ezdə kopəŕams</phonet>
        <xt xml:lang="fin">juoda viinaa.</xt>
      </xg>
    </mg>
@@ -48126,7 +48478,7 @@
    <lg>
      <l pos="A">шаракофты</l>
      <stg>
-       <st Contlex="A_">шаракофты</st>
+       <st Contlex="A_ANDY">шаракофты</st>
      </stg>
    </lg>
    <mg>
@@ -48140,7 +48492,7 @@
    <lg>
      <l pos="A">шаржу</l>
      <stg>
-       <st Contlex="A_">шаржу</st>
+       <st Contlex="A_KELU">шаржу</st>
      </stg> <phonet>šaržu</phonet>
    </lg>
    <mg>
@@ -48203,7 +48555,7 @@
    <lg>
      <l pos="A">шаршун</l>
      <stg>
-       <st Contlex="A_">шаршун</st>
+       <st Contlex="A_KAL">шаршун</st>
      </stg>
    </lg>
    <mg>
@@ -48459,10 +48811,12 @@
        <t pos="A">tuoksuva</t>
        <t pos="A">hyväntuoksuinen</t>
      </tg>
-     <xg> <x>шини пула</x> <phonet>šińi pula</phonet>
+     <xg>
+       <x>шини пула</x> <phonet>šińi pula</phonet>
        <xt xml:lang="fin">inhottava ihminen.</xt>
      </xg>
-     <xg> <x>шини ведь</x> <phonet>šińi veď</phonet>
+     <xg>
+       <x>шини ведь</x> <phonet>šińi veď</phonet>
        <xt xml:lang="fin">pontikka, viina.</xt>
      </xg>
    </mg>
@@ -48501,10 +48855,12 @@
        <t pos="A">kiero</t>
        <t pos="A">käyrä</t>
      </tg>
-     <xg> <x>ширем сельмот</x> <phonet>šiŕəm śeľmət</phonet>
+     <xg>
+       <x>ширем сельмот</x> <phonet>šiŕəm śeľmət</phonet>
        <xt xml:lang="fin">kulmien alta.</xt>
      </xg>
-     <xg> <x>ширемста</x> <phonet>širəmsta</phonet>
+     <xg>
+       <x>ширемста</x> <phonet>širəmsta</phonet>
        <xt xml:lang="fin">vinossa, kallellaan; kierossa.</xt>
      </xg>
    </mg>
@@ -48550,10 +48906,12 @@
        <t pos="A">elossa</t>
        <t pos="A">hengissä</t>
      </tg>
-     <xg> <x>илядомс шиса</x> <phonet>iľadəms šisa</phonet>
+     <xg>
+       <x>илядомс шиса</x> <phonet>iľadəms šisa</phonet>
        <xt xml:lang="fin">pysyä hengissä, jäädä henkiin.</xt>
      </xg>
-     <xg> <x>тя шиса ... тона шиса</x> <phonet>ťä šisa … tona šisa</phonet>
+     <xg>
+       <x>тя шиса ... тона шиса</x> <phonet>ťä šisa … tona šisa</phonet>
        <xt xml:lang="fin">tässä maailmassa … tuonpuoleisessa.</xt>
      </xg>
    </mg>
@@ -48685,13 +49043,16 @@
        <t pos="A">pimeys</t>
        <t pos="A">hämäryys</t>
      </tg>
-     <xg> <x>шобда комната</x> <phonet>šobda komnata</phonet>
+     <xg>
+       <x>шобда комната</x> <phonet>šobda komnata</phonet>
        <xt xml:lang="fin">hämärä huone.</xt>
      </xg>
-     <xg> <x>шобда куд</x> <phonet>šobda kud</phonet>
+     <xg>
+       <x>шобда куд</x> <phonet>šobda kud</phonet>
        <xt xml:lang="fin">vankila.</xt>
      </xg>
-     <xg> <x>шобдаста</x> <phonet>šobdasta</phonet>
+     <xg>
+       <x>шобдаста</x> <phonet>šobdasta</phonet>
        <xt xml:lang="fin">pimeässä.</xt>
      </xg>
    </mg>
@@ -48743,7 +49104,7 @@
    <lg>
      <l pos="A">шовданя</l>
      <stg>
-       <st Contlex="A_">шовданя</st>
+       <st Contlex="A_AVA">шовданя</st>
      </stg>
    </lg>
    <mg>
@@ -48771,7 +49132,7 @@
    <lg>
      <l pos="A">шову</l>
      <stg>
-       <st Contlex="A_">шову</st>
+       <st Contlex="A_KELU">шову</st>
      </stg> <phonet>šovu</phonet>
    </lg>
    <mg>
@@ -48873,7 +49234,7 @@
    <lg>
      <l pos="A">шонгарня</l>
      <stg>
-       <st Contlex="A_">шонгарня</st>
+       <st Contlex="A_AVA">шонгарня</st>
      </stg>
    </lg>
    <mg>
@@ -49000,7 +49361,7 @@
    <lg>
      <l pos="A">штадоня</l>
      <stg>
-       <st Contlex="A_">штадоня</st>
+       <st Contlex="A_AVA">штадоня</st>
      </stg>
    </lg>
    <mg>
@@ -49210,7 +49571,7 @@
    <lg>
      <l pos="A">шуваня</l>
      <stg>
-       <st Contlex="A_">шуваня</st>
+       <st Contlex="A_AVA">шуваня</st>
      </stg> <phonet>šuvańä</phonet>
    </lg>
    <mg>
@@ -49223,7 +49584,8 @@
      <tg xml:lang="fra">
        <t pos="A">mince</t>
      </tg>
-     <xg> <x>шуваня вайгяль</x> <phonet>šuvańä vajgäľ</phonet>
+     <xg>
+       <x>шуваня вайгяль</x> <phonet>šuvańä vajgäľ</phonet>
        <xt xml:lang="fin">hento ääni.</xt>
      </xg>
    </mg>
@@ -49246,7 +49608,7 @@
    <lg>
      <l pos="A">шувару</l>
      <stg>
-       <st Contlex="A_">шувару</st>
+       <st Contlex="A_KELU">шувару</st>
      </stg> <phonet>šuvaru</phonet>
    </lg>
    <mg>
@@ -49260,7 +49622,7 @@
    <lg>
      <l pos="A">шувошты</l>
      <stg>
-       <st Contlex="A_">шувошты</st>
+       <st Contlex="A_ANDY">шувошты</st>
      </stg>
    </lg>
    <mg>
@@ -49382,16 +49744,20 @@
        <t pos="A">terve</t>
        <t pos="A">terveellinen</t>
      </tg>
-     <xg> <x>ульхть шумбра!</x> <phonet>uľxť šumbra</phonet>
+     <xg>
+       <x>ульхть шумбра!</x> <phonet>uľxť šumbra</phonet>
        <xt xml:lang="fin">pysy terveenä! (hyvästely).</xt>
      </xg>
-     <xg> <x>шумбрат!</x> <phonet>šumbrat</phonet>
+     <xg>
+       <x>шумбрат!</x> <phonet>šumbrat</phonet>
        <xt xml:lang="fin">päivää! hei!</xt>
      </xg>
-     <xg> <x>шумбрат-пархт азондомс</x> <phonet>šumbrat-parxt azəndəms</phonet>
+     <xg>
+       <x>шумбрат-пархт азондомс</x> <phonet>šumbrat-parxt azəndəms</phonet>
        <xt xml:lang="fin">tervehtiä, lähettää terveisiä, toivottaa onnea.</xt>
      </xg>
-     <xg> <x>шумбрат-эрят!</x> <phonet>šumbrat-eŕat</phonet>
+     <xg>
+       <x>шумбрат-эрят!</x> <phonet>šumbrat-eŕat</phonet>
        <xt xml:lang="fin">terve!</xt>
      </xg>
    </mg>
@@ -49424,7 +49790,8 @@
        <t pos="A">lainaksi saatu</t>
        <t pos="A">velka-</t>
      </tg>
-     <xg> <x>шумода ярмак</x> <phonet>šumədə jarmak</phonet>
+     <xg>
+       <x>шумода ярмак</x> <phonet>šumədə jarmak</phonet>
        <xt xml:lang="fin">lainaraha.</xt>
      </xg>
    </mg>
@@ -49433,7 +49800,7 @@
    <lg>
      <l pos="A">шуму</l>
      <stg>
-       <st Contlex="A_">шуму</st>
+       <st Contlex="A_KELU">шуму</st>
      </stg> <phonet>šumu</phonet>
    </lg>
    <mg>
@@ -49448,7 +49815,8 @@
        <t pos="A">syyllinen</t>
        <t pos="A">syntinen</t>
      </tg>
-     <xg> <x>шумуван</x> <phonet>šumuvan</phonet>
+     <xg>
+       <x>шумуван</x> <phonet>šumuvan</phonet>
        <xt xml:lang="fin">1. olen veloissa. 2. olen syyllinen/syntinen.</xt>
      </xg>
    </mg>
@@ -49465,19 +49833,24 @@
      <tg xml:lang="fin">
        <t pos="A">harvinainen</t>
      </tg>
-     <xg> <x>шуроста</x> <phonet>šurəsta</phonet>
+     <xg>
+       <x>шуроста</x> <phonet>šurəsta</phonet>
        <xt xml:lang="fin">harvoin.</xt>
      </xg>
-     <xg> <x>шуроста васьфневи валхт</x> <phonet>šurəstə vaśfńəvi valxt</phonet>
+     <xg>
+       <x>шуроста васьфневи валхт</x> <phonet>šurəstə vaśfńəvi valxt</phonet>
        <xt xml:lang="fin">harvoin käytetyt sanat.</xt>
      </xg>
-     <xg> <x>шурова-пулова</x> <phonet>šurəva-puləva</phonet>
+     <xg>
+       <x>шурова-пулова</x> <phonet>šurəva-puləva</phonet>
        <xt xml:lang="fin">harvoin.</xt>
      </xg>
-     <xg> <x>шурода-весть</x> <phonet>šurədə-veśť</phonet>
+     <xg>
+       <x>шурода-весть</x> <phonet>šurədə-veśť</phonet>
        <xt xml:lang="fin">hyvin harvoin, joskus.</xt>
      </xg>
-     <xg> <x>шуродонга шура</x> <phonet>šurədəŋgə šura</phonet>
+     <xg>
+       <x>шуродонга шура</x> <phonet>šurədəŋgə šura</phonet>
        <xt xml:lang="fin">hyvin harva.</xt>
      </xg>
    </mg>
@@ -49486,7 +49859,7 @@
    <lg>
      <l pos="A">шуроня</l>
      <stg>
-       <st Contlex="A_">шуроня</st>
+       <st Contlex="A_AVA">шуроня</st>
      </stg> <phonet>šurəńä</phonet>
    </lg>
    <mg>
@@ -49710,7 +50083,7 @@
    <lg>
      <l pos="A">шяфтеня</l>
      <stg>
-       <st Contlex="A_">шяфтеня</st>
+       <st Contlex="A_AVA">шяфтеня</st>
      </stg>
    </lg>
    <mg>
@@ -49932,7 +50305,8 @@
        <t pos="A">jäinen</t>
        <t pos="A">jää-</t>
      </tg>
-     <xg> <x>эень молема/ срхкама</x> <phonet>äjəń moľəma/sərxkama</phonet>
+     <xg>
+       <x>эень молема/ срхкама</x> <phonet>äjəń moľəma/sərxkama</phonet>
        <xt xml:lang="fin">jäidenlähtö.</xt>
      </xg>
    </mg>
@@ -50008,13 +50382,16 @@
        <t pos="A">typeryys</t>
        <t pos="A">tylsyys</t>
      </tg>
-     <xg> <x>эзярь-безярь ащи</x> <phonet>eźəŕ-beźəŕ ašči</phonet>
+     <xg>
+       <x>эзярь-безярь ащи</x> <phonet>eźəŕ-beźəŕ ašči</phonet>
        <xt xml:lang="fin">äreä, synkkä.</xt>
      </xg>
-     <xg> <x>эзярь-безярь ломань</x> <phonet>eźəŕ-beźəŕ lomań</phonet>
+     <xg>
+       <x>эзярь-безярь ломань</x> <phonet>eźəŕ-beźəŕ lomań</phonet>
        <xt xml:lang="fin">jörö ihminen.</xt>
      </xg>
-     <xg> <x>эзярь-безярь наряжаф</x> <phonet>eźəŕ-beźəŕ naŕažaf</phonet>
+     <xg>
+       <x>эзярь-безярь наряжаф</x> <phonet>eźəŕ-beźəŕ naŕažaf</phonet>
        <xt xml:lang="fin">huolimattomasti pukeutunut.</xt>
      </xg>
    </mg>
@@ -50248,7 +50625,7 @@
    <lg>
      <l pos="A">эльденя</l>
      <stg>
-       <st Contlex="A_">эльденя</st>
+       <st Contlex="A_AVA">эльденя</st>
      </stg>
    </lg>
    <mg>
@@ -50398,7 +50775,8 @@
        <t pos="A">eloisa</t>
        <t pos="A">vikkelä</t>
      </tg>
-     <xg> <x>кодама эрек идсь!</x> <phonet>kodam(ə) äŕək ić</phonet>
+     <xg>
+       <x>кодама эрек идсь!</x> <phonet>kodam(ə) äŕək ić</phonet>
        <xt xml:lang="fin">onpa vilkas lapsi!</xt>
      </xg>
    </mg>
@@ -50529,13 +50907,16 @@
        <t pos="A">määrätty</t>
        <t pos="A">määrä-</t>
      </tg>
-     <xg> <x>эрявикс тев</x> <phonet>eŕaviks ťev</phonet>
+     <xg>
+       <x>эрявикс тев</x> <phonet>eŕaviks ťev</phonet>
        <xt xml:lang="fin">tärkeä asia.</xt>
      </xg>
-     <xg> <x>эрявикс частста састь сембе</x> <phonet>eŕaviks časctə saśť śembä</phonet>
+     <xg>
+       <x>эрявикс частста састь сембе</x> <phonet>eŕaviks časctə saśť śembä</phonet>
        <xt xml:lang="fin">kaikki tulivat määräaikaan.</xt>
      </xg>
-     <xg> <x>аф эрявикс</x> <phonet>af eŕaviks</phonet>
+     <xg>
+       <x>аф эрявикс</x> <phonet>af eŕaviks</phonet>
        <xt xml:lang="fin">turha, tarpeeton.</xt>
      </xg>
    </mg>
@@ -50573,7 +50954,7 @@
    <lg>
      <l pos="A">эряфкшу</l>
      <stg>
-       <st Contlex="A_">эряфкшу</st>
+       <st Contlex="A_KELU">эряфкшу</st>
      </stg> <phonet>eŕafkšu</phonet>
    </lg>
    <mg>
@@ -50636,7 +51017,7 @@
    <lg>
      <l pos="A">эсь арды</l>
      <stg>
-       <st Contlex="A_">эсь арды</st>
+       <st Contlex="A_ANDY">эсь арды</st>
      </stg>
    </lg>
    <mg>
@@ -50776,7 +51157,7 @@
    <lg>
      <l pos="A">эфтерьня</l>
      <stg>
-       <st Contlex="A_">эфтерьня</st>
+       <st Contlex="A_AVA">эфтерьня</st>
      </stg>
    </lg>
    <mg>
@@ -50818,7 +51199,8 @@
        <t pos="A">paljas</t>
        <t pos="A">täysi</t>
      </tg>
-     <xg> <x>эхярь сёра</x> <phonet>äxäŕ śora</phonet>
+     <xg>
+       <x>эхярь сёра</x> <phonet>äxäŕ śora</phonet>
        <xt xml:lang="fin">puhdas vilja</xt>
      </xg>
    </mg>
@@ -50847,7 +51229,7 @@
    <lg>
      <l pos="A">эчканя</l>
      <stg>
-       <st Contlex="A_">эчканя</st>
+       <st Contlex="A_AVA">эчканя</st>
      </stg>
    </lg>
    <mg>
@@ -50917,7 +51299,8 @@
      <tg xml:lang="fin">
        <t pos="A">maho</t>
      </tg>
-     <xg> <x>эштерь тракс</x> <phonet>äšťəŕ traks</phonet>
+     <xg>
+       <x>эштерь тракс</x> <phonet>äšťəŕ traks</phonet>
        <xt xml:lang="fin">maho lehmä.</xt>
      </xg>
    </mg>
@@ -50984,7 +51367,7 @@
    <lg>
      <l pos="A">юву</l>
      <stg>
-       <st Contlex="A_">юву</st>
+       <st Contlex="A_KELU">юву</st>
      </stg> <phonet>juvu</phonet>
    </lg>
    <mg>
@@ -50992,7 +51375,8 @@
      <tg xml:lang="fin">
        <t pos="A">akanainen</t>
      </tg>
-     <xg> <x>юву пря</x> <phonet>juvu pŕä</phonet>
+     <xg>
+       <x>юву пря</x> <phonet>juvu pŕä</phonet>
        <xt xml:lang="fin">tyhjäpäinen.</xt>
      </xg>
    </mg>
@@ -51099,7 +51483,7 @@
    <lg>
      <l pos="A">юру</l>
      <stg>
-       <st Contlex="A_">юру</st>
+       <st Contlex="A_KELU">юру</st>
      </stg> <phonet>juru</phonet>
    </lg>
    <mg>
@@ -51155,7 +51539,7 @@
    <lg>
      <l pos="A">яду</l>
      <stg>
-       <st Contlex="A_">яду</st>
+       <st Contlex="A_KELU">яду</st>
      </stg> <phonet>jadu</phonet>
    </lg>
    <mg>
@@ -51169,7 +51553,7 @@
    <lg>
      <l pos="A">яжня</l>
      <stg>
-       <st Contlex="A_">яжня</st>
+       <st Contlex="A_AVA">яжня</st>
      </stg>
    </lg>
    <mg>
@@ -51183,7 +51567,7 @@
    <lg>
      <l pos="A">якафкшу</l>
      <stg>
-       <st Contlex="A_">якафкшу</st>
+       <st Contlex="A_KELU">якафкшу</st>
      </stg> <phonet>jakafkšu</phonet>
    </lg>
    <mg>
@@ -51211,7 +51595,7 @@
    <lg>
      <l pos="A">якстерня</l>
      <stg>
-       <st Contlex="A_">якстерня</st>
+       <st Contlex="A_AVA">якстерня</st>
      </stg>
    </lg>
    <mg>
@@ -51236,13 +51620,16 @@
      <tg xml:lang="fra">
        <t pos="A">rouge</t>
      </tg>
-     <xg> <x>якстерь лифкст</x> <phonet>jakśťəŕ ľifkst</phonet>
+     <xg>
+       <x>якстерь лифкст</x> <phonet>jakśťəŕ ľifkst</phonet>
        <xt xml:lang="fin">(mon.) vesirokko.</xt>
      </xg>
-     <xg> <x>якстерь тол</x> <phonet>jakśťəŕ tol</phonet>
+     <xg>
+       <x>якстерь тол</x> <phonet>jakśťəŕ tol</phonet>
        <xt xml:lang="fin">tulipalo.</xt>
      </xg>
-     <xg> <x>якстерьбря куй</x> <phonet>jakśťəŕbŕä kuj</phonet>
+     <xg>
+       <x>якстерьбря куй</x> <phonet>jakśťəŕbŕä kuj</phonet>
        <xt xml:lang="fin">tarhakäärme (Natrix natrix).</xt>
      </xg>
    </mg>
@@ -51304,13 +51691,16 @@
      <tg xml:lang="fra">
        <t pos="A">froid</t>
      </tg>
-     <xg> <x>тейнек якшама</x> <phonet>ťejńək jakšama</phonet>
+     <xg>
+       <x>тейнек якшама</x> <phonet>ťejńək jakšama</phonet>
        <xt xml:lang="fin">meidän on kylmä.</xt>
      </xg>
-     <xg> <x>венельсь якшама</x> <phonet>veńəľś jakšama</phonet>
+     <xg>
+       <x>венельсь якшама</x> <phonet>veńəľś jakšama</phonet>
        <xt xml:lang="fin">ilma on kylmä.</xt>
      </xg>
-     <xg> <x>якшамста</x> <phonet>jakšamsta</phonet>
+     <xg>
+       <x>якшамста</x> <phonet>jakšamsta</phonet>
        <xt xml:lang="fin">kylmästi</xt>
      </xg>
    </mg>
@@ -51403,7 +51793,7 @@
    <lg>
      <l pos="A">ярашты</l>
      <stg>
-       <st Contlex="A_">ярашты</st>
+       <st Contlex="A_ANDY">ярашты</st>
      </stg> <phonet>jarašti</phonet>
    </lg>
    <mg>
@@ -51413,10 +51803,12 @@
        <t pos="A">sovelias</t>
        <t pos="A">kelvollinen</t>
      </tg>
-     <xg> <x>ярашты сембонди</x> <phonet>jarašti śembəńďi</phonet>
+     <xg>
+       <x>ярашты сембонди</x> <phonet>jarašti śembəńďi</phonet>
        <xt xml:lang="fin">kaikille sopiva.</xt>
      </xg>
-     <xg> <x>аф ярашты</x> <phonet>af jarašti</phonet>
+     <xg>
+       <x>аф ярашты</x> <phonet>af jarašti</phonet>
        <xt xml:lang="fin">sopimaton, kelvoton.</xt>
      </xg>
    </mg>
@@ -51439,7 +51831,7 @@
    <lg>
      <l pos="A">ярмаку</l>
      <stg>
-       <st Contlex="A_">ярмаку</st>
+       <st Contlex="A_KELU">ярмаку</st>
      </stg> <phonet>jarmaku</phonet>
    </lg>
    <mg>
@@ -51448,7 +51840,8 @@
        <t pos="A">rahakas</t>
        <t pos="A">rikas</t>
      </tg>
-     <xg> <x>лама ярмаку ломань</x> <phonet>lamə jarmaku lomań</phonet>
+     <xg>
+       <x>лама ярмаку ломань</x> <phonet>lamə jarmaku lomań</phonet>
        <xt xml:lang="fin">rikas ihminen.</xt>
      </xg>
    </mg>
@@ -51555,7 +51948,7 @@
    <lg>
      <l pos="A">ёжу</l>
      <stg>
-       <st Contlex="A_">ёжу</st>
+       <st Contlex="A_KELU">ёжу</st>
      </stg> <phonet>jožu</phonet>
    </lg>
    <mg>
@@ -51565,7 +51958,8 @@
        <t pos="A">ovela</t>
        <t pos="A">kiero</t>
      </tg>
-     <xg> <x>ёжуста</x> <phonet>jožusta</phonet>
+     <xg>
+       <x>ёжуста</x> <phonet>jožusta</phonet>
        <xt xml:lang="fin">viekkaasti, ovelasti.</xt>
      </xg>
    </mg>
@@ -51574,7 +51968,7 @@
    <lg>
      <l pos="A">ёколды</l>
      <stg>
-       <st Contlex="A_">ёколды</st>
+       <st Contlex="A_ANDY">ёколды</st>
      </stg>
    </lg>
    <mg>
@@ -51617,7 +52011,7 @@
    <lg>
      <l pos="A">ёлайня</l>
      <stg>
-       <st Contlex="A_">ёлайня</st>
+       <st Contlex="A_AVA">ёлайня</st>
      </stg>
    </lg>
    <mg>
@@ -51659,7 +52053,7 @@
    <lg>
      <l pos="A">ёлганя</l>
      <stg>
-       <st Contlex="A_">ёлганя</st>
+       <st Contlex="A_AVA">ёлганя</st>
      </stg>
    </lg>
    <mg>
@@ -51687,7 +52081,7 @@
    <lg>
      <l pos="A">ёлманя</l>
      <stg>
-       <st Contlex="A_">ёлманя</st>
+       <st Contlex="A_AVA">ёлманя</st>
      </stg>
    </lg>
    <mg>
@@ -51756,10 +52150,12 @@
      <tg xml:lang="fra">
        <t pos="A">petit</t>
      </tg>
-     <xg> <x>ёмласта</x> <phonet>jomlasta</phonet>
+     <xg>
+       <x>ёмласта</x> <phonet>jomlasta</phonet>
        <xt xml:lang="fin">lapsena, lapsuudessa.</xt>
      </xg>
-     <xg> <x>оцюнек-ёмланек</x> <phonet>oćuńək-jomlańək</phonet>
+     <xg>
+       <x>оцюнек-ёмланек</x> <phonet>oćuńək-jomlańək</phonet>
        <xt xml:lang="fin">sekä vanhat että nuoret.</xt>
      </xg>
    </mg>
@@ -51768,7 +52164,7 @@
    <lg>
      <l pos="A">ёмланя</l>
      <stg>
-       <st Contlex="A_">ёмланя</st>
+       <st Contlex="A_AVA">ёмланя</st>
      </stg> <phonet>jomlańä</phonet>
    </lg>
    <mg>
@@ -51782,7 +52178,7 @@
    <lg>
      <l pos="A">ён</l>
      <stg>
-       <st Contlex="A_">ён</st>
+       <st Contlex="A_KAL">ён</st>
      </stg> <phonet>jon</phonet>
    </lg>
    <mg>
@@ -51898,7 +52294,7 @@
    <lg>
      <l pos="A">ёру</l>
      <stg>
-       <st Contlex="A_">ёру</st>
+       <st Contlex="A_KELU">ёру</st>
      </stg>
    </lg>
    <mg>
@@ -51950,7 +52346,8 @@
        <t pos="A">viime</t>
        <t pos="A">edellinen</t>
      </tg>
-     <xg> <x>ётай кизонда</x> <phonet>jotaj kizənda</phonet>
+     <xg>
+       <x>ётай кизонда</x> <phonet>jotaj kizənda</phonet>
        <xt xml:lang="fin">viime vuonna.</xt>
      </xg>
    </mg>
