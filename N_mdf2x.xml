@@ -314,7 +314,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N">авань пула</l>
+     <l pos="N" type="mwe">авань пула</l>
      <stg>
        <st Contlex="N_PULA">авань пул%{АО%}</st>
      </stg> <phonet>avań pula</phonet>

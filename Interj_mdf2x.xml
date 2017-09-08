@@ -54,7 +54,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Interj">айда</l>
+     <l pos="V" type="Impert">айда</l>
      <stg>
        <st Contlex="INTERJ_">айда</st>
      </stg> <phonet>ajda</phonet>
@@ -62,7 +62,7 @@
    <mg>
      <defNative/>
      <tg xml:lang="fin">
-       <t pos="Interj">tulkaa!</t>
+       <t pos="V">tulkaa!</t>
      </tg>
    </mg>
 </e>

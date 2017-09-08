@@ -22,6 +22,9 @@
    </lg>
    <mg>
      <defNative/>
+     <tg xml:lang="eng">
+       <t pos="Pr">under</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="Po">alla</t>
      </tg>

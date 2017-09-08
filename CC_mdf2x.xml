@@ -42,6 +42,9 @@
    </lg>
    <mg>
      <defNative/>
+     <tg xml:lang="eng">
+       <t pos="CC">and</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="CC">ja</t>
      </tg>

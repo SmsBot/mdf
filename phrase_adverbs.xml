@@ -6,7 +6,7 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
       <e>
    <lg>
-     <l pos="Adv">илядень зарят</l>
+     <l pos="Adv" type="mwe">илядень зарят</l>
      <stg>
        <st Contlex="ADV_">илядень зарят</st>
      </stg>
@@ -16,19 +16,6 @@
      <tg xml:lang="fin">
        <t pos="Adv">iltahämärissä</t>
        <t pos="Adv">hämärän aikaan</t>
-     </tg>
-   </mg>
-</e>
-      <e>
-   <lg>
-     <l pos="Adv">илядень зарят</l>
-     <stg>
-       <st Contlex="ADV_">илядень зарят</st>
-     </stg>
-   <phonet>iľäďəń zaŕat</phonet>
-   </lg>
-   <mg>
-     <tg xml:lang="fin">
        <t pos="Adv">iltahämärän aikaan</t>
      </tg>
    </mg>
@@ -36,7 +23,7 @@
 
       <e>
    <lg>
-     <l pos="Adv">кундань кятть</l>
+     <l pos="Adv" type="mwe">кундань кятть</l>
      <stg>
        <st Contlex="ADV_">кундань кятть</st>
      </stg>

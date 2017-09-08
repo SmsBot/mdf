@@ -6,7 +6,7 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="mdf">
       <e exclude="fst">
    <lg>
-     <l pos="N">акша куд</l>
+     <l pos="N" type="mwe">акша куд</l>
      <stg>
        <st Contlex="N_">акша куд</st>
      </stg>

@@ -11,7 +11,7 @@
   <e exclude="fst"> <lg><l pos="Adv" type="mwe">шарьхкодевиста</l><l_ref>шарьхкодевомс</l_ref><stg><st Contlex="ADV_">шарьхкодевиста</st></stg> <phonet>šaŕxkəďəvista</phonet> </lg><mg><tg xml:lang="fin"><t pos="Adv">ymmärrettävästi, selvästi</t></tg></mg></e>
   <e exclude="fst">
     <lg>
-      <l pos="Adv" type="mwe">аксяла</l>
+      <l pos="Adv">аксяла</l>
 
       <l_ref>аксял</l_ref>
 
@@ -31,7 +31,7 @@
 
   <e exclude="fst">
     <lg>
-      <l pos="Adv" type="mwe">аксялу</l>
+      <l pos="Adv">аксялу</l>
 
       <l_ref>аксял</l_ref>
 

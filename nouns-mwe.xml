@@ -15,10 +15,10 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="NomAg">валяй: пянакуд валяй</l>
+     <l pos="N" type="NomAg">пянакуд валяй</l>
        <l_ref>валямс</l_ref>
      <stg>
-       <st>валяй: пянакуд валяй</st>
+       <st>пянакуд валяй</st>
      </stg> <phonet>pänakud vaľäj</phonet>
    </lg>
    <mg>
@@ -7075,10 +7075,10 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">ладом: ладом-рядом</l>
+     <l pos="N" type="mwe">ладом-рядом</l>
        <l_ref>лад</l_ref>
      <stg>
-       <st>ладом: ладом-рядом</st>
+       <st>ладом-рядом</st>
      </stg> <phonet>ladom-ŕädom, ladəm-ŕädəm</phonet>
    </lg>
    <mg>
@@ -7372,10 +7372,10 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="N" type="mwe">латфтома: рятфтома-латфтома</l>
+     <l pos="N" type="mwe">рятфтома-латфтома</l>
        <l_ref>лад</l_ref>
      <stg>
-       <st>латфтома: рятфтома-латфтома</st>
+       <st>рятфтома-латфтома</st>
      </stg> <phonet>ŕätftəmə-latftəma</phonet>
    </lg>
    <mg>

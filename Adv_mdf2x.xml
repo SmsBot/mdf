@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?> <r xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mdf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
 <e exclude="fst">
    <lg>
-     <l pos="Adv">сельме ала</l>
+     <l pos="Adv" type="mwe">сельме ала</l>
      <stg>
        <st Contlex="ADV_">сельме ала</st>
      </stg>
@@ -15,7 +15,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="Adv">арнефтома пингста</l>
+     <l pos="Adv" type="mwe">арнефтома пингста</l>
      <stg>
        <st Contlex="ADV_">арнефтома пингста</st>
      </stg> <phonet>arńəfťəma/ arnəftəma piŋksta</phonet>

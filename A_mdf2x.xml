@@ -1537,7 +1537,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">алтынонь питне</l>
+     <l pos="A" type="mwe">алтынонь питне</l>
      <stg>
        <st Contlex="A_">алтынонь питне</st>
      </stg> <phonet>altinəń piťńä</phonet>
@@ -2950,7 +2950,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">аф топафкшу</l>
+     <l pos="A" type="mwe">аф топафкшу</l>
      <stg>
        <st Contlex="A_KELU">аф топафкшу</st>
      </stg>
@@ -4107,7 +4107,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="A">болдара сельме</l>
+     <l pos="A" type="bahuvrihi">болдара сельме</l>
      <stg>
        <st Contlex="A_SEL1ME">болдара сельм%{ЕО%}</st>
      </stg>
@@ -5797,7 +5797,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">вачень керф</l>
+     <l pos="A" type="mwe">вачень керф</l>
      <stg>
        <st Contlex="A_KAL">вачень керф</st>
      </stg>
@@ -5904,7 +5904,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">ведаркань тяльги</l>
+     <l pos="A" type="mwe">ведаркань тяльги</l>
      <stg>
        <st Contlex="A_AVA">ведаркань тяльги</st>
      </stg>
@@ -5934,7 +5934,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">ведень аф нолдай</l>
+     <l pos="A" type="mwe">ведень аф нолдай</l>
      <stg>
        <st Contlex="A_KAL">ведень аф нолдай</st>
      </stg>
@@ -6655,7 +6655,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">вецт моли</l>
+     <l pos="A" type="mwe">вецт моли</l>
      <stg>
        <st Contlex="A_AVA">вецт моли</st>
      </stg>
@@ -8334,7 +8334,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">вядяня сельме</l>
+     <l pos="A" type="bahuvrihi">вядяня сельме</l>
      <stg>
        <st Contlex="A_">вядяня сельме</st>
      </stg>
@@ -13413,7 +13413,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">инжиень кельги</l>
+     <l pos="A" type="mwe">инжиень кельги</l>
      <stg>
        <st Contlex="A_AVA">инжиень кельги</st>
      </stg>
@@ -13978,7 +13978,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">ичкози ляци</l>
+     <l pos="A" type="mwe">ичкози ляци</l>
      <stg>
        <st Contlex="A_AVA">ичкози ляци</st>
      </stg>
@@ -15497,7 +15497,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кафта сюроса</l>
+     <l pos="A" type="mwe">кафта сюроса</l>
      <stg>
        <st Contlex="A_">кафта сюроса</st>
      </stg>
@@ -17364,7 +17364,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">колма сюроса</l>
+     <l pos="A" type="mwe">колма сюроса</l>
      <stg>
        <st Contlex="A_">колма сюроса</st>
      </stg>
@@ -17494,7 +17494,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">комада сельме</l>
+     <l pos="A" type="bahuvrihi">комада сельме</l>
      <stg>
        <st Contlex="A_">комада сельме</st>
      </stg>
@@ -19356,7 +19356,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кзняй сельме</l>
+     <l pos="A" type="bahuvrihi">кзняй сельме</l>
      <stg>
        <st Contlex="A_">кзняй сельме</st>
        <st Contlex="A_" status="Use/SpellNoSugg">къзняй сельме</st>
@@ -20049,7 +20049,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">лама сельмоса</l>
+     <l pos="A" type="mwe">лама сельмоса</l>
      <stg>
        <st Contlex="A_">лама сельмоса</st>
      </stg>
@@ -20227,7 +20227,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">ланкса сельме</l>
+     <l pos="A" type="bahuvrihi">ланкса сельме</l>
      <stg>
        <st Contlex="A_">ланкса сельме</st>
      </stg>
@@ -20706,7 +20706,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">лепе кяль</l>
+     <l pos="A" type="bahuvrihi">лепе кяль</l>
      <stg>
        <st Contlex="A_KIAL1">лепе кяль</st>
      </stg>
@@ -21797,7 +21797,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">лпнай пиле</l>
+     <l pos="A" type="bahuvrihi">лпнай пиле</l>
      <stg>
        <st Contlex="A_">лпнай пиле</st>
        <st Contlex="A_" status="Use/SpellNoSugg">ълпнай пиле</st>
@@ -21859,7 +21859,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">льпняй сельме</l>
+     <l pos="A" type="bahuvrihi">льпняй сельме</l>
      <stg>
        <st Contlex="A_">льпняй сельме</st>
        <st Contlex="A_" status="Use/SpellNoSugg">льъпняй сельме</st>
@@ -22167,15 +22167,15 @@
 </e>
 <e>
    <lg>
-     <l pos="A">ляпш пономарь</l>
+     <l pos="N">ляпш пономарь</l>
      <stg>
-       <st Contlex="A_KIAL1">ляпш пономарь</st>
+       <st Contlex="N_KIAL1">ляпш пономарь</st>
      </stg>
    </lg>
    <mg>
      <defNative/>
      <tg xml:lang="fin">
-       <t pos="A">pehmeähkö alttaripalvelija ??</t>
+       <t pos="N">pehmeähkö alttaripalvelija ??</t>
      </tg>
    </mg>
 </e>
@@ -23360,7 +23360,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">медень канды</l>
+     <l pos="A" type="mwe">медень канды</l>
      <stg>
        <st Contlex="A_ANDY">медень канды</st>
      </stg>
@@ -24845,7 +24845,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">мянду сельме</l>
+     <l pos="A" type="bahuvrihi">мянду сельме</l>
      <stg>
        <st Contlex="A_">мянду сельме</st>
      </stg>
@@ -25114,7 +25114,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">наксада вайме</l>
+     <l pos="A" type="bahuvrihi">наксада вайме</l>
      <stg>
        <st Contlex="A_">наксада вайме</st>
      </stg>
@@ -25128,7 +25128,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">наксада кяль</l>
+     <l pos="A" type="bahuvrihi">наксада кяль</l>
      <stg>
        <st Contlex="A_KIAL1">наксада кяль</st>
      </stg>
@@ -25143,7 +25143,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">наксада пиле</l>
+     <l pos="A" type="bahuvrihi">наксада пиле</l>
      <stg>
        <st Contlex="A_">наксада пиле</st>
      </stg>
@@ -25283,7 +25283,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">нараф пря</l>
+     <l pos="A" type="bahuvrihi">нараф пря</l>
      <stg>
        <st Contlex="A_">нараф пря</st>
      </stg>
@@ -25837,7 +25837,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">ниле ужеса</l>
+     <l pos="A" type="mwe">ниле ужеса</l>
      <stg>
        <st Contlex="A_">ниле ужеса</st>
      </stg>
@@ -25865,7 +25865,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">нилень крда</l>
+     <l pos="A" type="mwe">нилень крда</l>
      <stg>
        <st Contlex="A_">нилень крда</st>
        <st Contlex="A_" status="Use/SpellNoSugg">нилень кърда</st>
@@ -25923,7 +25923,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">новольф паця сараз</l>
+     <l pos="A" type="mwe">новольф паця сараз</l>
      <stg>
        <st Contlex="A_">новольф паця сараз</st>
      </stg>
@@ -26085,7 +26085,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">нолгапанксонь пяряка</l>
+     <l pos="A" type="mwe">нолгапанксонь пяряка</l>
      <stg>
        <st Contlex="A_">нолгапанксонь пяряка</st>
      </stg>
@@ -26380,7 +26380,7 @@
 </e>
 <e>
    <lg>
-     <l pos="A">нумолонь сельме</l>
+     <l pos="A" type="bahuvrihi">нумолонь сельме</l>
      <stg>
        <st Contlex="A_">нумолонь сельме</st>
      </stg>

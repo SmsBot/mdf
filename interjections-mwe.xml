@@ -4,7 +4,7 @@
    xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-  <e exclude="fst"> <lg><l pos="Interj" type="mwe">арда!</l><l_ref>ардомс</l_ref><stg><st Contlex="INTERJ_">арда!</st></stg> <phonet>arda</phonet> </lg><mg><tg xml:lang="fin"><t>menkää!</t></tg></mg></e>
+  <e exclude="fst"> <lg><l pos="V" type="Impert">арда!</l><l_ref>ардомс</l_ref><stg><st Contlex="INTERJ_">арда!</st></stg> <phonet>arda</phonet> </lg><mg><tg xml:lang="fin"><t>menkää!</t></tg></mg></e>
   <e exclude="fst"> <lg><l pos="Interj" type="mwe">аре!</l><l_ref>ардомс</l_ref><stg><st Contlex="INTERJ_">аре!</st></stg> <phonet>aŕä</phonet> </lg><mg><tg xml:lang="fin"><t>tule!</t></tg></mg></e>
   <e exclude="fst"> <lg><l pos="Interj" type="mwe">архт!</l><l_ref>ардомс</l_ref><stg><st Contlex="INTERJ_">архт!</st></stg> <phonet>arxt</phonet> </lg><mg><tg xml:lang="fin"><t>häivy!</t></tg></mg></e>
   <e exclude="fst"> <lg><l pos="Interj" type="mwe">ащек!</l><l_ref>ащемс</l_ref><stg><st Contlex="INTERJ_">ащек!</st></stg> <phonet>aščək</phonet> </lg><mg><tg xml:lang="fin"><t>seisahdu! odota!</t></tg></mg></e>

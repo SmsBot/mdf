@@ -4800,6 +4800,9 @@
    </lg>
    <mg>
      <defNative/>
+     <tg xml:lang="eng">
+       <t pos="N">Teddy Bear</t>
+     </tg>
      <tg xml:lang="fin">
        <t pos="N">Nalle</t>
      </tg>

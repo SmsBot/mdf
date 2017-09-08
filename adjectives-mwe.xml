@@ -78,7 +78,7 @@
 </e>
 <e exclude="fst">
    <lg>
-     <l pos="A" type="mwe">вень</l>
+     <l pos="A" type="GenAttr">вень</l>
      <stg>
        <st Contlex="A_">вень</st>
      </stg>
