@@ -65596,10 +65596,11 @@
 </e> 
 <e id="None" meta="">
    <lg>
-     <l pos="A">яровой</l>
+     <l pos="N">яровой</l>
      <stg>
-       <st Contlex="A_KAL">яровой</st>
+       <st Contlex="N_KAL">яровой</st>
      </stg>
+     <phonet>jəravoj, jaravoj</phonet>
    </lg>
      <sources>
      </sources>
@@ -65607,7 +65608,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A"/>
+       <t pos="N">kevätvilja</t>
      </tg>
      <defNative/>
    </mg>
@@ -65994,9 +65995,9 @@
 </e> 
 <e id="None" meta="">
    <lg>
-     <l pos="A">ён</l>
+     <l pos="N">ён</l>
      <stg>
-       <st Contlex="A_KAL">ён</st>
+       <st Contlex="N_KAL">ён</st>
      </stg> <phonet>jon</phonet>
    </lg>
      <sources>
@@ -66005,8 +66006,23 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A"/>
+       <t pos="N">suunta, taho, puoli</t>
      </tg>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="fin">
+     <t>merkitys; järki</t>
+   </tg>
+   <xg>
+     <x>сон тя ёну тусь</x>
+     <phonet>son ťä jonu tuś</phonet>
+     <xt xml:lang="fin">hän lähti tuohon suuntaan</xt>
+     </xg>
+     <xg>
+       <x>тя тевса ули ён </x>
+     <phonet>ťä ťevs(ə) uľi jon</phonet>
+     <xt xml:lang="fin">asiassa on järkeä.</xt>
+   </xg>
      <defNative/>
    </mg>
 </e> 
@@ -66142,10 +66158,11 @@
 </e> 
 <e id="None" meta="">
    <lg>
-     <l pos="A">ёру</l>
+     <l pos="Adv">ёру</l>
      <stg>
-       <st Contlex="A_KELU">ёру</st>
+       <st Contlex="ADV_">ёру</st>
      </stg>
+     <phonet>joru</phonet>
    </lg>
      <sources>
      </sources>
@@ -66153,8 +66170,17 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A"/>
+       <t pos="Adv">leikisti, leikillään</t>
      </tg>
+     <xg><x>ёру корхтат али аф?</x>
+     <phonet>joru korxtat aľi af</phonet>
+     <xt xml:lang="fin">pilailetko?</xt>
+     </xg>
+     <xg>
+       <x>аф ёру</x>
+       <phonet>af joru</phonet>
+       <xt xml:lang="fin">tosissaan, vakavissaan.</xt>
+   </xg>
      <defNative/>
    </mg>
 </e> 
@@ -66220,10 +66246,11 @@
 </e> 
 <e id="None" meta="">
    <lg>
-     <l pos="A">ёткста</l>
+     <l pos="Adv">ёткста</l>
      <stg>
-       <st Contlex="A_">ёткста</st>
+       <st Contlex="ADV_">ёткста</st>
      </stg>
+     <phonet>jotksta</phonet>
    </lg>
      <sources>
      </sources>
@@ -66231,7 +66258,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A"/>
+       <t pos="Adv"> välistä, joukosta</t>
      </tg>
      <defNative/>
    </mg>

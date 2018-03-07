@@ -73,7 +73,7 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Prc">азонды</l>
+     <l pos="N">азонды</l>
      <stg>
        <st Contlex="Prc-I">азонды</st>
      </stg>
@@ -83,10 +83,19 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin"> <t/>
+     <tg xml:lang="fin">
+       <t>kertoja</t>
      </tg>
-     <m>
-     </m>
+   </mg>
+   <mg relId="1">
+     <tg xml:lang="fin">
+       <t>kuiskaaja</t>
+     </tg>
+   </mg>
+   <mg relId="2">
+     <tg xml:lang="fin">
+       <t>ilmiantaja</t>
+     </tg>
    </mg>
 </e>
 <e id="None" meta="">
@@ -519,10 +528,14 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin"> <t/>
+     <tg xml:lang="fin">
+       <t>kuohittu</t>
      </tg>
-     <m>
-     </m>
+     <xg>
+       <x>архтф алаша</x>
+       <phonet>arxtf alaša</phonet>
+       <xt xml:lang="fin">ruuna</xt>
+     </xg>
    </mg>
 </e>
 <e id="None" meta="">
