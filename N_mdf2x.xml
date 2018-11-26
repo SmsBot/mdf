@@ -49631,7 +49631,7 @@
    <lg>
      <l pos="N">кархча</l>
      <stg>
-       <st Contlex="N_AVA">кархча</st>
+       <st Contlex="N_MOKSHA">кархча%{АЕ%}</st>
      </stg> <phonet>karxča</phonet>
    </lg>
      <sources>
@@ -49669,11 +49669,11 @@
      <defNative/>
    </mg>
 </e>
-  <e id="None" meta="">
+  <e exclude="fst" id="None" meta="">
    <lg>
      <l pos="N">кархчне</l>
      <stg>
-       <st>кархчне</st>
+       <st Contlex="N_MOKSHA">кархч%{АЕ%}</st>
      </stg> <phonet>karxčńä</phonet>
    </lg>
      <sources>
@@ -69957,24 +69957,6 @@
 </e>
   <e id="None" meta="">
    <lg>
-     <l pos="N">ладом: ладом-рядом</l>
-     <stg>
-       <st>ладом: ладом-рядом</st>
-     </stg> <phonet>ladom-ŕädom, ladəm-ŕädəm</phonet>
-       <l_ref>лад</l_ref>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t>järjestyksessä</t>
-     </tg>
-   </mg>
-</e>
-  <e id="None" meta="">
-   <lg>
      <l pos="N">ладяма</l>
      <stg>
        <st Contlex="N_AVA">ладяма</st>
@@ -71684,25 +71666,6 @@
        <t pos="N">vaja</t>
      </tg>
      <defNative/>
-   </mg>
-</e>
-  <e id="None" meta="">
-   <lg>
-     <l pos="N">латфтома: рятфтома-латфтома</l>
-     <stg>
-       <st>латфтома: рятфтома-латфтома</st>
-     </stg> <phonet>ŕätftəmə-latftəma</phonet>
-       <l_ref>лад</l_ref>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t>epäjärjestyksessä</t>
-       <t>sekaisin</t>
-     </tg>
    </mg>
 </e>
   <e id="None" meta="">

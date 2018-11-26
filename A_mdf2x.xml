@@ -7486,7 +7486,7 @@
      <defNative/>
    </mg>
 </e>
-  <e id="None" meta="">
+  <e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A">вазнянь пеке</l>
      <stg>
@@ -7505,7 +7505,7 @@
      </tg>
    </mg>
 </e>
-  <e id="None" meta="">
+  <e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">вазонь пря</l>
      <stg>
