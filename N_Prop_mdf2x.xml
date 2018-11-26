@@ -1,4 +1,4 @@
-<?xml version="1.0" ?> <r xml:lang="mdf" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"> 
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Ёнка</l>
@@ -16,7 +16,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Абра</l>
@@ -34,7 +34,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Ага</l>
@@ -52,7 +52,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Агу</l>
@@ -70,7 +70,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Агуня</l>
@@ -88,7 +88,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Адаж</l>
@@ -106,7 +106,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Азю</l>
@@ -124,7 +124,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Азёша</l>
@@ -142,7 +142,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Акаж</l>
@@ -160,7 +160,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Аксю</l>
@@ -178,7 +178,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Аксюня</l>
@@ -196,7 +196,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Аксюта</l>
@@ -214,7 +214,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Акся</l>
@@ -232,7 +232,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Акулина</l>
@@ -250,7 +250,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Алда</l>
@@ -268,7 +268,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Алдакей</l>
@@ -286,7 +286,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Алдуня</l>
@@ -304,7 +304,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Аля</l>
@@ -322,7 +322,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Алякс</l>
@@ -340,7 +340,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Алёкш</l>
@@ -358,7 +358,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Алёша</l>
@@ -376,7 +376,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Алёшка</l>
@@ -394,7 +394,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Андрей</l>
@@ -412,7 +412,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Андрейня</l>
@@ -430,7 +430,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Анна</l>
@@ -448,7 +448,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Аньшня</l>
@@ -466,7 +466,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Аню</l>
@@ -484,7 +484,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Арина</l>
@@ -502,7 +502,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Аринушка</l>
@@ -520,7 +520,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Артём</l>
@@ -538,7 +538,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Арьтюш</l>
@@ -556,7 +556,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Арю</l>
@@ -574,7 +574,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Атерь</l>
@@ -592,7 +592,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Атерьня</l>
@@ -610,7 +610,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Атьря</l>
@@ -628,25 +628,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
-<e id="None" meta="">
-   <lg>
-     <l pos="N" type="Prop">Библия</l>
-     <stg>
-       <st Contlex="PROP_AVA">Библия</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="N" type="Prop"/>
-     </tg>
-     <defNative/>
-   </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Божиматерь</l>
@@ -664,7 +646,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Ваня</l>
@@ -682,7 +664,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Вара</l>
@@ -700,7 +682,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Вараня</l>
@@ -718,7 +700,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Васька</l>
@@ -736,7 +718,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Васю</l>
@@ -754,7 +736,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Васюня</l>
@@ -772,7 +754,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Вася</l>
@@ -790,7 +772,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Века</l>
@@ -808,7 +790,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Гарась</l>
@@ -826,7 +808,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Гардей</l>
@@ -844,7 +826,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Гарька</l>
@@ -862,7 +844,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Гарю</l>
@@ -880,7 +862,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Гарюта</l>
@@ -898,7 +880,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Гофка</l>
@@ -916,7 +898,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Дарьшу</l>
@@ -934,7 +916,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Дарьшуня</l>
@@ -952,7 +934,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Диня</l>
@@ -970,7 +952,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Дирга</l>
@@ -988,7 +970,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Ефима</l>
@@ -1006,7 +988,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Ефрим</l>
@@ -1024,7 +1006,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Ефьют</l>
@@ -1042,7 +1024,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Зафар</l>
@@ -1060,7 +1042,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Ива</l>
@@ -1078,7 +1060,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Иван</l>
@@ -1096,7 +1078,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Ивашке</l>
@@ -1114,7 +1096,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Ига</l>
@@ -1132,7 +1114,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Иганя</l>
@@ -1150,7 +1132,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Игаш</l>
@@ -1168,7 +1150,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Ильгя</l>
@@ -1186,7 +1168,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Илю</l>
@@ -1204,7 +1186,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Илюта</l>
@@ -1222,7 +1204,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Илюшка</l>
@@ -1240,7 +1222,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Инзар</l>
@@ -1258,7 +1240,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Инзара</l>
@@ -1276,7 +1258,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кавра</l>
@@ -1294,7 +1276,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кавря</l>
@@ -1312,7 +1294,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кадерь</l>
@@ -1330,7 +1312,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кадом</l>
@@ -1348,7 +1330,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кама</l>
@@ -1366,7 +1348,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Камус</l>
@@ -1384,7 +1366,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кандай</l>
@@ -1402,7 +1384,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Каньжа</l>
@@ -1420,7 +1402,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кара</l>
@@ -1438,7 +1420,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Карпа</l>
@@ -1456,7 +1438,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кархчма</l>
@@ -1474,7 +1456,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Карьзи</l>
@@ -1492,7 +1474,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Карьхчу</l>
@@ -1510,7 +1492,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Келяш</l>
@@ -1528,7 +1510,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кенева</l>
@@ -1546,7 +1528,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Керата</l>
@@ -1564,7 +1546,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Керьзя</l>
@@ -1582,7 +1564,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кирьду</l>
@@ -1600,7 +1582,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кирьдуня</l>
@@ -1618,7 +1600,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Киря</l>
@@ -1636,7 +1618,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Клим</l>
@@ -1654,7 +1636,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Климка</l>
@@ -1672,7 +1654,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Козяй</l>
@@ -1690,7 +1672,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кола</l>
@@ -1708,7 +1690,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Колапина</l>
@@ -1726,7 +1708,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Колдаес</l>
@@ -1744,7 +1726,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Котай</l>
@@ -1762,7 +1744,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Криша</l>
@@ -1780,7 +1762,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Крола</l>
@@ -1798,7 +1780,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кроланя</l>
@@ -1816,7 +1798,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кудай</l>
@@ -1834,7 +1816,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кузьма</l>
@@ -1852,7 +1834,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кузя</l>
@@ -1870,7 +1852,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кулина</l>
@@ -1888,7 +1870,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кулиня</l>
@@ -1906,7 +1888,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Кулю</l>
@@ -1924,7 +1906,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Куцяй</l>
@@ -1942,7 +1924,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Лазуня</l>
@@ -1960,7 +1942,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Левжа</l>
@@ -1978,7 +1960,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Левжай</l>
@@ -1996,7 +1978,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Лемдяй</l>
@@ -2014,7 +1996,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Лемза</l>
@@ -2032,7 +2014,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Лендай</l>
@@ -2050,7 +2032,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Лепа</l>
@@ -2068,7 +2050,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Лепай</l>
@@ -2086,7 +2068,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Лепаня</l>
@@ -2104,7 +2086,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Лука</l>
@@ -2122,7 +2104,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Луфтяй</l>
@@ -2140,7 +2122,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Лёшуня</l>
@@ -2158,7 +2140,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Мавра</l>
@@ -2176,7 +2158,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Матерь</l>
@@ -2194,7 +2176,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Матерьня</l>
@@ -2212,7 +2194,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Матерю</l>
@@ -2230,7 +2212,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Матю</l>
@@ -2248,7 +2230,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Матюня</l>
@@ -2266,7 +2248,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Микола</l>
@@ -2284,7 +2266,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Навка</l>
@@ -2302,7 +2284,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Навканя</l>
@@ -2320,7 +2302,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Навум</l>
@@ -2338,7 +2320,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Надю</l>
@@ -2356,7 +2338,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Надюня</l>
@@ -2374,7 +2356,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Наста</l>
@@ -2392,7 +2374,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Настю</l>
@@ -2410,7 +2392,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Настюня</l>
@@ -2428,7 +2410,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Натак</l>
@@ -2446,7 +2428,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Натаня</l>
@@ -2464,7 +2446,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Нолдаш</l>
@@ -2482,7 +2464,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Няфёт</l>
@@ -2500,7 +2482,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Озафкст</l>
@@ -2518,7 +2500,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Ордаш</l>
@@ -2536,7 +2518,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Оська</l>
@@ -2554,7 +2536,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Ося</l>
@@ -2572,7 +2554,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Оцяпа</l>
@@ -2590,7 +2572,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Очижи</l>
@@ -2608,7 +2590,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Оша</l>
@@ -2626,7 +2608,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Паволня</l>
@@ -2644,7 +2626,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Пайгарма</l>
@@ -2662,7 +2644,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Парма</l>
@@ -2680,25 +2662,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
-<e id="None" meta="">
-   <lg>
-     <l pos="N" type="Prop">Пашад</l>
-     <stg>
-       <st Contlex="PROP_KAL">Пашад</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="N" type="Prop"/>
-     </tg>
-     <defNative/>
-   </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Пекма</l>
@@ -2716,7 +2680,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Пекса</l>
@@ -2734,7 +2698,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Пекяй</l>
@@ -2752,7 +2716,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Пелькай</l>
@@ -2770,7 +2734,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Пенза</l>
@@ -2788,7 +2752,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Пета</l>
@@ -2806,7 +2770,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Петаня</l>
@@ -2824,7 +2788,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Петру</l>
@@ -2842,7 +2806,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Петрушка</l>
@@ -2860,7 +2824,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Петьшня</l>
@@ -2878,7 +2842,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Петя</l>
@@ -2896,7 +2860,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Пиксай</l>
@@ -2914,7 +2878,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Питерь</l>
@@ -2932,7 +2896,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Поганофка</l>
@@ -2950,7 +2914,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Покру</l>
@@ -2968,7 +2932,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Польтя</l>
@@ -2986,7 +2950,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Полю</l>
@@ -3004,7 +2968,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Полюня</l>
@@ -3022,7 +2986,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Поля</l>
@@ -3040,7 +3004,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Потма</l>
@@ -3058,7 +3022,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Потманя</l>
@@ -3076,7 +3040,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Проса</l>
@@ -3094,7 +3058,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Проска</l>
@@ -3112,7 +3076,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Пулокш</l>
@@ -3130,7 +3094,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Пята</l>
@@ -3148,7 +3112,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Радай</l>
@@ -3166,7 +3130,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Радя</l>
@@ -3184,7 +3148,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Рапця</l>
@@ -3202,7 +3166,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Расей</l>
@@ -3220,7 +3184,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Реця</l>
@@ -3238,7 +3202,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Риба</l>
@@ -3256,7 +3220,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Риза</l>
@@ -3274,7 +3238,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Самакуш</l>
@@ -3292,7 +3256,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Санда</l>
@@ -3310,7 +3274,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Санданя</l>
@@ -3328,7 +3292,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Саньду</l>
@@ -3346,7 +3310,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Саньдуня</l>
@@ -3364,7 +3328,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Сара</l>
@@ -3382,25 +3346,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
-<e id="None" meta="">
-   <lg>
-     <l pos="N" sem_type="Plc" type="Prop">Саранскяй</l>
-     <stg>
-       <st Contlex="PROP_VAJ">Саранскяй</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="N" type="Prop"/>
-     </tg>
-     <defNative/>
-   </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Сафка</l>
@@ -3418,7 +3364,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Семья</l>
@@ -3436,7 +3382,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Сере Пшень</l>
@@ -3454,7 +3400,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Сетю</l>
@@ -3472,7 +3418,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Сидо</l>
@@ -3490,7 +3436,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Сима</l>
@@ -3508,7 +3454,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Синя</l>
@@ -3526,7 +3472,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Сисемтяштть</l>
@@ -3544,7 +3490,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Слобда</l>
@@ -3562,7 +3508,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Сна</l>
@@ -3580,7 +3526,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Сок</l>
@@ -3598,7 +3544,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Солхтаи</l>
@@ -3616,7 +3562,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Софа</l>
@@ -3634,7 +3580,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Степан</l>
@@ -3652,7 +3598,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Стёпа</l>
@@ -3670,7 +3616,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Стёпаня</l>
@@ -3688,7 +3634,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Сузма</l>
@@ -3706,7 +3652,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Сярьгей</l>
@@ -3724,7 +3670,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Сёма</l>
@@ -3742,7 +3688,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Сёмка</l>
@@ -3760,7 +3706,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Тама</l>
@@ -3778,7 +3724,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Таманя</l>
@@ -3796,7 +3742,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Танька</l>
@@ -3814,7 +3760,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Танюша</l>
@@ -3832,7 +3778,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Таня</l>
@@ -3850,7 +3796,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Тара</l>
@@ -3868,7 +3814,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Тарас</l>
@@ -3886,7 +3832,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Тарю</l>
@@ -3904,7 +3850,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Тарюня</l>
@@ -3922,7 +3868,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Таря</l>
@@ -3940,7 +3886,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Тату</l>
@@ -3958,7 +3904,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Татю</l>
@@ -3976,7 +3922,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Татюня</l>
@@ -3994,7 +3940,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Таштю</l>
@@ -4012,7 +3958,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Тима</l>
@@ -4030,7 +3976,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Тимкай</l>
@@ -4048,7 +3994,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Топай</l>
@@ -4066,7 +4012,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Тота</l>
@@ -4084,7 +4030,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Трафа</l>
@@ -4102,7 +4048,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Трофим</l>
@@ -4120,7 +4066,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Тятеш</l>
@@ -4138,7 +4084,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Тёма</l>
@@ -4156,7 +4102,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Улю</l>
@@ -4174,7 +4120,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Улюня</l>
@@ -4192,7 +4138,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Улюша</l>
@@ -4210,7 +4156,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Уля</l>
@@ -4228,7 +4174,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Уляша</l>
@@ -4246,7 +4192,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Ускай</l>
@@ -4264,7 +4210,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Фадейня</l>
@@ -4282,7 +4228,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Фана</l>
@@ -4300,7 +4246,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Фананя</l>
@@ -4318,7 +4264,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Феда</l>
@@ -4336,7 +4282,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Феданя</l>
@@ -4354,7 +4300,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Федю</l>
@@ -4372,7 +4318,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Федюня</l>
@@ -4390,7 +4336,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Федя</l>
@@ -4408,7 +4354,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Фетька</l>
@@ -4426,7 +4372,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Фиманя</l>
@@ -4444,7 +4390,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Фома</l>
@@ -4462,7 +4408,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Фяка</l>
@@ -4480,7 +4426,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Фёкла</l>
@@ -4498,7 +4444,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Хома</l>
@@ -4516,7 +4462,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Христос</l>
@@ -4534,7 +4480,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Цифтамаз</l>
@@ -4552,7 +4498,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Цяба</l>
@@ -4570,7 +4516,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Цякай</l>
@@ -4588,7 +4534,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Цяляка</l>
@@ -4606,7 +4552,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Цялякай</l>
@@ -4624,7 +4570,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Чёкаж</l>
@@ -4642,7 +4588,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Шача</l>
@@ -4660,7 +4606,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Ювання</l>
@@ -4678,7 +4624,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Юда</l>
@@ -4696,7 +4642,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Яга</l>
@@ -4714,7 +4660,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Яку</l>
@@ -4732,7 +4678,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Яна</l>
@@ -4750,7 +4696,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Яша</l>
@@ -4768,7 +4714,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Яшаня</l>
@@ -4786,7 +4732,25 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Библия</l>
+     <stg>
+       <st Contlex="PROP_AVA">Библия</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="N" type="Prop">Миша</l>
@@ -4807,5 +4771,41 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
-</r>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" type="Prop">Пашад</l>
+     <stg>
+       <st Contlex="PROP_KAL">Пашад</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Саранскяй</l>
+     <stg>
+       <st Contlex="PROP_VAJ">Саранскяй</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+</r> 

@@ -1,4 +1,4 @@
-<?xml version="1.0" ?> <r xml:lang="mdf" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"> 
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
 <e id="None" meta="">
    <lg>
      <l pos="CC">а</l>
@@ -29,7 +29,26 @@
        <xt xml:lang="fin">minä menen kotiin, mutta hän teatteriin.</xt>
      </xg>
    </mg>
-</e> 
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="CC">али</l>
+     <stg>
+       <st Contlex="CC_">али</st>
+     </stg> <phonet>aľi</phonet>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="CC">tai</t>
+       <t pos="CC">vai</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="CC">афток</l>
@@ -58,7 +77,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="CC">да</l>
@@ -82,7 +101,7 @@
        <xt xml:lang="fin">minä ja hän.</xt>
      </xg>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="CC">и</l>
@@ -108,7 +127,7 @@
        <xt xml:lang="fin">suorastaan.</xt>
      </xg>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="CC">или</l>
@@ -127,7 +146,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="CC">мъзярс</l>
@@ -145,7 +164,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="CC">мярьгат</l>
@@ -166,7 +185,7 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
+</e>
 <e id="None" meta="">
    <lg>
      <l pos="CC">но</l>
@@ -185,24 +204,5 @@
      </tg>
      <defNative/>
    </mg>
-</e> 
-<e id="None" meta="">
-   <lg>
-     <l pos="CC">али</l>
-     <stg>
-       <st Contlex="CC_">али</st>
-     </stg> <phonet>aľi</phonet>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin">
-       <t pos="CC">tai</t>
-       <t pos="CC">vai</t>
-     </tg>
-     <defNative/>
-   </mg>
-</e> 
-</r>
+</e>
+</r> 
