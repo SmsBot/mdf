@@ -906,25 +906,7 @@
    <lg>
      <l pos="Prc">битком пяшкотьф</l>
      <stg>
-       <st Contlex="Prc-f">битком_пяшкотьф</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <m>
-     </m>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Prc">битком_пяшкотьф</l>
-     <stg>
-       <st Contlex="Prc-f">битком_пяшкотьф</st>
+       <st Contlex="Prc-f">битком пяшкотьф</st>
      </stg>
    </lg>
      <sources>
@@ -10357,25 +10339,7 @@
    <lg>
      <l pos="Prc">пайгонь шави</l>
      <stg>
-       <st Contlex="Prc-I">пайгонь_шави</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <m>
-     </m>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Prc">пайгонь_шави</l>
-     <stg>
-       <st Contlex="Prc-I">пайгонь_шави</st>
+       <st Contlex="Prc-I">пайгонь шави</st>
      </stg>
    </lg>
      <sources>
@@ -10772,7 +10736,7 @@
    <lg>
      <l pos="Prc">пачк няеви</l>
      <stg>
-       <st Contlex="Prc-I">пачк_няеви</st>
+       <st Contlex="Prc-I">пачк няеви</st>
      </stg>
    </lg>
      <sources>
@@ -10780,25 +10744,8 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <m>
-     </m>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Prc">пачк_няеви</l>
-     <stg>
-       <st Contlex="Prc-I">пачк_няеви</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin"> <t/>
+     <tg xml:lang="fin">
+       <t>läpinäkyvä</t>
      </tg>
      <m>
      </m>
@@ -13601,7 +13548,7 @@
    <lg>
      <l pos="Prc">пялес кончаф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_кончаф</st>
+       <st Contlex="Prc-f">пялес кончаф</st>
      </stg>
    </lg>
      <sources>
@@ -13619,7 +13566,7 @@
    <lg>
      <l pos="Prc">пялес пидеф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_пидеф</st>
+       <st Contlex="Prc-f">пялес пидеф</st>
      </stg>
    </lg>
      <sources>
@@ -13637,7 +13584,7 @@
    <lg>
      <l pos="Prc">пялес сивф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_сивф</st>
+       <st Contlex="Prc-f">пялес сивф</st>
      </stg>
    </lg>
      <sources>
@@ -13655,7 +13602,7 @@
    <lg>
      <l pos="Prc">пялес тиф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_тиф</st>
+       <st Contlex="Prc-f">пялес тиф</st>
      </stg>
    </lg>
      <sources>
@@ -13673,7 +13620,7 @@
    <lg>
      <l pos="Prc">пялес удоф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_удоф</st>
+       <st Contlex="Prc-f">пялес удоф</st>
      </stg>
    </lg>
      <sources>
@@ -13689,9 +13636,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Prc">пялес_кончаф</l>
+     <l pos="Prc">пялес кончаф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_кончаф</st>
+       <st Contlex="Prc-f">пялес кончаф</st>
      </stg>
    </lg>
      <sources>
@@ -13707,9 +13654,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Prc">пялес_пидеф</l>
+     <l pos="Prc">пялес пидеф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_пидеф</st>
+       <st Contlex="Prc-f">пялес пидеф</st>
      </stg>
    </lg>
      <sources>
@@ -13725,9 +13672,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Prc">пялес_сивф</l>
+     <l pos="Prc">пялес сивф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_сивф</st>
+       <st Contlex="Prc-f">пялес сивф</st>
      </stg>
    </lg>
      <sources>
@@ -13743,9 +13690,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Prc">пялес_тиф</l>
+     <l pos="Prc">пялес тиф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_тиф</st>
+       <st Contlex="Prc-f">пялес тиф</st>
      </stg>
    </lg>
      <sources>
@@ -13761,9 +13708,9 @@
 </e>
 <e id="None" meta="">
    <lg>
-     <l pos="Prc">пялес_удоф</l>
+     <l pos="Prc">пялес удоф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_удоф</st>
+       <st Contlex="Prc-f">пялес удоф</st>
      </stg>
    </lg>
      <sources>
@@ -14684,27 +14631,7 @@
    <lg>
      <l pos="Prc">рьвакс максф</l>
      <stg>
-       <st Contlex="Prc-f">рьвакс_максф</st>
-       <st Contlex="Prc-f" status="Use/SpellNoSugg">ърьвакс_максф</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <m>
-     </m>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Prc">рьвакс_максф</l>
-     <stg>
-       <st Contlex="Prc-f">рьвакс_максф</st>
-       <st Contlex="Prc-f" status="Use/SpellNoSugg">ърьвакс_максф</st>
+       <st Contlex="Prc-f">ърьвакс максф</st>
      </stg>
    </lg>
      <sources>
@@ -14722,8 +14649,7 @@
    <lg>
      <l pos="Prc">рьвяяф</l>
      <stg>
-       <st Contlex="Prc-f">рьвяяф</st>
-       <st Contlex="Prc-f" status="Use/SpellNoSugg">ърьвяяф</st>
+       <st Contlex="Prc-f">ърьвяяф</st>
      </stg>
    </lg>
      <sources>
@@ -21637,25 +21563,7 @@
    <lg>
      <l pos="Prc">урмань калгаф</l>
      <stg>
-       <st Contlex="Prc-f">урмань_калгаф</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <m>
-     </m>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Prc">урмань_калгаф</l>
-     <stg>
-       <st Contlex="Prc-f">урмань_калгаф</st>
+       <st Contlex="Prc-f">урмань калгаф</st>
      </stg>
    </lg>
      <sources>
@@ -23714,25 +23622,7 @@
    <lg>
      <l pos="Prc">шинь пидеф</l>
      <stg>
-       <st Contlex="Prc-f">шинь_пидеф</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <m>
-     </m>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Prc">шинь_пидеф</l>
-     <stg>
-       <st Contlex="Prc-f">шинь_пидеф</st>
+       <st Contlex="Prc-f">шинь пидеф</st>
      </stg>
    </lg>
      <sources>
@@ -24718,25 +24608,7 @@
    <lg>
      <l pos="Prc">шуроста васьфневи</l>
      <stg>
-       <st Contlex="Prc-I">шуроста_васьфневи</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <m>
-     </m>
-   </mg>
-</e>
-<e id="None" meta="">
-   <lg>
-     <l pos="Prc">шуроста_васьфневи</l>
-     <stg>
-       <st Contlex="Prc-I">шуроста_васьфневи</st>
+       <st Contlex="Prc-I">шуроста васьфневи</st>
      </stg>
    </lg>
      <sources>

@@ -435,7 +435,7 @@
    <lg>
      <l pos="Num">кафта</l>
      <stg>
-       <st Contlex="NUM-CARD_PULA">кафт%{АØ%}</st>
+       <st Contlex="NUM-CARD_PULA">кафт%{АО%}</st>
      </stg> <phonet>kafta</phonet>
    </lg>
      <sources>
@@ -757,7 +757,7 @@
    <lg>
      <l pos="Num">кемгафксува</l>
      <stg>
-       <st Contlex="NUM-CARD_PULA">кемгафксув%{АØ%}</st>
+       <st Contlex="NUM-CARD_PULA">кемгафксув%{АО%}</st>
      </stg> <phonet>kemgafksuva, kimgafksuva</phonet>
    </lg>
      <sources>
@@ -810,7 +810,7 @@
    <lg>
      <l pos="Num">кемгафтува</l>
      <stg>
-       <st Contlex="NUM-CARD_PULA">кемгафтув%{АØ%}</st>
+       <st Contlex="NUM-CARD_PULA">кемгафтув%{АО%}</st>
      </stg> <phonet>kemgaftuva, kimgaftuva</phonet>
    </lg>
      <sources>
@@ -872,7 +872,7 @@
    <lg>
      <l pos="Num">кемголмува</l>
      <stg>
-       <st Contlex="NUM-CARD_PULA">кемголмув%{АØ%}</st>
+       <st Contlex="NUM-CARD_PULA">кемголмув%{АО%}</st>
      </stg> <phonet>kemgolmuva, kimgolmuva</phonet>
    </lg>
      <sources>
@@ -972,7 +972,7 @@
    <lg>
      <l pos="Num">кемготува</l>
      <stg>
-       <st Contlex="NUM-CARD_PULA">кемготув%{АØ%}</st>
+       <st Contlex="NUM-CARD_PULA">кемготув%{АО%}</st>
      </stg> <phonet>kemgotuva</phonet>
    </lg>
      <sources>

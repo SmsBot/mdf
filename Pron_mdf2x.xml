@@ -1259,24 +1259,7 @@
    <lg>
      <l pos="Pron">мезьса аф мезьса</l>
      <stg>
-       <st Contlex="PRON_">мезьса_аф_мезьса</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-     <defNative/>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pron">мезьса_аф_мезьса</l>
-     <stg>
-       <st Contlex="PRON_">мезьса_аф_мезьса</st>
+       <st Contlex="PRON_">мезьса аф мезьса</st>
      </stg>
    </lg>
      <sources>

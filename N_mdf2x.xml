@@ -18290,7 +18290,7 @@
      </xg>
      <xg>
        <x>велень</x> <phonet>veľəń</phonet>
-       <xt xml:lang="fin">kylä­, kylän-</xt>
+       <xt xml:lang="fin">kylä-, kylän-</xt>
      </xg>
      <xg>
        <x>велень эряй</x> <phonet>veľəń eŕäj</phonet>
@@ -18338,7 +18338,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>kylä­</t>
+       <t>kylä-</t>
        <t>kylän-</t>
      </tg>
    </mg>
@@ -31453,7 +31453,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="N">noita (­akka)</t>
+       <t pos="N">noita (-akka)</t>
      </tg>
      <defNative/>
    </mg>
@@ -37237,7 +37237,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>ilta­</t>
+       <t>ilta-</t>
        <t>iltainen</t>
      </tg>
    </mg>
@@ -37357,7 +37357,7 @@
      </xg>
      <xg>
        <x>иляденьбяли</x> <phonet>iľäďəńbäľi</phonet>
-       <xt xml:lang="fin">ilta­, iltainen</xt>
+       <xt xml:lang="fin">ilta-, iltainen</xt>
      </xg>
    </mg>
 </e>
@@ -47774,7 +47774,7 @@
      <defNative/>
      <xg>
        <x>келунь</x> <phonet>keluń</phonet>
-       <xt xml:lang="fin">koivu­, koivupuinen, koivuinen</xt>
+       <xt xml:lang="fin">koivu-, koivupuinen, koivuinen</xt>
      </xg>
      <xg>
        <x>келувонь</x> <phonet>keluvəń</phonet>
@@ -47833,7 +47833,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>koivu­</t>
+       <t>koivu-</t>
        <t>koivupuinen</t>
        <t>koivuinen</t>
      </tg>
@@ -49572,7 +49572,7 @@
      <defNative/>
      <xg>
        <x>кивиень</x> <phonet>kivijəń</phonet>
-       <xt xml:lang="fin">1. lyijy­, lyijyinen. 2. helma-</xt>
+       <xt xml:lang="fin">1. lyijy-, lyijyinen. 2. helma-</xt>
      </xg>
    </mg>
 </e>
@@ -49590,7 +49590,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>lyijy­</t>
+       <t>lyijy-</t>
        <t>lyijyinen</t>
      </tg>
    </mg>
@@ -51675,7 +51675,7 @@
      <defNative/>
      <xg>
        <x>ковонь</x> <phonet>kovəń</phonet>
-       <xt xml:lang="fin">kuukausi­, kuukausittainen</xt>
+       <xt xml:lang="fin">kuukausi-, kuukausittainen</xt>
      </xg>
      <xg>
        <x>ковонь кувалма</x> <phonet>kovəń kuvalma</phonet>
@@ -51698,7 +51698,7 @@
      <defNative/>
      <xg>
        <x>ковонь</x> <phonet>kovəń</phonet>
-       <xt xml:lang="fin">kuukausi­, kuukausittainen</xt>
+       <xt xml:lang="fin">kuukausi-, kuukausittainen</xt>
      </xg>
      <xg>
        <x>ковонь кувалма</x> <phonet>kovəń kuvalma</phonet>
@@ -51874,7 +51874,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>kuukausi­</t>
+       <t>kuukausi-</t>
        <t>kuukausittainen</t>
      </tg>
    </mg>
@@ -69454,7 +69454,7 @@
      </xg>
      <xg>
        <x>ловонь</x> <phonet>lovəń</phonet>
-       <xt xml:lang="fin">lumi­, luminen</xt>
+       <xt xml:lang="fin">lumi-, luminen</xt>
      </xg>
      <xg>
        <x>ловонь баба</x> <phonet>lovəń baba</phonet>
@@ -69504,7 +69504,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>lumi­</t>
+       <t>lumi-</t>
        <t>luminen</t>
      </tg>
    </mg>
@@ -72090,7 +72090,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="N">muisto (­esine)</t>
+       <t pos="N">muisto (-esine)</t>
        <t pos="N">matkamuisto</t>
      </tg>
      <defNative/>
@@ -74429,7 +74429,7 @@
      </xg>
      <xg>
        <x>мастору</x> <phonet>mastəru</phonet>
-       <xt xml:lang="fin">1. maahan, alas (­päin). 2. lattialle</xt>
+       <xt xml:lang="fin">1. maahan, alas (-päin). 2. lattialle</xt>
      </xg>
      <xg>
        <x>масторонь панга</x> <phonet>mastərəń paŋga</phonet>
@@ -80675,7 +80675,7 @@
      <tg xml:lang="fin">
        <t pos="N">ymmärrys</t>
        <t pos="N">järki</t>
-       <t pos="N">mieli (­pide)</t>
+       <t pos="N">mieli (-pide)</t>
      </tg>
      <defNative/>
    </mg>
@@ -90913,7 +90913,7 @@
      </xg>
      <xg>
        <x>ошень</x> <phonet>ošəń</phonet>
-       <xt xml:lang="fin">kaupunki­, kaupunkilais­, kaupungin-</xt>
+       <xt xml:lang="fin">kaupunki-, kaupunkilais-, kaupungin-</xt>
      </xg>
    </mg>
 </e>
@@ -90949,8 +90949,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>kaupunki­</t>
-       <t>kaupunkilais­</t>
+       <t>kaupunki-</t>
+       <t>kaupunkilais-</t>
        <t>kaupungin-</t>
      </tg>
    </mg>
@@ -91697,7 +91697,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>luu­</t>
+       <t>luu-</t>
        <t>luinen</t>
      </tg>
    </mg>
@@ -91749,7 +91749,7 @@
      </xg>
      <xg>
        <x>пакарень</x> <phonet>pakaŕəń</phonet>
-       <xt xml:lang="fin">luu­, luinen</xt>
+       <xt xml:lang="fin">luu-, luinen</xt>
      </xg>
      <xg>
        <x>пакарень крандаз</x> <phonet>pakaŕəń krandas</phonet>
@@ -92091,7 +92091,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="N">peltorukous (­juhla)</t>
+       <t pos="N">peltorukous (-juhla)</t>
      </tg>
      <defNative/>
    </mg>
@@ -111724,7 +111724,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="N">työ­</t>
+       <t pos="N">työ-</t>
        <t pos="N">työläis-</t>
      </tg>
      <defNative/>
@@ -117674,7 +117674,7 @@
      <defNative/>
      <xg>
        <x>саманонь</x> <phonet>samanəń</phonet>
-       <xt xml:lang="fin">tiili­, tiilestä tehty</xt>
+       <xt xml:lang="fin">tiili-, tiilestä tehty</xt>
      </xg>
    </mg>
 </e>
@@ -117692,7 +117692,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>tiili­</t>
+       <t>tiili-</t>
        <t>tiilestä tehty</t>
      </tg>
    </mg>
@@ -119573,7 +119573,7 @@
      </xg>
      <xg>
        <x>седиень</x> <phonet>śeďijəń</phonet>
-       <xt xml:lang="fin">sydän­, sydämen­, -sydäminen</xt>
+       <xt xml:lang="fin">sydän-, sydämen-, -sydäminen</xt>
      </xg>
      <xg>
        <x>седиень шавома</x> <phonet>śeďijəń šavəma</phonet>
@@ -119688,8 +119688,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>sydän­</t>
-       <t>sydämen­</t>
+       <t>sydän-</t>
+       <t>sydämen-</t>
        <t>-sydäminen</t>
      </tg>
    </mg>
@@ -123118,7 +123118,7 @@
      </xg>
      <xg>
        <x>сиянь</x> <phonet>śijäń</phonet>
-       <xt xml:lang="fin">hopea­, hopeinen</xt>
+       <xt xml:lang="fin">hopea-, hopeinen</xt>
      </xg>
      <xg>
        <x>сиянь сукс</x> <phonet>śijäń suks</phonet>
@@ -123141,7 +123141,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>hopea­</t>
+       <t>hopea-</t>
        <t>hopeinen</t>
      </tg>
    </mg>
@@ -131378,7 +131378,7 @@
      <defNative/>
      <xg>
        <x>сюлонь</x> <phonet>śuləń</phonet>
-       <xt xml:lang="fin">suoli­, suolisto-</xt>
+       <xt xml:lang="fin">suoli-, suolisto-</xt>
      </xg>
    </mg>
 </e>
@@ -131497,7 +131497,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>suoli­</t>
+       <t>suoli-</t>
        <t>suolisto-</t>
      </tg>
    </mg>
@@ -132628,7 +132628,7 @@
      <defNative/>
      <xg>
        <x>сялиень</x> <phonet>śäľijəń</phonet>
-       <xt xml:lang="fin">jalava­, jalavapuinen</xt>
+       <xt xml:lang="fin">jalava-, jalavapuinen</xt>
      </xg>
      <xg>
        <x>сялиень куйня</x> <phonet>śäľijəń kujńä</phonet>
@@ -132650,7 +132650,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>jalava­</t>
+       <t>jalava-</t>
        <t>jalavapuinen</t>
      </tg>
    </mg>
@@ -149960,7 +149960,7 @@
      <defNative/>
      <xg>
        <x>ушторонь</x> <phonet>uštərəń</phonet>
-       <xt xml:lang="fin">vaahtera­, vaahterapuinen</xt>
+       <xt xml:lang="fin">vaahtera-, vaahterapuinen</xt>
      </xg>
    </mg>
 </e>
@@ -149978,7 +149978,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>vaahtera­</t>
+       <t>vaahtera-</t>
        <t>vaahterapuinen</t>
      </tg>
    </mg>
@@ -154017,7 +154017,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="N">savi­</t>
+       <t pos="N">savi-</t>
        <t pos="N">keramiikka-astia</t>
      </tg>
      <defNative/>
@@ -154036,7 +154036,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="N">savi­</t>
+       <t pos="N">savi-</t>
        <t pos="N">keramiikka-astia</t>
      </tg>
      <defNative/>
@@ -154273,7 +154273,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="N">(heinä­, koti-) sirkka</t>
+       <t pos="N">(heinä-, koti-) sirkka</t>
        <t pos="N">hepokatti</t>
      </tg>
      <defNative/>
@@ -154371,7 +154371,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="N">auringon­</t>
+       <t pos="N">auringon-</t>
        <t pos="N">päivänsäde</t>
      </tg>
      <defNative/>
@@ -162394,7 +162394,7 @@
      </xg>
      <xg>
        <x>ширестоння</x> <phonet>šiŕəstəńńä</phonet>
-       <xt xml:lang="fin">sivu­, laita-</xt>
+       <xt xml:lang="fin">sivu-, laita-</xt>
      </xg>
      <xg>
        <x>моледа ширезон!</x> <phonet>moľədə šiŕəzən</phonet>
@@ -162518,7 +162518,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>sivu­</t>
+       <t>sivu-</t>
        <t>laita-</t>
      </tg>
    </mg>
@@ -167046,7 +167046,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="N">vanhempi täti(­ihminen)</t>
+       <t pos="N">vanhempi täti(-ihminen)</t>
      </tg>
      <defNative/>
    </mg>

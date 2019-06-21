@@ -1113,7 +1113,7 @@
      <tg xml:lang="fin">
        <t pos="A">märkivä</t>
        <t pos="A">mätivä</t>
-       <t pos="A">märkä­</t>
+       <t pos="A">märkä-</t>
        <t pos="A">mätä-</t>
        <t pos="A">äkäinen (koira)</t>
      </tg>
@@ -1955,7 +1955,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="Adv">ala­</t>
+       <t pos="Adv">ala-</t>
        <t pos="A">alus-</t>
      </tg>
      <defNative/>
@@ -2259,7 +2259,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">алтынонь питне</l>
      <stg>
@@ -2309,7 +2309,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">ala­</t>
+       <t pos="A">ala-</t>
        <t pos="A">alinen</t>
        <t pos="A">alin</t>
      </tg>
@@ -4434,7 +4434,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">аф топафкшу</l>
      <stg>
@@ -5911,23 +5911,7 @@
    <lg>
      <l pos="A" type="Prc">битком пяшкотьф</l>
      <stg>
-       <st Contlex="Prc-f">битком_пяшкотьф</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A" type="Prc">битком_пяшкотьф</l>
-     <stg>
-       <st Contlex="Prc-f">битком_пяшкотьф</st>
+       <st Contlex="Prc-f">битком пяшкотьф</st>
      </stg>
    </lg>
      <sources>
@@ -6231,7 +6215,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">болдара сельме</l>
      <stg>
@@ -8412,7 +8396,7 @@
      <xg>
        <x>васенцекс</x> <phonet>vaśəńćəks</phonet>
        <xt xml:lang="fin">aluksi</xt>
-       <xt>ensiksi, ensinnä; ennakko­, alku- esikoinen</xt>
+       <xt>ensiksi, ensinnä; ennakko-, alku- esikoinen</xt>
      </xg>
      <xg>
        <x>васенцекс буквась</x> <phonet>vaśəńćəks bukvaś</phonet>
@@ -8460,7 +8444,7 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">ensimmäinen</t>
-       <t pos="A">ensi­</t>
+       <t pos="A">ensi-</t>
        <t pos="A">varhainen</t>
        <t pos="A">varhais-</t>
      </tg>
@@ -8690,7 +8674,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">vanu­</t>
+       <t pos="A">vanu-</t>
        <t pos="A">pumpuli-</t>
      </tg>
      <defNative/>
@@ -8911,7 +8895,7 @@
      </xg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">вачень керф</l>
      <stg>
@@ -9166,7 +9150,7 @@
      </tg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">ведаркань тяльги</l>
      <stg>
@@ -9204,7 +9188,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">ведень аф нолдай</l>
      <stg>
@@ -10089,7 +10073,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">веронь шудефти</l>
      <stg>
@@ -10178,7 +10162,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">veri­</t>
+       <t pos="A">veri-</t>
        <t pos="A">verinen</t>
      </tg>
      <defNative/>
@@ -10358,7 +10342,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">вецт моли</l>
      <stg>
@@ -11017,7 +11001,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">metsä­</t>
+       <t pos="A">metsä-</t>
        <t pos="A">villi-</t>
      </tg>
      <defNative/>
@@ -12698,7 +12682,7 @@
      </tg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">вядяня сельме</l>
      <stg>
@@ -12770,7 +12754,7 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">päältä(päin)</t>
-       <t pos="A">ylhäältä(­päin)</t>
+       <t pos="A">ylhäältä(-päin)</t>
      </tg>
      <defNative/>
    </mg>
@@ -12789,7 +12773,7 @@
      </semantics>
      <tg xml:lang="fin">
        <t pos="A">ylimmäinen</t>
-       <t pos="A">ylä­</t>
+       <t pos="A">ylä-</t>
        <t pos="A">yli-</t>
      </tg>
      <defNative/>
@@ -18747,7 +18731,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">kulta­</t>
+       <t pos="A">kulta-</t>
        <t pos="A">kultainen</t>
      </tg>
      <defNative/>
@@ -19994,7 +19978,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">инжиень кельги</l>
      <stg>
@@ -20849,7 +20833,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">ичкози ляци</l>
      <stg>
@@ -21206,7 +21190,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">paperi­</t>
+       <t pos="A">paperi-</t>
        <t pos="A">paperinen</t>
      </tg>
      <defNative/>
@@ -21985,7 +21969,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">kala­</t>
+       <t pos="A">kala-</t>
        <t pos="A">kalaisa</t>
      </tg>
      <defNative/>
@@ -22924,7 +22908,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">pahvi­</t>
+       <t pos="A">pahvi-</t>
        <t pos="A">pahvinen</t>
      </tg>
      <defNative/>
@@ -23468,7 +23452,7 @@
      </tg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">кафта сюроса</l>
      <stg>
@@ -25181,7 +25165,7 @@
      </tg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">кзняй сельме</l>
      <stg>
@@ -26536,7 +26520,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">колма сюроса</l>
      <stg>
@@ -26723,7 +26707,7 @@
      </xg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">комада сельме</l>
      <stg>
@@ -28863,7 +28847,7 @@
      </xg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">кувака сялдаз</l>
      <stg>
@@ -29055,7 +29039,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">koti­</t>
+       <t pos="A">koti-</t>
        <t pos="A">kotoinen</t>
      </tg>
      <defNative/>
@@ -30393,7 +30377,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">kieli­</t>
+       <t pos="A">kieli-</t>
        <t pos="A">-kielinen</t>
        <t pos="A">kielellinen</t>
      </tg>
@@ -31275,7 +31259,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">лама сельмоса</l>
      <stg>
@@ -31533,7 +31517,7 @@
      </tg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">ланкса сельме</l>
      <stg>
@@ -32306,7 +32290,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">лепе кяль</l>
      <stg>
@@ -33827,7 +33811,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">лпнай пиле</l>
      <stg>
@@ -34306,7 +34290,7 @@
      </tg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">льпняй сельме</l>
      <stg>
@@ -36886,7 +36870,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">медень канды</l>
      <stg>
@@ -36973,7 +36957,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">hunaja­</t>
+       <t pos="A">hunaja-</t>
        <t pos="A">hunajainen</t>
      </tg>
      <defNative/>
@@ -39481,7 +39465,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">мянду сельме</l>
      <stg>
@@ -39785,7 +39769,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">lima­</t>
+       <t pos="A">lima-</t>
        <t pos="A">limainen</t>
      </tg>
      <defNative/>
@@ -40144,7 +40128,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">наксада вайме</l>
      <stg>
@@ -40162,7 +40146,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">наксада кяль</l>
      <stg>
@@ -40181,7 +40165,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">наксада пиле</l>
      <stg>
@@ -40453,7 +40437,7 @@
      </tg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">нараф пря</l>
      <stg>
@@ -41431,7 +41415,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">ниле ужеса</l>
      <stg>
@@ -41483,7 +41467,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">нилень крда</l>
      <stg>
@@ -41606,7 +41590,7 @@
      </tg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">новольф паця сараз</l>
      <stg>
@@ -41832,7 +41816,7 @@
      </xg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="mwe">нолгапанксонь пяряка</l>
      <stg>
@@ -42319,7 +42303,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">нумолонь сельме</l>
      <stg>
@@ -42531,7 +42515,7 @@
      <defNative/>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">нюрьги нолга</l>
      <stg>
@@ -45593,23 +45577,7 @@
    <lg>
      <l pos="A" type="Prc">пайгонь шави</l>
      <stg>
-       <st Contlex="Prc-I">пайгонь_шави</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A" type="Prc">пайгонь_шави</l>
-     <stg>
-       <st Contlex="Prc-I">пайгонь_шави</st>
+       <st Contlex="Prc-I">пайгонь шави</st>
      </stg>
    </lg>
      <sources>
@@ -46997,23 +46965,7 @@
    <lg>
      <l pos="A" type="Prc">пачк няеви</l>
      <stg>
-       <st Contlex="Prc-I">пачк_няеви</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A" type="Prc">пачк_няеви</l>
-     <stg>
-       <st Contlex="Prc-I">пачк_няеви</st>
+       <st Contlex="Prc-I">пачк няеви</st>
      </stg>
    </lg>
      <sources>
@@ -54072,7 +54024,7 @@
      </tg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">пяле ёнь</l>
      <stg>
@@ -54181,7 +54133,7 @@
    <lg>
      <l pos="A" type="Prc">пялес кончаф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_кончаф</st>
+       <st Contlex="Prc-f">пялес кончаф</st>
      </stg>
    </lg>
      <sources>
@@ -54270,7 +54222,7 @@
    <lg>
      <l pos="A" type="Prc">пялес пидеф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_пидеф</st>
+       <st Contlex="Prc-f">пялес пидеф</st>
      </stg>
    </lg>
      <sources>
@@ -54286,7 +54238,7 @@
    <lg>
      <l pos="A" type="Prc">пялес сивф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_сивф</st>
+       <st Contlex="Prc-f">пялес сивф</st>
      </stg>
    </lg>
      <sources>
@@ -54302,7 +54254,7 @@
    <lg>
      <l pos="A" type="Prc">пялес тиф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_тиф</st>
+       <st Contlex="Prc-f">пялес тиф</st>
      </stg>
    </lg>
      <sources>
@@ -54318,7 +54270,7 @@
    <lg>
      <l pos="A" type="Prc">пялес удоф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_удоф</st>
+       <st Contlex="Prc-f">пялес удоф</st>
      </stg>
    </lg>
      <sources>
@@ -54332,9 +54284,9 @@
 </e>
 <e>
    <lg>
-     <l pos="A" type="Prc">пялес_кончаф</l>
+     <l pos="A" type="Prc">пялес кончаф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_кончаф</st>
+       <st Contlex="Prc-f">пялес кончаф</st>
      </stg>
    </lg>
      <sources>
@@ -54348,9 +54300,9 @@
 </e>
 <e>
    <lg>
-     <l pos="A" type="Prc">пялес_пидеф</l>
+     <l pos="A" type="Prc">пялес пидеф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_пидеф</st>
+       <st Contlex="Prc-f">пялес пидеф</st>
      </stg>
    </lg>
      <sources>
@@ -54364,9 +54316,9 @@
 </e>
 <e>
    <lg>
-     <l pos="A" type="Prc">пялес_сивф</l>
+     <l pos="A" type="Prc">пялес сивф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_сивф</st>
+       <st Contlex="Prc-f">пялес сивф</st>
      </stg>
    </lg>
      <sources>
@@ -54380,9 +54332,9 @@
 </e>
 <e>
    <lg>
-     <l pos="A" type="Prc">пялес_тиф</l>
+     <l pos="A" type="Prc">пялес тиф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_тиф</st>
+       <st Contlex="Prc-f">пялес тиф</st>
      </stg>
    </lg>
      <sources>
@@ -54396,9 +54348,9 @@
 </e>
 <e>
    <lg>
-     <l pos="A" type="Prc">пялес_удоф</l>
+     <l pos="A" type="Prc">пялес удоф</l>
      <stg>
-       <st Contlex="Prc-f">пялес_удоф</st>
+       <st Contlex="Prc-f">пялес удоф</st>
      </stg>
    </lg>
      <sources>
@@ -55034,7 +54986,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">työ­</t>
+       <t pos="A">työ-</t>
        <t pos="A">työläis-</t>
      </tg>
      <defNative/>
@@ -57228,25 +57180,7 @@
    <lg>
      <l pos="A" type="Prc">рьвакс максф</l>
      <stg>
-       <st Contlex="Prc-f">рьвакс_максф</st>
-       <st Contlex="Prc-f" status="Use/SpellNoSugg">ърьвакс_максф</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A" type="Prc">рьвакс_максф</l>
-     <stg>
-       <st Contlex="Prc-f">рьвакс_максф</st>
-       <st Contlex="Prc-f" status="Use/SpellNoSugg">ърьвакс_максф</st>
+       <st Contlex="Prc-f">ърьвакс максф</st>
      </stg>
    </lg>
      <sources>
@@ -59827,7 +59761,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t>palkka­, vuokra­, palkattu, vuokrattu.</t>
+       <t>palkka-, vuokra-, palkattu, vuokrattu.</t>
      </tg>
    </mg>
 </e>
@@ -71427,7 +71361,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">kauppa­</t>
+       <t pos="A">kauppa-</t>
        <t pos="A">kaupallinen</t>
      </tg>
      <defNative/>
@@ -76766,7 +76700,7 @@
    <lg>
      <l pos="A" type="Prc">урмань калгаф</l>
      <stg>
-       <st Contlex="Prc-f">урмань_калгаф</st>
+       <st Contlex="Prc-f">урмань калгаф</st>
      </stg>
    </lg>
      <sources>
@@ -76794,22 +76728,6 @@
        <t pos="A"/>
      </tg>
      <defNative/>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A" type="Prc">урмань_калгаф</l>
-     <stg>
-       <st Contlex="Prc-f">урмань_калгаф</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin"> <t/>
-     </tg>
    </mg>
 </e>
 <e id="None" meta="">
@@ -80355,7 +80273,7 @@
      </xg>
    </mg>
 </e>
-<e id="None" meta="">
+<e exclude="fst" id="None" meta="">
    <lg>
      <l pos="A" type="bahuvrihi">цебярь вайме</l>
      <stg>
@@ -84240,23 +84158,7 @@
    <lg>
      <l pos="A" type="Prc">шинь пидеф</l>
      <stg>
-       <st Contlex="Prc-f">шинь_пидеф</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A" type="Prc">шинь_пидеф</l>
-     <stg>
-       <st Contlex="Prc-f">шинь_пидеф</st>
+       <st Contlex="Prc-f">шинь пидеф</st>
      </stg>
    </lg>
      <sources>
@@ -86426,7 +86328,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="A">laina­</t>
+       <t pos="A">laina-</t>
        <t pos="A">lainaksi saatu</t>
        <t pos="A">velka-</t>
      </tg>
@@ -86628,7 +86530,7 @@
    <lg>
      <l pos="A" type="Prc">шуроста васьфневи</l>
      <stg>
-       <st Contlex="Prc-I">шуроста_васьфневи</st>
+       <st Contlex="Prc-I">шуроста васьфневи</st>
      </stg>
    </lg>
      <sources>
@@ -86636,23 +86538,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin"> <t/>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="A" type="Prc">шуроста_васьфневи</l>
-     <stg>
-       <st Contlex="Prc-I">шуроста_васьфневи</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="fin"> <t/>
+     <tg xml:lang="fin"> <t>harvinainen</t>
      </tg>
    </mg>
 </e>
