@@ -175,7 +175,7 @@
    <lg>
      <l pos="Num">вете</l>
      <stg>
-       <st Contlex="NUM-CARD_">вете</st>
+       <st Contlex="NUM-CARD_AVA">вете</st>
      </stg> <phonet>veťä</phonet>
    </lg>
      <sources>
@@ -435,7 +435,7 @@
    <lg>
      <l pos="Num">кафта</l>
      <stg>
-       <st Contlex="NUM-CARD_">кафта</st>
+       <st Contlex="NUM-CARD_PULA">кафт%{АØ%}</st>
      </stg> <phonet>kafta</phonet>
    </lg>
      <sources>
@@ -665,7 +665,7 @@
    <lg>
      <l pos="Num">кевейхксые</l>
      <stg>
-       <st Contlex="NUM-CARD_">кевейхксые</st>
+       <st Contlex="NUM-CARD_AVA">кевейхксые</st>
      </stg> <phonet>kivexksijä</phonet>
    </lg>
      <sources>
@@ -687,7 +687,7 @@
    <lg>
      <l pos="Num">кеветие</l>
      <stg>
-       <st Contlex="NUM-CARD_">кеветие</st>
+       <st Contlex="NUM-CARD_AVA">кеветие</st>
      </stg> <phonet>kiveťijä</phonet>
    </lg>
      <sources>
@@ -757,7 +757,7 @@
    <lg>
      <l pos="Num">кемгафксува</l>
      <stg>
-       <st Contlex="NUM-CARD_">кемгафксува</st>
+       <st Contlex="NUM-CARD_PULA">кемгафксув%{АØ%}</st>
      </stg> <phonet>kemgafksuva, kimgafksuva</phonet>
    </lg>
      <sources>
@@ -810,7 +810,7 @@
    <lg>
      <l pos="Num">кемгафтува</l>
      <stg>
-       <st Contlex="NUM-CARD_">кемгафтува</st>
+       <st Contlex="NUM-CARD_PULA">кемгафтув%{АØ%}</st>
      </stg> <phonet>kemgaftuva, kimgaftuva</phonet>
    </lg>
      <sources>
@@ -872,7 +872,7 @@
    <lg>
      <l pos="Num">кемголмува</l>
      <stg>
-       <st Contlex="NUM-CARD_">кемголмува</st>
+       <st Contlex="NUM-CARD_PULA">кемголмув%{АØ%}</st>
      </stg> <phonet>kemgolmuva, kimgolmuva</phonet>
    </lg>
      <sources>
@@ -972,7 +972,7 @@
    <lg>
      <l pos="Num">кемготува</l>
      <stg>
-       <st Contlex="NUM-CARD_">кемготува</st>
+       <st Contlex="NUM-CARD_PULA">кемготув%{АØ%}</st>
      </stg> <phonet>kemgotuva</phonet>
    </lg>
      <sources>
@@ -1051,7 +1051,7 @@
    <lg>
      <l pos="Num">кемзисемге</l>
      <stg>
-       <st Contlex="NUM-CARD_">кемзисемге</st>
+       <st Contlex="NUM-CARD_AVA">кемзисемге</st>
      </stg> <phonet>kemźiśəmgä, kimźiśəmgä</phonet>
    </lg>
      <sources>
@@ -1107,7 +1107,7 @@
    <lg>
      <l pos="Num">кемнилие</l>
      <stg>
-       <st Contlex="NUM-CARD_">кемнилие</st>
+       <st Contlex="NUM-CARD_AVA">кемнилие</st>
      </stg> <phonet>kemńiľijä, kimńiľijä</phonet>
    </lg>
      <sources>
@@ -1228,7 +1228,7 @@
    <lg>
      <l pos="Num">кефкие</l>
      <stg>
-       <st Contlex="NUM-CARD_">кефкие</st>
+       <st Contlex="NUM-CARD_AVA">кефкие</st>
      </stg> <phonet>kefkijä</phonet>
    </lg>
      <sources>
@@ -1684,7 +1684,7 @@
    <lg>
      <l pos="Num">ниле</l>
      <stg>
-       <st Contlex="NUM-CARD_">ниле</st>
+       <st Contlex="NUM-CARD_AVA">ниле</st>
      </stg> <phonet>ńiľä</phonet>
    </lg>
      <sources>
@@ -1903,7 +1903,7 @@
    <lg>
      <l pos="Num">сисем</l>
      <stg>
-       <st Contlex="NUM-CARD_">сисем</st>
+       <st Contlex="NUM-CARD_KAL">сисем</st>
      </stg> <phonet>śiśəm</phonet>
    </lg>
      <sources>
@@ -2010,7 +2010,7 @@
    <lg>
      <l pos="Num">триллион</l>
      <stg>
-       <st Contlex="NUM-CARD_">триллион</st>
+       <st Contlex="NUM-CARD_KAL">триллион</st>
      </stg>
    </lg>
      <sources>
@@ -2027,7 +2027,7 @@
    <lg>
      <l pos="Num">тыща</l>
      <stg>
-       <st Contlex="NUM-CARD_">тыща</st>
+       <st Contlex="NUM-CARD_AVA">тыща</st>
      </stg>
    </lg>
      <sources>
@@ -2121,8 +2121,7 @@
    <lg>
      <l pos="Num">фкя</l>
      <stg>
-       <st Contlex="NUM-CARD_">фкя</st>
-       <st Contlex="NUM-CARD_" status="Use/SpellNoSugg">фъкя</st>
+       <st Contlex="NUM-CARD_AVA">фкя</st>
      </stg> <phonet>fkä</phonet>
    </lg>
      <sources>
