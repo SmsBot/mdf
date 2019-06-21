@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="mdf">
 <e>
    <lg>
      <l pos="Ger">абондозь</l>
@@ -625,8 +625,7 @@
    <lg>
      <l pos="Ger">вжголдозь</l>
      <stg>
-       <st Contlex="GER_">вжголдозь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">въжголдозь</st>
+       <st Contlex="GER_">въжголдозь</st>
      </stg>
    </lg>
      <sources>
@@ -644,8 +643,7 @@
    <lg>
      <l pos="Ger">вжназь</l>
      <stg>
-       <st Contlex="GER_">вжназь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">въжназь</st>
+       <st Contlex="GER_">въжназь</st>
      </stg>
    </lg>
      <sources>
@@ -771,8 +769,7 @@
    <lg>
      <l pos="Ger">гзнязь</l>
      <stg>
-       <st Contlex="GER_">гзнязь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">гъзнязь</st>
+       <st Contlex="GER_">гъзнязь</st>
      </stg>
    </lg>
      <sources>
@@ -844,8 +841,7 @@
    <lg>
      <l pos="Ger">грнязь</l>
      <stg>
-       <st Contlex="GER_">грнязь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">гърнязь</st>
+       <st Contlex="GER_">гърнязь</st>
      </stg>
    </lg>
      <sources>
@@ -1187,8 +1183,7 @@
    <lg>
      <l pos="Ger">икснезь-мкснезь</l>
      <stg>
-       <st Contlex="GER_">икснезь-мкснезь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">икснезь-мъкснезь</st>
+       <st Contlex="GER_">икснезь-мъкснезь</st>
      </stg>
    </lg>
      <sources>
@@ -1549,8 +1544,7 @@
    <lg>
      <l pos="Ger">крназь</l>
      <stg>
-       <st Contlex="GER_">крназь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">кърназь</st>
+       <st Contlex="GER_">кърназь</st>
      </stg>
    </lg>
      <sources>
@@ -1604,8 +1598,7 @@
    <lg>
      <l pos="Ger">кштизь</l>
      <stg>
-       <st Contlex="GER_">кштизь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">къштизь</st>
+       <st Contlex="GER_">къштизь</st>
      </stg>
    </lg>
      <sources>
@@ -2091,8 +2084,7 @@
    <lg>
      <l pos="Ger">мзолдозь</l>
      <stg>
-       <st Contlex="GER_">мзолдозь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">мъзолдозь</st>
+       <st Contlex="GER_">мъзолдозь</st>
      </stg>
    </lg>
      <sources>
@@ -2110,8 +2102,7 @@
    <lg>
      <l pos="Ger">мзолкшнезь</l>
      <stg>
-       <st Contlex="GER_">мзолкшнезь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">мъзолкшнезь</st>
+       <st Contlex="GER_">мъзолкшнезь</st>
      </stg>
    </lg>
      <sources>
@@ -2625,7 +2616,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Ger">пялес_авардезь</l>
+     <l pos="Ger">пялес авардезь</l>
      <stg>
        <st Contlex="GER_">пялес_авардезь</st>
      </stg>
@@ -2643,7 +2634,7 @@
 </e>
 <e>
    <lg>
-     <l pos="Ger">пялес авардезь</l>
+     <l pos="Ger">пялес_авардезь</l>
      <stg>
        <st Contlex="GER_">пялес_авардезь</st>
      </stg>
@@ -3079,7 +3070,6 @@
      <l pos="Ger">смутявозь</l>
      <stg>
        <st Contlex="GER_">смутявозь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">съмутявозь</st>
      </stg>
    </lg>
      <sources>
@@ -3098,7 +3088,6 @@
      <l pos="Ger">смутявозь-пеедезь</l>
      <stg>
        <st Contlex="GER_">смутявозь-пеедезь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">съмутявозь-пеедезь</st>
      </stg>
    </lg>
      <sources>
@@ -3153,7 +3142,6 @@
      <l pos="Ger">спорезь</l>
      <stg>
        <st Contlex="GER_">спорезь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">съпорезь</st>
      </stg>
    </lg>
      <sources>
@@ -3172,7 +3160,6 @@
      <l pos="Ger">старандазь</l>
      <stg>
        <st Contlex="GER_">старандазь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">сътарандазь</st>
      </stg>
    </lg>
      <sources>
@@ -3410,8 +3397,7 @@
    <lg>
      <l pos="Ger">тжназь</l>
      <stg>
-       <st Contlex="GER_">тжназь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">тъжназь</st>
+       <st Contlex="GER_">тъжназь</st>
      </stg>
    </lg>
      <sources>
@@ -3429,8 +3415,7 @@
    <lg>
      <l pos="Ger">тзназь</l>
      <stg>
-       <st Contlex="GER_">тзназь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">тъзназь</st>
+       <st Contlex="GER_">тъзназь</st>
      </stg>
    </lg>
      <sources>
@@ -3520,8 +3505,7 @@
    <lg>
      <l pos="Ger">трмождозь</l>
      <stg>
-       <st Contlex="GER_">трмождозь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">търмождозь</st>
+       <st Contlex="GER_">търмождозь</st>
      </stg>
    </lg>
      <sources>
@@ -3539,8 +3523,7 @@
    <lg>
      <l pos="Ger">трназь-пелезь</l>
      <stg>
-       <st Contlex="GER_">трназь-пелезь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">търназь-пелезь</st>
+       <st Contlex="GER_">търназь-пелезь</st>
      </stg>
    </lg>
      <sources>
@@ -3558,8 +3541,7 @@
    <lg>
      <l pos="Ger">трнатозь-пелезь</l>
      <stg>
-       <st Contlex="GER_">трнатозь-пелезь</st>
-       <st Contlex="GER_" status="Use/SpellNoSugg">търнатозь-пелезь</st>
+       <st Contlex="GER_">търнатозь-пелезь</st>
      </stg>
    </lg>
      <sources>
