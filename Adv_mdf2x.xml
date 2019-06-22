@@ -8688,8 +8688,7 @@
    <lg>
      <l pos="Adv">кати-мзяра</l>
      <stg>
-       <st Contlex="ADV_">кати-мзяра</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">кати-мъзяра</st>
+       <st Contlex="ADV_">кати-мъзяра</st>
      </stg>
    </lg>
      <sources>
@@ -8707,8 +8706,7 @@
    <lg>
      <l pos="Adv">кати-мзярда</l>
      <stg>
-       <st Contlex="ADV_">кати-мзярда</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">кати-мъзярда</st>
+       <st Contlex="ADV_">кати-мъзярда</st>
      </stg>
    </lg>
      <sources>
@@ -8729,8 +8727,7 @@
    <lg>
      <l pos="Adv">кати-мзярс</l>
      <stg>
-       <st Contlex="ADV_">кати-мзярс</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">кати-мъзярс</st>
+       <st Contlex="ADV_">кати-мъзярс</st>
      </stg>
    </lg>
      <sources>
@@ -10664,8 +10661,7 @@
    <lg>
      <l pos="Adv">кой-мзяра</l>
      <stg>
-       <st Contlex="ADV_">кой-мзяра</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">кой-мъзяра</st>
+       <st Contlex="ADV_">кой-мъзяра</st>
      </stg>
    </lg>
      <sources>
@@ -10685,8 +10681,7 @@
    <lg>
      <l pos="Adv">кой-мзярда</l>
      <stg>
-       <st Contlex="ADV_">кой-мзярда</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">кой-мъзярда</st>
+       <st Contlex="ADV_">кой-мъзярда</st>
      </stg>
    </lg>
      <sources>
@@ -10708,8 +10703,7 @@
    <lg>
      <l pos="Adv">кой-мзярс</l>
      <stg>
-       <st Contlex="ADV_">кой-мзярс</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">кой-мъзярс</st>
+       <st Contlex="ADV_">кой-мъзярс</st>
      </stg>
    </lg>
      <sources>
@@ -15948,7 +15942,7 @@
    <lg>
      <l pos="Adv">мзяра</l>
      <stg>
-       <st Contlex="ADV_">мзяра</st>
+       <st Contlex="ADV_">мъзяра</st>
      </stg>
    </lg>
      <sources>
@@ -15967,8 +15961,7 @@
    <lg>
      <l pos="Adv">мзяра аф мзяра</l>
      <stg>
-       <st Contlex="ADV_">мзяра аф мзяра</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">мъзяра аф мъзяра</st>
+       <st Contlex="ADV_">мъзяра аф мъзяра</st>
      </stg>
    </lg>
      <sources>
@@ -15986,8 +15979,7 @@
    <lg>
      <l pos="Adv">мзяра-бди</l>
      <stg>
-       <st Contlex="ADV_">мзяра-бди</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">мъзяра-бъди</st>
+       <st Contlex="ADV_">мъзяра-бъди</st>
      </stg>
    </lg>
      <sources>
@@ -16005,8 +15997,7 @@
    <lg>
      <l pos="Adv">мзяра-мзяра</l>
      <stg>
-       <st Contlex="ADV_">мзяра-мзяра</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">мъзяра-мъзяра</st>
+       <st Contlex="ADV_">мъзяра-мъзяра</st>
      </stg>
    </lg>
      <sources>
@@ -16053,8 +16044,7 @@
    <lg>
      <l pos="Adv">мзярда аф мзярда</l>
      <stg>
-       <st Contlex="ADV_">мзярда аф мзярда</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">мъзярда аф мъзярда</st>
+       <st Contlex="ADV_">мъзярда аф мъзярда</st>
      </stg>
    </lg>
      <sources>
@@ -16096,8 +16086,7 @@
    <lg>
      <l pos="Adv">мзярда-мзярда</l>
      <stg>
-       <st Contlex="ADV_">мзярда-мзярда</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">мъзярда-мъзярда</st>
+       <st Contlex="ADV_">мъзярда-мъзярда</st>
      </stg>
    </lg>
      <sources>
@@ -16115,7 +16104,7 @@
    <lg>
      <l pos="Adv">мзярдовок</l>
      <stg>
-       <st Contlex="ADV_">мзярдовок</st>
+       <st Contlex="ADV_">мъзярдовок</st>
      </stg>
    </lg>
      <sources>
@@ -16135,7 +16124,7 @@
    <lg>
      <l pos="Adv">мзярдонга</l>
      <stg>
-       <st Contlex="ADV_">мзярдонга</st>
+       <st Contlex="ADV_">мъзярдонга</st>
      </stg>
    </lg>
      <sources>
@@ -16158,7 +16147,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="ADV-INTERR-ITER">мзярксть</st>
+       <st Contlex="ADV-INTERR-ITER">мъзярксть</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -16180,8 +16169,7 @@
    <lg>
      <l pos="Adv">мзярксть аф мзярксть</l>
      <stg>
-       <st Contlex="ADV_">мзярксть аф мзярксть</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">мъзярксть аф мъзярксть</st>
+       <st Contlex="ADV_">мъзярксть аф мъзярксть</st>
      </stg>
    </lg>
      <sources>
@@ -16199,8 +16187,7 @@
    <lg>
      <l pos="Adv">мзярксть-мзярксть</l>
      <stg>
-       <st Contlex="ADV_">мзярксть-мзярксть</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">мъзярксть-мъзярксть</st>
+       <st Contlex="ADV_">мъзярксть-мъзярксть</st>
      </stg>
    </lg>
      <sources>
@@ -16218,7 +16205,7 @@
    <lg>
      <l pos="Adv">мзярняс</l>
      <stg>
-       <st Contlex="ADV_">мзярняс</st>
+       <st Contlex="ADV_">мъзярняс</st>
      </stg>
    </lg>
      <sources>
@@ -16239,9 +16226,26 @@
 </e>
 <e>
    <lg>
+     <l pos="Adv">мзяровок</l>
+     <stg>
+       <st Contlex="ADV_">мъзяровок</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin"> <t>jonkin verran</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="Adv">мзярода</l>
      <stg>
-       <st Contlex="ADV_">мзярода</st>
+       <st Contlex="ADV_">мъзярода</st>
      </stg>
    </lg>
      <sources>
@@ -16262,7 +16266,7 @@
    <lg>
      <l pos="Adv">мзяронза</l>
      <stg>
-       <st Contlex="ADV_">мзяронза</st>
+       <st Contlex="ADV_">мъзяронза</st>
      </stg>
    </lg>
      <sources>
@@ -16305,8 +16309,7 @@
    <lg>
      <l pos="Adv">мзярошка аф мзярошка</l>
      <stg>
-       <st Contlex="ADV_">мзярошка аф мзярошка</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">мъзярошка аф мъзярошка</st>
+       <st Contlex="ADV_">мъзярошка аф мъзярошка</st>
      </stg>
    </lg>
      <sources>
@@ -16325,8 +16328,7 @@
    <lg>
      <l pos="Adv">мзярошка-мзярошка</l>
      <stg>
-       <st Contlex="ADV_">мзярошка-мзярошка</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">мъзярошка-мъзярошка</st>
+       <st Contlex="ADV_">мъзярошка-мъзярошка</st>
      </stg>
    </lg>
      <sources>
@@ -16345,7 +16347,7 @@
    <lg>
      <l pos="Adv">мзярошкавок</l>
      <stg>
-       <st Contlex="ADV_">мзярошкавок</st>
+       <st Contlex="ADV_">мъзярошкавок</st>
      </stg>
    </lg>
      <sources>
@@ -16364,7 +16366,7 @@
    <lg>
      <l pos="Adv">мзярошкада</l>
      <stg>
-       <st Contlex="ADV_">мзярошкада</st>
+       <st Contlex="ADV_">мъзярошкада</st>
      </stg>
    </lg>
      <sources>
@@ -16382,7 +16384,7 @@
    <lg>
      <l pos="Adv">мзярошканза</l>
      <stg>
-       <st Contlex="ADV_">мзярошканза</st>
+       <st Contlex="ADV_">мъзярошканза</st>
      </stg>
    </lg>
      <sources>
@@ -16401,7 +16403,7 @@
    <lg>
      <l pos="Adv">мзярошкас</l>
      <stg>
-       <st Contlex="ADV_">мзярошкас</st>
+       <st Contlex="ADV_">мъзярошкас</st>
      </stg>
    </lg>
      <sources>
@@ -16419,7 +16421,7 @@
    <lg>
      <l pos="Adv">мзярс</l>
      <stg>
-       <st Contlex="ADV_">мзярс</st>
+       <st Contlex="ADV_">мъзярс</st>
      </stg>
    </lg>
      <sources>
@@ -16439,7 +16441,7 @@
    <lg>
      <l pos="Adv">мзярс аф мзярс</l>
      <stg>
-       <st Contlex="ADV_">мзярс аф мзярс</st>
+       <st Contlex="ADV_">мъзярс аф мъзярс</st>
        <st Contlex="ADV_" status="Use/SpellNoSugg">мъзярс аф мъзярс</st>
      </stg>
    </lg>
@@ -16459,8 +16461,7 @@
    <lg>
      <l pos="Adv">мзярс-мзярс</l>
      <stg>
-       <st Contlex="ADV_">мзярс-мзярс</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">мъзярс-мъзярс</st>
+       <st Contlex="ADV_">мъзярс-мъзярс</st>
      </stg>
    </lg>
      <sources>
@@ -16479,7 +16480,7 @@
    <lg>
      <l pos="Adv">мзярска</l>
      <stg>
-       <st Contlex="ADV_">мзярска</st>
+       <st Contlex="ADV_">мъзярска</st>
      </stg>
    </lg>
      <sources>
@@ -16753,13 +16754,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="Pron">milloin</t>
-       <t pos="Pron">koska</t>
-       <t pos="Pron">mihin aikaan</t>
-     </tg>
-     <tg xml:lang="fra">
-       <t pos="Pron">quand</t>
+     <tg xml:lang="xyz">
      </tg>
      <defNative/>
    </mg>
@@ -16776,8 +16771,7 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin">
-       <t pos="Pron">joskus</t>
+     <tg xml:lang="xyz">
      </tg>
      <defNative/>
    </mg>

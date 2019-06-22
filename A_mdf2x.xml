@@ -8387,7 +8387,7 @@
      <xg>
        <x>васенцесь</x> <phonet>vaśəńćəś</phonet>
        <xt xml:lang="fin">ensinnä(kin)</xt>
-       <xt>ensiksi(kin)</xt>
+       <xt xml:lang="fin">ensiksi(kin)</xt>
      </xg>
      <xg>
        <x>васенце маень ши</x> <phonet>vaśəńćə majəń ši</phonet>
@@ -8396,7 +8396,7 @@
      <xg>
        <x>васенцекс</x> <phonet>vaśəńćəks</phonet>
        <xt xml:lang="fin">aluksi</xt>
-       <xt>ensiksi, ensinnä; ennakko-, alku- esikoinen</xt>
+       <xt xml:lang="fin">ensiksi, ensinnä; ennakko-, alku- esikoinen</xt>
      </xg>
      <xg>
        <x>васенцекс буквась</x> <phonet>vaśəńćəks bukvaś</phonet>
@@ -8405,7 +8405,7 @@
      <xg>
        <x>васенцеда</x> <phonet>vaśəńćəda</phonet>
        <xt xml:lang="fin">ensimmäisen kerran</xt>
-       <xt>ensimmäistä kertaa</xt>
+       <xt xml:lang="fin">ensimmäistä kertaa</xt>
      </xg>
    </mg>
 </e>
@@ -37918,7 +37918,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="fin">
-       <t pos="undefined">null</t>
+       <t pos="A">monesko</t>
      </tg>
      <defNative>null</defNative>
    </mg>
