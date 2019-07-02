@@ -408,7 +408,7 @@
    <lg>
      <l pos="Adv">алда</l>
      <stg>
-       <st Contlex="ADV-SPAT_">алда</st>
+       <st Contlex="ADV-ABL">алд%{АО%}</st>
      </stg> <phonet>alda</phonet>
    </lg>
      <sources>
@@ -4701,6 +4701,9 @@
        <t pos="Adv">voimakkaasti</t>
        <t pos="Adv">lujaa</t>
        <t pos="Adv">kovaa</t>
+       <t pos="A">kovasti</t>
+       <t pos="A">lujasti</t>
+       <t pos="A">nopeasti</t>
      </tg>
      <defNative/>
      <xg>
@@ -7878,7 +7881,7 @@
    <lg>
      <l pos="Adv">ирецта</l>
      <stg>
-       <st Contlex="ADV_">ирецта</st>
+       <st Contlex="ADV-ELA">ирецт%{АО%}</st>
      </stg> <phonet>iŕəcta</phonet>
    </lg>
      <sources>
@@ -16236,7 +16239,8 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="fin"> <t>jonkin verran</t>
+     <tg xml:lang="fin">
+       <t>jonkin verran</t>
      </tg>
      <defNative/>
    </mg>
@@ -16754,8 +16758,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="xyz">
-     </tg>
      <defNative/>
    </mg>
 </e>
@@ -16771,8 +16773,6 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="xyz">
-     </tg>
      <defNative/>
    </mg>
 </e>
