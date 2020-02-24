@@ -131637,7 +131637,7 @@
    <lg>
      <l pos="N">сюна</l>
      <stg>
-       <st Contlex="N_AVA">сюна</st>
+       <st Contlex="N_PULA">сюн%{АО%}</st>
      </stg>
    </lg>
      <sources>
@@ -141864,7 +141864,7 @@
    <lg>
      <l pos="N">тума</l>
      <stg>
-       <st Contlex="N_AVA">тума</st>
+       <st Contlex="N_PULA">тум%{АО%}</st>
      </stg> <phonet>tuma.</phonet>
    </lg>
      <sources>
@@ -169726,7 +169726,7 @@
    <lg>
      <l pos="N">эска</l>
      <stg>
-       <st Contlex="N_AVA">эска</st>
+       <st Contlex="N_PULA">эск%{АО%}</st>
      </stg> <phonet>äska</phonet>
    </lg>
      <sources>
