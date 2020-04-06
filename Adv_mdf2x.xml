@@ -321,7 +321,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="ADV-SPAT_">ала</st>
+       <st Contlex="ADV-LOC_">ала</st>
      </stg> <compg> </compg>
    </lg>
      <sources>
@@ -383,7 +383,7 @@
    <lg>
      <l pos="Adv">алга</l>
      <stg>
-       <st Contlex="ADV-SPAT_">алга</st>
+       <st Contlex="ADV-PRL_">алга</st>
      </stg> <phonet>alga</phonet>
    </lg>
      <sources>
@@ -431,7 +431,7 @@
    <lg>
      <l pos="Adv">алняста</l>
      <stg>
-       <st Contlex="ADV_">алняста</st>
+       <st Contlex="ADV-ELA_">алняста</st>
      </stg>
    </lg>
      <sources>
@@ -5146,7 +5146,7 @@
    <lg>
      <l pos="Adv">вярде</l>
      <stg>
-       <st Contlex="ADV_">вярде</st>
+       <st Contlex="ADV-ABL_">вярде</st>
      </stg> <phonet>väŕďä</phonet>
    </lg>
      <sources>
@@ -5165,7 +5165,7 @@
    <lg>
      <l pos="Adv">вяре</l>
      <stg>
-       <st Contlex="ADV_">вяре</st>
+       <st Contlex="ADV-LOC_">вяре</st>
      </stg> <phonet>väŕä</phonet>
    </lg>
      <sources>
@@ -5188,7 +5188,7 @@
    <lg>
      <l pos="Adv">вяри</l>
      <stg>
-       <st Contlex="ADV_">вяри</st>
+       <st Contlex="ADV-LAT_">вяри</st>
      </stg> <phonet>väŕi</phonet>
    </lg>
      <sources>
@@ -5245,7 +5245,7 @@
    <lg>
      <l pos="Adv">вярьгак</l>
      <stg>
-       <st Contlex="ADV_">вярьгак</st>
+       <st Contlex="ADV-LOC_">вярьгак</st>
      </stg> <phonet>väŕgak</phonet>
    </lg>
      <sources>
@@ -5276,7 +5276,7 @@
    <lg>
      <l pos="Adv">вярьге</l>
      <stg>
-       <st Contlex="ADV_">вярьге</st>
+       <st Contlex="ADV-PRL_">вярьге</st>
      </stg> <phonet>väŕgä</phonet>
    </lg>
      <sources>
@@ -6352,7 +6352,7 @@
    <lg>
      <l pos="Adv">дойн</l>
      <stg>
-       <st Contlex="ADV_">дойн</st>
+       <st Contlex="ADV-DEG_">дойн</st>
      </stg>
    </lg>
      <sources>
@@ -6579,7 +6579,7 @@
    <lg>
      <l pos="Adv">дурна</l>
      <stg>
-       <st Contlex="ADV_">дурна</st>
+       <st Contlex="ADV-DEG_">дурна</st>
      </stg>
    </lg>
      <sources>
@@ -8948,7 +8948,7 @@
    <lg>
      <l pos="Adv">кати-мзярда</l>
      <stg>
-       <st Contlex="ADV_">кати-мъзярда</st>
+       <st Contlex="ADV-TEMP_">кати-мъзярда</st>
      </stg>
    </lg>
      <sources>
@@ -10408,7 +10408,7 @@
    <lg>
      <l pos="Adv" type="Degree">клёк</l>
      <stg>
-       <st Contlex="Ad-A_">клёк</st>
+       <st Contlex="ADV-DEG_">клёк</st>
      </stg> <phonet>kľok</phonet>
    </lg>
      <sources>
@@ -10981,7 +10981,7 @@
    <lg>
      <l pos="Adv">кой-мзярда</l>
      <stg>
-       <st Contlex="ADV_">кой-мъзярда</st>
+       <st Contlex="ADV-TEMP_">кой-мъзярда</st>
      </stg>
    </lg>
      <sources>
@@ -14051,7 +14051,7 @@
      <etymology>
      </etymology>
      <stg>
-       <st Contlex="ADV-ELA">лангста</st>
+       <st Contlex="ADV-ELA_">лангста</st>
      </stg> <compg> </compg> <phonet>laŋksta</phonet>
    </lg>
      <sources>
@@ -14906,7 +14906,7 @@
    <lg>
      <l pos="Adv">люнь</l>
      <stg>
-       <st Contlex="ADV_">люнь</st>
+       <st Contlex="ADV-DEG_">люнь</st>
      </stg>
    </lg>
      <sources>
@@ -15455,7 +15455,7 @@
    <lg>
      <l pos="Adv">марса</l>
      <stg>
-       <st Contlex="ADV-INE_">марс%{АО%}</st>
+       <st Contlex="ADV_">марс%{АО%}</st>
      </stg> <phonet>marsa</phonet>
    </lg>
      <sources>
@@ -16465,7 +16465,7 @@
    <lg>
      <l pos="Adv">мзярда-бди</l>
      <stg>
-       <st Contlex="ADV_">мъзярда-бъди</st>
+       <st Contlex="ADV-TEMP_">мъзярда-бъди</st>
      </stg>
    </lg>
      <sources>
@@ -16480,7 +16480,7 @@
    <lg>
      <l pos="Adv">мзярда-мзярда</l>
      <stg>
-       <st Contlex="ADV_">мъзярда-мъзярда</st>
+       <st Contlex="ADV-TEMP_">мъзярда-мъзярда</st>
      </stg>
    </lg>
      <sources>
@@ -16498,7 +16498,7 @@
    <lg>
      <l pos="Adv">мзярдовок</l>
      <stg>
-       <st Contlex="ADV_">мъзярдовок</st>
+       <st Contlex="ADV-TEMP_">мъзярдовок</st>
      </stg>
    </lg>
      <sources>
@@ -22156,7 +22156,7 @@
    <lg>
      <l pos="Adv">пяк</l>
      <stg>
-       <st Contlex="Ad-A_">пяк</st>
+       <st Contlex="ADV-DEG_">пяк</st>
      </stg> <phonet>päk</phonet>
    </lg>
      <sources>
@@ -25082,7 +25082,6 @@
      <l pos="Adv">скареня</l>
      <stg>
        <st Contlex="ADV_">скареня</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">съкареня</st>
      </stg>
    </lg>
      <sources>
@@ -25101,7 +25100,6 @@
      <l pos="Adv">склень</l>
      <stg>
        <st Contlex="ADV_">склень</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">съклень</st>
      </stg>
    </lg>
      <sources>
@@ -25121,7 +25119,6 @@
      <l pos="Adv">склянь</l>
      <stg>
        <st Contlex="ADV_">склянь</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">съклянь</st>
      </stg>
    </lg>
      <sources>
@@ -25141,7 +25138,6 @@
      <l pos="Adv">скназь</l>
      <stg>
        <st Contlex="ADV_">скназь</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">съкназь</st>
      </stg>
    </lg>
      <sources>
@@ -25161,7 +25157,6 @@
      <l pos="Adv">скопом</l>
      <stg>
        <st Contlex="ADV_">скопом</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">съкопом</st>
      </stg>
    </lg>
      <sources>
@@ -25181,7 +25176,6 @@
      <l pos="Adv">скорей</l>
      <stg>
        <st Contlex="ADV_">скорей</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">съкорей</st>
      </stg>
    </lg>
      <sources>
@@ -25201,7 +25195,6 @@
      <l pos="Adv">скосых</l>
      <stg>
        <st Contlex="ADV_">скосых</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">съкосых</st>
      </stg>
    </lg>
      <sources>
@@ -25222,7 +25215,6 @@
      <l pos="Adv">скрось</l>
      <stg>
        <st Contlex="ADV_">скрось</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">съкрось</st>
      </stg>
    </lg>
      <sources>
@@ -25247,7 +25239,6 @@
      <l pos="Adv">скучна</l>
      <stg>
        <st Contlex="ADV_">скучна</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">съкучна</st>
      </stg>
    </lg>
      <sources>
@@ -25507,7 +25498,7 @@
    <lg>
      <l pos="Adv">снярда</l>
      <stg>
-       <st Contlex="ADV_">сънярда</st>
+       <st Contlex="ADV-TEMP_">сънярда</st>
      </stg> <phonet>śəńarda</phonet>
    </lg>
      <sources>
@@ -25780,7 +25771,6 @@
      <l pos="Adv">специальна</l>
      <stg>
        <st Contlex="ADV_">специальна</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">съпециальна</st>
      </stg>
    </lg>
      <sources>
@@ -25801,7 +25791,6 @@
      <l pos="Adv">спокойна</l>
      <stg>
        <st Contlex="ADV_">спокойна</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">съпокойна</st>
      </stg>
    </lg>
      <sources>
@@ -25822,7 +25811,6 @@
      <l pos="Adv">спокойна-спокойна</l>
      <stg>
        <st Contlex="ADV_">спокойна-спокойна</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">съпокойна-спокойна</st>
      </stg>
    </lg>
      <sources>
@@ -25843,7 +25831,6 @@
      <l pos="Adv">спорезь</l>
      <stg>
        <st Contlex="ADV_">спорезь</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">съпорезь</st>
      </stg>
    </lg>
      <sources>
@@ -25863,7 +25850,6 @@
      <l pos="Adv">справедливайста</l>
      <stg>
        <st Contlex="ADV_">справедливайста</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">съправедливайста</st>
      </stg>
    </lg>
      <sources>
@@ -25946,7 +25932,6 @@
      <l pos="Adv">стадонга</l>
      <stg>
        <st Contlex="ADV_">стадонга</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътадонга</st>
      </stg> <phonet>stadəŋga</phonet>
    </lg>
      <sources>
@@ -25970,7 +25955,6 @@
      <l pos="Adv">стак</l>
      <stg>
        <st Contlex="ADV_">стак</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътак</st>
      </stg> <phonet>stak</phonet>
    </lg>
      <sources>
@@ -26004,7 +25988,6 @@
      <l pos="Adv">стакаста</l>
      <stg>
        <st Contlex="ADV_">стакаста</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътакаста</st>
      </stg> <phonet>stakasta</phonet>
    </lg>
      <sources>
@@ -26024,7 +26007,6 @@
      <l pos="Adv">стакащемда</l>
      <stg>
        <st Contlex="ADV_">стакащемда</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътакащемда</st>
      </stg> <phonet>stakaščəmda</phonet>
    </lg>
      <sources>
@@ -26044,7 +26026,6 @@
      <l pos="Adv">стаки</l>
      <stg>
        <st Contlex="ADV_">стаки</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътаки</st>
      </stg> <phonet>staki</phonet>
    </lg>
      <sources>
@@ -26070,7 +26051,6 @@
      <l pos="Adv">стане</l>
      <stg>
        <st Contlex="ADV_">стане</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътане</st>
      </stg> <phonet>stańä</phonet>
    </lg>
      <sources>
@@ -26093,7 +26073,6 @@
      <l pos="Adv">станя-станя</l>
      <stg>
        <st Contlex="ADV_">станя-станя</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътаня-станя</st>
      </stg>
    </lg>
      <sources>
@@ -26112,7 +26091,6 @@
      <l pos="Adv">станявок</l>
      <stg>
        <st Contlex="ADV_">станявок</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътанявок</st>
      </stg>
    </lg>
      <sources>
@@ -26132,7 +26110,6 @@
      <l pos="Adv">станяк</l>
      <stg>
        <st Contlex="ADV_">станяк</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътаняк</st>
      </stg>
    </lg>
      <sources>
@@ -26151,7 +26128,6 @@
      <l pos="Adv">старандазь</l>
      <stg>
        <st Contlex="ADV_">старандазь</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътарандазь</st>
      </stg>
    </lg>
      <sources>
@@ -26173,7 +26149,6 @@
      <l pos="Adv">стерильна</l>
      <stg>
        <st Contlex="ADV_">стерильна</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътерильна</st>
      </stg>
    </lg>
      <sources>
@@ -26194,7 +26169,6 @@
      <l pos="Adv">стирьпряса</l>
      <stg>
        <st Contlex="ADV_">стирьпряса</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътирьпряса</st>
      </stg>
    </lg>
      <sources>
@@ -26214,7 +26188,6 @@
      <l pos="Adv">стойкаста</l>
      <stg>
        <st Contlex="ADV_">стойкаста</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътойкаста</st>
      </stg>
    </lg>
      <sources>
@@ -26235,8 +26208,7 @@
    <lg>
      <l pos="Adv">страх</l>
      <stg>
-       <st Contlex="ADV_">страх</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътрах</st>
+       <st Contlex="ADV-DEG_">страх</st>
      </stg>
    </lg>
      <sources>
@@ -26260,7 +26232,6 @@
      <l pos="Adv">страшна</l>
      <stg>
        <st Contlex="ADV_">страшна</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътрашна</st>
      </stg>
    </lg>
      <sources>
@@ -26281,7 +26252,6 @@
      <l pos="Adv">строгайста</l>
      <stg>
        <st Contlex="ADV_">строгайста</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътрогайста</st>
      </stg>
    </lg>
      <sources>
@@ -26303,7 +26273,6 @@
      <l pos="Adv">стяда</l>
      <stg>
        <st Contlex="ADV_">стяда</st>
-       <st Contlex="ADV_" status="Use/SpellNoSugg">сътяда</st>
      </stg>
    </lg>
      <sources>
@@ -27033,7 +27002,7 @@
    <lg>
      <l pos="Adv">сяльде</l>
      <stg>
-       <st Contlex="ADV_">сяльде</st>
+       <st Contlex="ADV-TEMP_">сяльде</st>
      </stg> <phonet>śäľďä</phonet>
    </lg>
      <sources>
@@ -27052,7 +27021,7 @@
    <lg>
      <l pos="Adv">сямольде</l>
      <stg>
-       <st Contlex="ADV_">сямольде</st>
+       <st Contlex="ADV-TEMP_">сямольде</st>
      </stg> <phonet>śaməľďä</phonet>
    </lg>
      <sources>
@@ -29106,7 +29075,7 @@
    <lg>
      <l pos="Adv">тоса</l>
      <stg>
-       <st Contlex="ADV_">тоса</st>
+       <st Contlex="ADV-INE_">тоса</st>
      </stg> <phonet>tosa</phonet>
    </lg>
      <sources>
@@ -29142,7 +29111,7 @@
    <lg>
      <l pos="Adv">тосонга</l>
      <stg>
-       <st Contlex="ADV_">тосонга</st>
+       <st Contlex="ADV-INE_">тосонга</st>
      </stg>
    </lg>
      <sources>
@@ -29682,7 +29651,7 @@
    <lg>
      <l pos="Adv">турна</l>
      <stg>
-       <st Contlex="ADV_">турна</st>
+       <st Contlex="ADV-DEG_">турна</st>
      </stg>
    </lg>
      <sources>
@@ -30066,7 +30035,7 @@
    <lg>
      <l pos="Adv" type="mwe">тяльмоса</l>
      <stg>
-       <st Contlex="ADV_">тяльмоса</st>
+       <st Contlex="ADV-INE_">тяльмоса</st>
      </stg> <phonet>ťäľməsa</phonet>
        <l_ref>тяльме</l_ref>
    </lg>
@@ -30257,7 +30226,7 @@
    <lg>
      <l pos="Adv">тяса</l>
      <stg>
-       <st Contlex="ADV_">тяса</st>
+       <st Contlex="ADV-INE_">тяса</st>
      </stg>
    </lg>
      <sources>
@@ -30865,7 +30834,7 @@
    <lg>
      <l pos="Adv" type="mwe">ужеса</l>
      <stg>
-       <st Contlex="ADV_">ужеса</st>
+       <st Contlex="ADV-INE_">ужеса</st>
      </stg> <phonet>užəsa</phonet>
        <l_ref>ужа</l_ref>
    </lg>
@@ -31086,7 +31055,7 @@
    <lg>
      <l pos="Adv" type="mwe">урокса</l>
      <stg>
-       <st Contlex="ADV_">урокса</st>
+       <st Contlex="ADV-INE_">урокса</st>
      </stg> <phonet>uroksa</phonet>
        <l_ref>урок</l_ref>
    </lg>
@@ -31274,7 +31243,7 @@
    <lg>
      <l pos="Adv" type="mwe">ушеса</l>
      <stg>
-       <st Contlex="ADV_">ушеса</st>
+       <st Contlex="ADV-INE_">ушеса</st>
      </stg> <phonet>ušəsa</phonet>
        <l_ref>уша</l_ref>
    </lg>
@@ -31292,7 +31261,7 @@
    <lg>
      <l pos="Adv">ушоса</l>
      <stg>
-       <st Contlex="ADV_">ушоса</st>
+       <st Contlex="ADV-INE_">ушоса</st>
      </stg>
    </lg>
      <sources>
@@ -31466,7 +31435,7 @@
    <lg>
      <l pos="Adv">фастса</l>
      <stg>
-       <st Contlex="ADV_">фастса</st>
+       <st Contlex="ADV-INE_">фастса</st>
      </stg>
    </lg>
      <sources>
@@ -32648,7 +32617,7 @@
    <lg>
      <l pos="Adv">шаба пряса</l>
      <stg>
-       <st Contlex="ADV_">шаба пряса</st>
+       <st Contlex="ADV-TEMP_">шаба пряса</st>
      </stg>
    </lg>
      <sources>
@@ -33122,7 +33091,7 @@
    <lg>
      <l pos="Adv">ширеса</l>
      <stg>
-       <st Contlex="ADV_">ширеса</st>
+       <st Contlex="ADV-INE_">ширеса</st>
      </stg>
    </lg>
      <sources>
@@ -34475,7 +34444,7 @@
    <lg>
      <l pos="Adv" type="Degree">эй</l>
      <stg>
-       <st Contlex="Ad-A_">эй</st>
+       <st Contlex="ADV-DEG_">эй</st>
      </stg> <phonet>ej</phonet>
    </lg>
      <sources>
