@@ -2359,7 +2359,7 @@
    <lg>
      <l pos="N">акша</l>
      <stg>
-       <st Contlex="N_MOKSHA">акш%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">акш%{АЕØ%}</st>
      </stg> <phonet>akša</phonet>
    </lg>
      <sources>
@@ -2699,7 +2699,7 @@
    <lg>
      <l pos="N">акшет</l>
      <stg>
-       <st Contlex="N_OFTA-PL">акш%{АЕ%}</st>
+       <st Contlex="N_MOKSHA-PL">акш%{АЕØ%}</st>
      </stg> <phonet>akšət</phonet>
    </lg>
      <sources>
@@ -2911,7 +2911,7 @@
    <lg>
      <l pos="N">алакша</l>
      <stg>
-       <st Contlex="N_MOKSHA">алакш%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">алакш%{АЕØ%}</st>
      </stg> <phonet>alakša</phonet>
    </lg>
      <sources>
@@ -15096,7 +15096,7 @@
    <lg>
      <l pos="N">валъёжа</l>
      <stg>
-       <st Contlex="N_PULA">валъ#ёж%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">валъ#ёж%{АЕØ%}</st>
      </stg> <phonet>valjoža</phonet>
    </lg>
      <sources>
@@ -17381,7 +17381,7 @@
    <lg>
      <l pos="N">ваша</l>
      <stg>
-       <st Contlex="N_MOKSHA">ваш%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">ваш%{АЕØ%}</st>
      </stg> <phonet>vaša</phonet>
    </lg>
      <sources>
@@ -17399,7 +17399,7 @@
    <lg>
      <l pos="N" hid="Hom1">ваша</l>
      <stg>
-       <st Contlex="N_MOKSHA">ваш%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">ваш%{АЕØ%}</st>
      </stg> <phonet>vaša</phonet>
    </lg>
      <sources>
@@ -17417,7 +17417,7 @@
    <lg>
      <l pos="N" hid="Hom2">ваша</l>
      <stg>
-       <st Contlex="N_MOKSHA">ваш%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">ваш%{АЕØ%}</st>
      </stg> <phonet>vaša</phonet>
    </lg>
      <sources>
@@ -44821,7 +44821,7 @@
    <lg>
      <l pos="N">кархча</l>
      <stg>
-       <st Contlex="N_MOKSHA">кархча%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">кархч%{АЕØ%}</st>
      </stg> <phonet>karxča</phonet>
    </lg>
      <sources>
@@ -44863,7 +44863,7 @@
    <lg>
      <l pos="N">кархчне</l>
      <stg>
-       <st Contlex="N_MOKSHA">кархч%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">кархч%{АЕØ%}</st>
      </stg> <phonet>karxčńä</phonet>
    </lg>
      <sources>
@@ -48536,7 +48536,7 @@
    <lg>
      <l pos="N">кеньжа</l>
      <stg>
-       <st Contlex="N_MOKSHA">кеньж%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">кеньж%{АЕØ%}</st>
      </stg>
    </lg>
      <sources>
@@ -59700,7 +59700,7 @@
    <lg>
      <l pos="N">кужа</l>
      <stg>
-       <st Contlex="N_PULA">куж%{АЕ%}</st>
+       <st Contlex="N_PULA">куж%{АЕØ%}</st>
      </stg> <phonet>kuža</phonet>
    </lg>
      <sources>
@@ -63712,7 +63712,7 @@
    <lg>
      <l pos="N">кядьёжа</l>
      <stg>
-       <st Contlex="N_MOKSHA">кядь#ёж%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">кядь#ёж%{АЕØ%}</st>
      </stg> <phonet>käďjoža</phonet>
    </lg>
      <sources>
@@ -67004,7 +67004,7 @@
    <lg>
      <l pos="N">лача</l>
      <stg>
-       <st Contlex="N_MOKSHA">лач%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">лач%{АЕØ%}</st>
      </stg>
    </lg>
      <sources>
@@ -69884,7 +69884,7 @@
    <lg>
      <l pos="N">локша</l>
      <stg>
-       <st Contlex="N_MOKSHA">локш%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">локш%{АЕØ%}</st>
      </stg> <phonet>lokša</phonet>
    </lg>
      <sources>
@@ -72198,7 +72198,7 @@
    <lg>
      <l pos="N">лёкша</l>
      <stg>
-       <st Contlex="N_MOKSHA">лёкш%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">лёкш%{АЕØ%}</st>
      </stg>
    </lg>
      <sources>
@@ -73173,7 +73173,7 @@
    <lg>
      <l pos="N">макша</l>
      <stg>
-       <st Contlex="N_MOKSHA">макш%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">макш%{АЕØ%}</st>
      </stg> <phonet>makša</phonet>
    </lg>
      <sources>
@@ -78549,7 +78549,7 @@
    <lg>
      <l pos="N">мокша</l>
      <stg>
-       <st Contlex="N_MOKSHA">мокш%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">мокш%{АЕØ%}</st>
      </stg> <phonet>mokša</phonet>
    </lg>
      <sources>
@@ -98145,7 +98145,7 @@
    <lg>
      <l pos="N">пильгопукша</l>
      <stg>
-       <st Contlex="N_MOKSHA">пильго#пукш%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">пильго#пукш%{АЕØ%}</st>
      </stg> <phonet>piľgəpukša</phonet>
    </lg>
      <sources>
@@ -98824,7 +98824,7 @@
    <lg>
      <l pos="N">пиненьгча</l>
      <stg>
-       <st Contlex="N_MOKSHA">пинень#гъч%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">пинень#гъч%{АЕØ%}</st>
      </stg> <phonet>pińəńgəča</phonet>
    </lg>
      <sources>
@@ -103510,7 +103510,7 @@
    <lg>
      <l pos="N">поча</l>
      <stg>
-       <st Contlex="N_MOKSHA">поч%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">поч%{АЕØ%}</st>
      </stg>
    </lg>
      <sources>
@@ -108457,7 +108457,7 @@
    <lg>
      <l pos="N">пукша</l>
      <stg>
-       <st Contlex="N_MOKSHA">пукш%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">пукш%{АЕØ%}</st>
      </stg> <phonet>pukša</phonet>
    </lg>
      <sources>
@@ -120532,7 +120532,7 @@
    <lg>
      <l pos="N">сельмакша</l>
      <stg>
-       <st Contlex="N_MOKSHA">сельмакш%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">сельмакш%{АЕØ%}</st>
      </stg> <phonet>śeľmakša</phonet>
    </lg>
      <sources>
@@ -121095,7 +121095,7 @@
    <lg>
      <l pos="N">сельмужа</l>
      <stg>
-       <st Contlex="N_MOKSHA">сельмуж%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">сельмуж%{АЕØ%}</st>
      </stg> <phonet>śeľmuža</phonet>
    </lg>
      <sources>
@@ -146183,7 +146183,7 @@
    <lg>
      <l pos="N">ужа</l>
      <stg>
-       <st Contlex="N_MOKSHA">уж%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">уж%{АЕØ%}</st>
      </stg> <phonet>uža</phonet>
    </lg>
      <sources>
@@ -147427,7 +147427,7 @@
    <lg>
      <l pos="N">унжа</l>
      <stg>
-       <st Contlex="N_MOKSHA">унжа%{АЕ%}</st>
+       <st Contlex="N_AVA">унжа</st>
      </stg> <phonet>unža, ińǯa</phonet>
    </lg>
      <sources>
@@ -149529,7 +149529,7 @@
    <lg>
      <l pos="N">уша</l>
      <stg>
-       <st Contlex="N_MOKSHA">уш%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">уш%{АЕØ%}</st>
      </stg> <phonet>uša</phonet>
    </lg>
      <sources>
@@ -160460,7 +160460,7 @@
    <lg>
      <l pos="N">шаржа</l>
      <stg>
-       <st Contlex="N_MOKSHA">шарж%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">шарж%{АЕØ%}</st>
      </stg> <phonet>šarža, šarǯa</phonet>
    </lg>
      <sources>
@@ -162978,7 +162978,7 @@
    <lg>
      <l pos="N">шкайужа</l>
      <stg>
-       <st Contlex="N_MOKSHA">шкай#уж%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">шкай#уж%{АЕØ%}</st>
      </stg> <phonet>škajuža</phonet>
    </lg>
      <sources>
@@ -173036,7 +173036,7 @@
    <lg>
      <l pos="N">ёжа</l>
      <stg>
-       <st Contlex="N_MOKSHA">ёж%{АЕ%}</st>
+       <st Contlex="N_MOKSHA">ёж%{АЕØ%}</st>
      </stg> <phonet>joža, jož</phonet>
    </lg>
      <sources>

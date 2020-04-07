@@ -1673,7 +1673,7 @@
    <lg>
      <l pos="A">акша</l>
      <stg>
-       <st Contlex="A_MOKSHA">акш%{АЕ%}</st>
+       <st Contlex="A_MOKSHA">акш%{АЕØ%}</st>
      </stg> <phonet>akša</phonet>
    </lg>
      <sources>
@@ -8811,7 +8811,7 @@
    <lg>
      <l pos="A">вача</l>
      <stg>
-       <st Contlex="A_MOKSHA">вач%{АЕ%}</st>
+       <st Contlex="A_MOKSHA">вач%{АЕØ%}</st>
      </stg> <phonet>vača</phonet>
    </lg>
      <sources>
@@ -38360,7 +38360,7 @@
    <lg>
      <l pos="A">мокша</l>
      <stg>
-       <st Contlex="A_MOKSHA">мокш%{АЕ%}</st>
+       <st Contlex="A_MOKSHA">мокш%{АЕØ%}</st>
      </stg>
    </lg>
      <sources>
@@ -54743,7 +54743,7 @@
    <lg>
      <l pos="A">равжа</l>
      <stg>
-       <st Contlex="A_MOKSHA">равж%{АЕ%}</st>
+       <st Contlex="A_MOKSHA">равж%{АЕØ%}</st>
      </stg> <phonet>ravža</phonet>
    </lg>
      <sources>
