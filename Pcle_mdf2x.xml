@@ -106,7 +106,7 @@
    <lg>
      <l pos="Pcle">афи</l>
      <stg>
-       <st Contlex="PCLE_">афи</st>
+       <st Contlex="PCLE-NEG-CONTRAST">афи</st>
      </stg> <phonet>afi</phonet>
    </lg>
      <sources>
